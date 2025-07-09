@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>世界計畫週邊圖鑑&lt;施工中&gt;</title>
+  <style>
+	body {
+	font-family: Arial, sans-serif;
+	padding: 20px;
+	background-image: url(images/background.png);
+        background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center;
+        background-size: cover;
+	}
+
+	label {
+	margin-right: 15px;
+	}
+
+	#imageContainer {
+	margin-top: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 16px;
+	justify-content: center;
+	}
+
+	#imageContainer img {
+	width: 150px;
+	height: auto;
+	box-shadow: 0 0 8px rgba(0,0,0,0.2);
+	}
+
+	.centered {
+    text-align: center;
+    }
+
+	.container {
+	display: flex;
+	justify-content: center; /* 水平置中 */
+	}
+  </style>
+</head>
+<body>
+  <!-- <h1 style="text-align: center;">圖鑑一覽</h1> -->
+  <img src="images/title.png" alt="圖鑑一覽" style="margin: 0 auto; display: block;">
+  <br><br>
+
+  <details class="centered">
+  	<summary>點我展開娃娃日文正式名稱對照</summary>
+  	初販/第一個活動景品娃：モアプラスマスコット<br>
+	其他景品娃：ふわぷちマスコット<br>
+	OC制服/V家團服坐姿娃：モアプラスふわふわぬいぐるみ<br>
+	其他坐姿娃：ふわぷちミニぬいぐるみ<br>
+	一番賞娃：ぷちぬいマスコット<br>
+	趴娃：寝そべりぬいぐるみ<br>
+	蟲娃/小趴娃：もちもちマスコット<br>
+	方糰/方塊娃：モアプラススクエアマスコット<br>
+	大頭別針：モアプラスふわふわマスコットバッジ<br>
+	活動坐姿娃：ふわぷちぬいぐるみM<br>
+	羅森雞娃：なりきり！からあげクンぬいぐるみ<br>
+	L/n菲尼：リプコレ フェニーくん ぬいぐるみ<br>
+	菲尼樂園娃：フェニーくん ぬいぐるみ（フェニックスワンダーランド）<br>
+	三麗鷗角色：サンリオキャラクターズぬいぐるみ<br>
+	線上一番賞：はっぴーこれくしょんくじ<br>
+  </details>
+  <br>
+
+  <a href="https://www.youtube.com/"  style="display: block; text-align: center;">點我前往雲端硬碟</a>
+  <br>
+
+  <div class="container">
+    <label>角色:
+      <select id="characterSelect">
+	    <option value="">不限</option>
+	  </select>
+    </label>
+
+    <label>類別:
+      <select id="categorySelect">
+	    <option value="">不限</option>
+	  </select>
+    </label>
+
+    <button id="searchButton">顯示結果</button>
+  </div>
+  
+
+  <div id="imageContainer"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
