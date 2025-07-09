@@ -54,17 +54,44 @@ function updateImages() {
     img.addEventListener("click", () => {
       window.open(b.full, "_blank");
     });
+    wrapper.appendChild(img);
 
-    const downloadBtn = document.createElement("a");
-    downloadBtn.href = b.full;
-    downloadBtn.download = "";
-    downloadBtn.textContent = "下載PNG";
-    downloadBtn.style.textDecoration = "none";
-    downloadBtn.style.backgroundColor = "#4CAF50";
-    downloadBtn.style.color = "white";
-    downloadBtn.style.padding = "6px 12px";
-    downloadBtn.style.borderRadius = "4px";
-    downloadBtn.style.fontSize = "14px";
+    if (b.warning === 1) {
+
+      const warning = document.createElement("div");
+        warning.textContent = "含南嘉堂合作色紙";
+        warning.style.color = "black";
+        warning.style.fontSize = "14px";
+        warning.style.textAlign = "center";
+        wrapper.appendChild(warning);
+    }else if (b.warning === 2) {
+
+      const warning = document.createElement("div");
+        warning.textContent = "不含南嘉堂合作色紙";
+        warning.style.color = "black";
+        warning.style.fontSize = "14px";
+        warning.style.textAlign = "center";
+        wrapper.appendChild(warning);
+    }else if (b.warning === 3) {
+
+      const warning = document.createElement("div");
+        warning.textContent = "⚠️建議使用副團體版本";
+        warning.style.color = "black";
+        warning.style.fontSize = "14px";
+        warning.style.textAlign = "center";
+        wrapper.appendChild(warning);
+    }
+
+    const downloadPNG = document.createElement("a");
+    downloadPNG.href = b.full;
+    downloadPNG.download = "";
+    downloadPNG.textContent = "下載PNG";
+    downloadPNG.style.textDecoration = "none";
+    downloadPNG.style.backgroundColor = "#4CAF50";
+    downloadPNG.style.color = "white";
+    downloadPNG.style.padding = "6px 12px";
+    downloadPNG.style.borderRadius = "4px";
+    downloadPNG.style.fontSize = "14px";
 
     const downloadWebP = document.createElement("a");
     downloadWebP.href = b.webp;
@@ -77,8 +104,7 @@ function updateImages() {
     downloadWebP.style.borderRadius = "4px";
     downloadWebP.style.fontSize = "14px";
 
-    wrapper.appendChild(img);
-    wrapper.appendChild(downloadBtn);
+    wrapper.appendChild(downloadPNG);
     wrapper.appendChild(downloadWebP);
     container.appendChild(wrapper);
   });

@@ -4,811 +4,927 @@
     "webp": "images/webp/epick/01_ichika.webp",
     "thumbnail": "images/thumbnail/epick/01_ichika.png",
     "character": "星乃一歌",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/01_ichika_sign.png",
     "webp": "images/webp/epick/01_ichika_sign.webp",
     "thumbnail": "images/thumbnail/epick/01_ichika_sign.png",
     "character": "星乃一歌",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/01_ichika.png",
     "webp": "images/webp/shikishi/01_ichika.webp",
     "thumbnail": "images/thumbnail/shikishi/01_ichika.png",
     "character": "星乃一歌",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/01_ichika.png",
     "webp": "images/webp/doll/01_ichika.webp",
     "thumbnail": "images/thumbnail/doll/01_ichika.png",
     "character": "星乃一歌",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/02_saki.png",
     "webp": "images/webp/epick/02_saki.webp",
     "thumbnail": "images/thumbnail/epick/02_saki.png",
     "character": "天馬咲希",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/02_saki_sign.png",
     "webp": "images/webp/epick/02_saki_sign.webp",
     "thumbnail": "images/thumbnail/epick/02_saki_sign.png",
     "character": "天馬咲希",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/02_saki.png",
     "webp": "images/webp/shikishi/02_saki.webp",
     "thumbnail": "images/thumbnail/shikishi/02_saki.png",
     "character": "天馬咲希",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/02_saki.png",
     "webp": "images/webp/doll/02_saki.webp",
     "thumbnail": "images/thumbnail/doll/02_saki.png",
     "character": "天馬咲希",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/03_honami.png",
     "webp": "images/webp/epick/03_honami.webp",
     "thumbnail": "images/thumbnail/epick/03_honami.png",
     "character": "望月穗波",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/03_honami_sign.png",
     "webp": "images/webp/epick/03_honami_sign.webp",
     "thumbnail": "images/thumbnail/epick/03_honami_sign.png",
     "character": "望月穗波",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/03_honami.png",
     "webp": "images/webp/shikishi/03_honami.webp",
     "thumbnail": "images/thumbnail/shikishi/03_honami.png",
     "character": "望月穗波",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/03_honami.png",
     "webp": "images/webp/doll/03_honami.webp",
     "thumbnail": "images/thumbnail/doll/03_honami.png",
     "character": "望月穗波",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/04_shiho.png",
     "webp": "images/webp/epick/04_shiho.webp",
     "thumbnail": "images/thumbnail/epick/04_shiho.png",
     "character": "日野森志步",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/04_shiho_sign.png",
     "webp": "images/webp/epick/04_shiho_sign.webp",
     "thumbnail": "images/thumbnail/epick/04_shiho_sign.png",
     "character": "日野森志步",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/04_shiho.png",
     "webp": "images/webp/epick/04_shiho.webp",
     "thumbnail": "images/thumbnail/shikishi/04_shiho.png",
     "character": "日野森志步",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/04_shiho.png",
     "webp": "images/webp/epick/04_shiho.webp",
     "thumbnail": "images/thumbnail/doll/04_shiho.png",
     "character": "日野森志步",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/05_minori.png",
     "webp": "images/webp/epick/05_minori.webp",
     "thumbnail": "images/thumbnail/epick/05_minori.png",
     "character": "花里實乃理",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/05_minori_sign.png",
     "webp": "images/webp/epick/05_minori_sign.webp",
     "thumbnail": "images/thumbnail/epick/05_minori_sign.png",
     "character": "花里實乃理",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/05_minori.png",
     "webp": "images/webp/epick/05_minori.webp",
     "thumbnail": "images/thumbnail/shikishi/05_minori.png",
     "character": "花里實乃理",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/05_minori.png",
     "webp": "images/webp/epick/05_minori.webp",
     "thumbnail": "images/thumbnail/doll/05_minori.png",
     "character": "花里實乃理",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/06_haruka.png",
     "webp": "images/webp/epick/06_haruka.webp",
     "thumbnail": "images/thumbnail/epick/06_haruka.png",
     "character": "桐谷遙",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/06_haruka_sign.png",
     "webp": "images/webp/epick/06_haruka_sign.webp",
     "thumbnail": "images/thumbnail/epick/06_haruka_sign.png",
     "character": "桐谷遙",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/06_haruka.png",
     "webp": "images/webp/epick/06_haruka.webp",
     "thumbnail": "images/thumbnail/shikishi/06_haruka.png",
     "character": "桐谷遙",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/06_haruka.png",
     "webp": "images/webp/epick/06_haruka.webp",
     "thumbnail": "images/thumbnail/doll/06_haruka.png",
     "character": "桐谷遙",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/07_airi.png",
     "webp": "images/webp/epick/07_airi.webp",
     "thumbnail": "images/thumbnail/epick/07_airi.png",
     "character": "桃井愛莉",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/07_airi_sign.png",
     "webp": "images/webp/epick/07_airi_sign.webp",
     "thumbnail": "images/thumbnail/epick/07_airi_sign.png",
     "character": "桃井愛莉",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/07_airi.png",
     "webp": "images/webp/epick/07_airi.webp",
     "thumbnail": "images/thumbnail/shikishi/07_airi.png",
     "character": "桃井愛莉",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/07_airi.png",
     "webp": "images/webp/epick/07_airi.webp",
     "thumbnail": "images/thumbnail/doll/07_airi.png",
     "character": "桃井愛莉",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/08_shizuku.png",
     "webp": "images/webp/epick/08_shizuku.webp",
     "thumbnail": "images/thumbnail/epick/08_shizuku.png",
     "character": "日野森雫",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/08_shizuku_sign.png",
     "webp": "images/webp/epick/08_shizuku_sign.webp",
     "thumbnail": "images/thumbnail/epick/08_shizuku_sign.png",
     "character": "日野森雫",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/08_shizuku.png",
     "webp": "images/webp/epick/08_shizuku.webp",
     "thumbnail": "images/thumbnail/shikishi/08_shizuku.png",
     "character": "日野森雫",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/08_shizuku.png",
     "webp": "images/webp/epick/08_shizuku.webp",
     "thumbnail": "images/thumbnail/doll/08_shizuku.png",
     "character": "日野森雫",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/09_kohane.png",
     "webp": "images/webp/epick/09_kohane.webp",
     "thumbnail": "images/thumbnail/epick/09_kohane.png",
     "character": "小豆澤心羽",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/09_kohane_sign.png",
     "webp": "images/webp/epick/09_kohane_sign.webp",
     "thumbnail": "images/thumbnail/epick/09_kohane_sign.png",
     "character": "小豆澤心羽",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/09_kohane.png",
     "webp": "images/webp/epick/09_kohane.webp",
     "thumbnail": "images/thumbnail/shikishi/09_kohane.png",
     "character": "小豆澤心羽",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/09_kohane.png",
     "webp": "images/webp/epick/09_kohane.webp",
     "thumbnail": "images/thumbnail/doll/09_kohane.png",
     "character": "小豆澤心羽",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/10_an.png",
     "webp": "images/webp/epick/10_an.webp",
     "thumbnail": "images/thumbnail/epick/10_an.png",
     "character": "白石杏",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/10_an_sign.png",
     "webp": "images/webp/epick/10_an_sign.webp",
     "thumbnail": "images/thumbnail/epick/10_an_sign.png",
     "character": "白石杏",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/10_an.png",
     "webp": "images/webp/epick/10_an.webp",
     "thumbnail": "images/thumbnail/shikishi/10_an.png",
     "character": "白石杏",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/10_an.png",
     "webp": "images/webp/epick/10_an.webp",
     "thumbnail": "images/thumbnail/doll/10_an.png",
     "character": "白石杏",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/11_akito.png",
     "webp": "images/webp/epick/11_akito.webp",
     "thumbnail": "images/thumbnail/epick/11_akito.png",
     "character": "東雲彰人",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/11_akito_sign.png",
     "webp": "images/webp/epick/11_akito_sign.webp",
     "thumbnail": "images/thumbnail/epick/11_akito_sign.png",
     "character": "東雲彰人",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/11_akito.png",
     "webp": "images/webp/epick/11_akito.webp",
     "thumbnail": "images/thumbnail/shikishi/11_akito.png",
     "character": "東雲彰人",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/11_akito.png",
     "webp": "images/webp/epick/11_akito.webp",
     "thumbnail": "images/thumbnail/doll/11_akito.png",
     "character": "東雲彰人",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/12_toya.png",
     "webp": "images/webp/epick/12_toya.webp",
     "thumbnail": "images/thumbnail/epick/12_toya.png",
     "character": "青柳冬彌",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/12_toya_sign.png",
     "webp": "images/webp/epick/12_toya_sign.webp",
     "thumbnail": "images/thumbnail/epick/12_toya_sign.png",
     "character": "青柳冬彌",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/12_toya.png",
     "webp": "images/webp/epick/12_toya.webp",
     "thumbnail": "images/thumbnail/shikishi/12_toya.png",
     "character": "青柳冬彌",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/12_toya.png",
     "webp": "images/webp/epick/12_toya.webp",
     "thumbnail": "images/thumbnail/doll/12_toya.png",
     "character": "青柳冬彌",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/13_tsukasa.png",
     "webp": "images/webp/epick/13_tsukasa.webp",
     "thumbnail": "images/thumbnail/epick/13_tsukasa.png",
     "character": "天馬司",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/13_tsukasa_sign.png",
     "webp": "images/webp/epick/13_tsukasa_sign.webp",
     "thumbnail": "images/thumbnail/epick/13_tsukasa_sign.png",
     "character": "天馬司",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/13_tsukasa.png",
     "webp": "images/webp/epick/13_tsukasa.webp",
     "thumbnail": "images/thumbnail/shikishi/13_tsukasa.png",
     "character": "天馬司",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 1
   },
   {
     "full": "images/shikishi/13_tsukasa_nonam.png",
     "webp": "images/webp/epick/13_tsukasa_nonam.webp",
     "thumbnail": "images/thumbnail/shikishi/13_tsukasa_nonam.png",
     "character": "天馬司",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 2
   },
   {
     "full": "images/doll/13_tsukasa.png",
     "webp": "images/webp/epick/13_tsukasa.webp",
     "thumbnail": "images/thumbnail/doll/13_tsukasa.png",
     "character": "天馬司",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/14_emu.png",
     "webp": "images/webp/epick/14_emu.webp",
     "thumbnail": "images/thumbnail/epick/14_emu.png",
     "character": "鳳笑夢",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/14_emu_sign.png",
     "webp": "images/webp/epick/14_emu_sign.webp",
     "thumbnail": "images/thumbnail/epick/14_emu_sign.png",
     "character": "鳳笑夢",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/14_emu.png",
     "webp": "images/webp/epick/14_emu.webp",
     "thumbnail": "images/thumbnail/shikishi/14_emu.png",
     "character": "鳳笑夢",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 1
   },
   {
     "full": "images/shikishi/14_emu_nonam.png",
     "webp": "images/webp/epick/14_emu_nonam.webp",
     "thumbnail": "images/thumbnail/shikishi/14_emu_nonam.png",
     "character": "鳳笑夢",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 2
   },
   {
     "full": "images/doll/14_emu.png",
     "webp": "images/webp/epick/14_emu.webp",
     "thumbnail": "images/thumbnail/doll/14_emu.png",
     "character": "鳳笑夢",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/15_nene.png",
     "webp": "images/webp/epick/15_nene.webp",
     "thumbnail": "images/thumbnail/epick/15_nene.png",
     "character": "草薙寧寧",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/15_nene_sign.png",
     "webp": "images/webp/epick/15_nene_nene.webp",
     "thumbnail": "images/thumbnail/epick/15_nene_sign.png",
     "character": "草薙寧寧",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/15_nene.png",
     "webp": "images/webp/epick/15_nene.webp",
     "thumbnail": "images/thumbnail/shikishi/15_nene.png",
     "character": "草薙寧寧",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 1
   },
   {
     "full": "images/shikishi/15_nene_nonam.png",
     "webp": "images/webp/epick/15_nene_nonam.webp",
     "thumbnail": "images/thumbnail/shikishi/15_nene_nonam.png",
     "character": "草薙寧寧",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 2
   },
   {
     "full": "images/doll/15_nene.png",
     "webp": "images/webp/epick/15_nene.webp",
     "thumbnail": "images/thumbnail/doll/15_nene.png",
     "character": "草薙寧寧",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/16_rui.png",
     "webp": "images/webp/epick/16_rui.webp",
     "thumbnail": "images/thumbnail/epick/16_rui.png",
     "character": "神代類",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/16_rui_sign.png",
     "webp": "images/webp/epick/16_rui_sign.webp",
     "thumbnail": "images/thumbnail/epick/16_rui_sign.png",
     "character": "神代類",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/16_rui.png",
     "webp": "images/webp/epick/16_rui.webp",
     "thumbnail": "images/thumbnail/shikishi/16_rui.png",
     "character": "神代類",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 1
   },
   {
     "full": "images/shikishi/16_rui_nonam.png",
     "webp": "images/webp/epick/16_rui_nonam.webp",
     "thumbnail": "images/thumbnail/shikishi/16_rui_nonam.png",
     "character": "神代類",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 2
   },
   {
     "full": "images/doll/16_rui.png",
     "webp": "images/webp/epick/16_rui.webp",
     "thumbnail": "images/thumbnail/doll/16_rui.png",
     "character": "神代類",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/17_kanade.png",
     "webp": "images/webp/epick/17_kanade.webp",
     "thumbnail": "images/thumbnail/epick/17_kanade.png",
     "character": "宵崎奏",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/17_kanade_sign.png",
     "webp": "images/webp/epick/17_kanade_sign.webp",
     "thumbnail": "images/thumbnail/epick/17_kanade_sign.png",
     "character": "宵崎奏",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/17_kanade.png",
     "webp": "images/webp/epick/17_kanade.webp",
     "thumbnail": "images/thumbnail/shikishi/17_kanade.png",
     "character": "宵崎奏",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/17_kanade.png",
     "webp": "images/webp/epick/17_kanadea.webp",
     "thumbnail": "images/thumbnail/doll/17_kanade.png",
     "character": "宵崎奏",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/18_mafuyu.png",
     "webp": "images/webp/epick/18_mafuyu.webp",
     "thumbnail": "images/thumbnail/epick/18_mafuyu.png",
     "character": "朝比奈真冬",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/18_mafuyu_sign.png",
     "webp": "images/webp/epick/18_mafuyu_sign.webp",
     "thumbnail": "images/thumbnail/epick/18_mafuyu_sign.png",
     "character": "朝比奈真冬",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/18_mafuyu.png",
     "webp": "images/webp/epick/18_mafuyu.webp",
     "thumbnail": "images/thumbnail/shikishi/18_mafuyu.png",
     "character": "朝比奈真冬",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/18_mafuyu.png",
     "webp": "images/webp/epick/18_mafuyu.webp",
     "thumbnail": "images/thumbnail/doll/18_mafuyu.png",
     "character": "朝比奈真冬",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/19_ena.png",
     "webp": "images/webp/epick/19_ena.webp",
     "thumbnail": "images/thumbnail/epick/19_ena.png",
     "character": "東雲繪名",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/19_ena_sign.png",
     "webp": "images/webp/epick/19_ena_sign.webp",
     "thumbnail": "images/thumbnail/epick/19_ena_sign.png",
     "character": "東雲繪名",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/19_ena.png",
     "webp": "images/webp/epick/19_ena.webp",
     "thumbnail": "images/thumbnail/shikishi/19_ena.png",
     "character": "東雲繪名",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/19_ena.png",
     "webp": "images/webp/epick/19_ena.webp",
     "thumbnail": "images/thumbnail/doll/19_ena.png",
     "character": "東雲繪名",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/20_mizuki.png",
     "webp": "images/webp/epick/20_mizuki.webp",
     "thumbnail": "images/thumbnail/epick/20_mizuki.png",
     "character": "曉山瑞希",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/20_mizuki_sign.png",
     "webp": "images/webp/epick/20_mizuki_sign.webp",
     "thumbnail": "images/thumbnail/epick/20_mizuki_sign.png",
     "character": "曉山瑞希",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/20_mizuki.png",
     "webp": "images/webp/epick/20_mizuki.webp",
     "thumbnail": "images/thumbnail/shikishi/20_mizuki.png",
     "character": "曉山瑞希",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/20_mizuki.png",
     "webp": "images/webp/epick/20_mizuki.webp",
     "thumbnail": "images/thumbnail/doll/20_mizuki.png",
     "character": "曉山瑞希",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/21_miku.png",
     "webp": "images/webp/epick/21_miku.webp",
     "thumbnail": "images/thumbnail/epick/21_miku.png",
     "character": "初音未來",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/21_miku_sign.png",
     "webp": "images/webp/epick/21_miku_sign.webp",
     "thumbnail": "images/thumbnail/epick/21_miku_sign.png",
     "character": "初音未來",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/21_miku.png",
     "webp": "images/webp/epick/21_miku.webp",
     "thumbnail": "images/thumbnail/shikishi/21_miku.png",
     "character": "初音未來",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 1
   },
   {
     "full": "images/shikishi/21_miku_nonam.png",
     "webp": "images/webp/epick/21_miku_nonam.webp",
     "thumbnail": "images/thumbnail/shikishi/21_miku_nonam.png",
     "character": "初音未來",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 2
   },
   {
     "full": "images/doll/21_miku.png",
     "webp": "images/webp/epick/21_miku.webp",
     "thumbnail": "images/thumbnail/doll/21_miku.png",
     "character": "初音未來",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 3
   },
   {
     "full": "images/doll/27_miku_vs.png",
     "webp": "images/webp/epick/27_miku_vs.webp",
     "thumbnail": "images/thumbnail/doll/27_miku_vs.png",
     "character": "初音未來",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/doll/28_miku_ln.png",
     "webp": "images/webp/epick/28_miku_ln.webp",
     "thumbnail": "images/thumbnail/doll/28_miku_ln.png",
     "character": "初音未來",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/doll/29_miku_mmj.png",
     "webp": "images/webp/epick/29_miku_mmj.webp",
     "thumbnail": "images/thumbnail/doll/29_miku_mmj.png",
     "character": "初音未來",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/doll/30_miku_vbs.png",
     "webp": "images/webp/epick/30_miku_vbs.webp",
     "thumbnail": "images/thumbnail/doll/30_miku_vbs.png",
     "character": "初音未來",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/doll/31_miku_ws.png",
     "webp": "images/webp/epick/31_miku_ws.webp",
     "thumbnail": "images/thumbnail/doll/31_miku_ws.png",
     "character": "初音未來",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/doll/32_miku_25.png",
     "webp": "images/webp/epick/32_miku_25.webp",
     "thumbnail": "images/thumbnail/doll/32_miku_25.png",
     "character": "初音未來",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/22_rin.png",
     "webp": "images/webp/epick/22_rin.webp",
     "thumbnail": "images/thumbnail/epick/22_rin.png",
     "character": "鏡音鈴",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/22_rin_sign.png",
     "webp": "images/webp/epick/22_rin_sign.webp",
     "thumbnail": "images/thumbnail/epick/22_rin_sign.png",
     "character": "鏡音鈴",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/22_rin.png",
     "webp": "images/webp/epick/22_rin.webp",
     "thumbnail": "images/thumbnail/shikishi/22_rin.png",
     "character": "鏡音鈴",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/22_rin.png",
     "webp": "images/webp/epick/22_rin.webp",
     "thumbnail": "images/thumbnail/doll/22_rin.png",
     "character": "鏡音鈴",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/23_len.png",
     "webp": "images/webp/epick/23_len.webp",
     "thumbnail": "images/thumbnail/epick/23_len.png",
     "character": "鏡音連",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/23_len_sign.png",
     "webp": "images/webp/epick/23_len_sign.webp",
     "thumbnail": "images/thumbnail/epick/23_len_sign.png",
     "character": "鏡音連",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/23_len.png",
     "webp": "images/webp/epick/23_len.webp",
     "thumbnail": "images/thumbnail/shikishi/23_len.png",
     "character": "鏡音連",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/23_len.png",
     "webp": "images/webp/epick/23_len.webp",
     "thumbnail": "images/thumbnail/doll/23_len.png",
     "character": "鏡音連",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/24_luka.png",
     "webp": "images/webp/epick/24_luka.webp",
     "thumbnail": "images/thumbnail/epick/24_luka.png",
     "character": "巡音流歌",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/24_luka_sign.png",
     "webp": "images/webp/epick/24_luka_sign.webp",
     "thumbnail": "images/thumbnail/epick/24_luka_sign.png",
     "character": "巡音流歌",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/24_luka.png",
     "webp": "images/webp/epick/24_luka.webp",
     "thumbnail": "images/thumbnail/shikishi/24_luka.png",
     "character": "巡音流歌",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/24_luka.png",
     "webp": "images/webp/epick/24_luka.webp",
     "thumbnail": "images/thumbnail/doll/24_luka.png",
     "character": "巡音流歌",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/25_meiko.png",
     "webp": "images/webp/epick/25_meiko.webp",
     "thumbnail": "images/thumbnail/epick/25_meiko.png",
     "character": "MEIKO",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/25_meiko_sign.png",
     "webp": "images/webp/epick/25_meiko_sign.webp",
     "thumbnail": "images/thumbnail/epick/25_meiko_sign.png",
     "character": "MEIKO",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/25_meiko.png",
     "webp": "images/webp/epick/25_meiko.webp",
     "thumbnail": "images/thumbnail/shikishi/25_meiko.png",
     "character": "MEIKO",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 0
   },
   {
     "full": "images/doll/25_meiko.png",
     "webp": "images/webp/epick/25_meiko.webp",
     "thumbnail": "images/thumbnail/doll/25_meiko.png",
     "character": "MEIKO",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   },
   {
     "full": "images/epick/26_kaito.png",
     "webp": "images/webp/epick/26_kaito.webp",
     "thumbnail": "images/thumbnail/epick/26_kaito.png",
     "character": "KAITO",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/epick/26_kaito_sign.png",
     "webp": "images/webp/epick/26_kaito_sign.webp",
     "thumbnail": "images/thumbnail/epick/26_kaito_sign.png",
     "character": "KAITO",
-    "category": "ePick"
+    "category": "ePick",
+    "warning": 0
   },
   {
     "full": "images/shikishi/26_kaito.png",
     "webp": "images/webp/epick/26_kaito.webp",
     "thumbnail": "images/thumbnail/shikishi/26_kaito.png",
     "character": "KAITO",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 1
   },
   {
     "full": "images/shikishi/26_kaito_nonam.png",
     "webp": "images/webp/epick/26_kaito_nonam.webp",
     "thumbnail": "images/thumbnail/shikishi/26_kaito_nonam.png",
     "character": "KAITO",
-    "category": "色紙"
+    "category": "色紙",
+    "warning": 2
   },
   {
     "full": "images/doll/26_kaito.png",
     "webp": "images/webp/epick/26_kaito.webp",
     "thumbnail": "images/thumbnail/doll/26_kaito.png",
     "character": "KAITO",
-    "category": "娃娃"
+    "category": "娃娃",
+    "warning": 0
   }
 ]
