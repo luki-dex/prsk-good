@@ -11,9 +11,11 @@ fetch('goods.json')
 function populateSelects() {
   const character = [...new Set(goods.map(b => b.character))];
   const category = [...new Set(goods.map(b => b.category))];
+  const text = [...new Set(goods.map(b => b.text))];
 
   fillSelect('characterSelect', character);
-  fillSelect('categorySelect', category);;
+  fillSelect('categorySelect', category);
+  fillSelect('textSelect', text);
 
   document.getElementById("searchButton").addEventListener("click", updateImages);
 }
@@ -24,17 +26,21 @@ function fillSelect(id, items) {
     const option = document.createElement("option");
     option.value = item;
     option.textContent = item;
-    select.appendChild(option);
+    if (option.textContent !== "") {
+      select.appendChild(option);
+    }
   });
 }
 
 function updateImages() {
   const character = document.getElementById("characterSelect").value;
   const category = document.getElementById("categorySelect").value;
+  const text = document.getElementById("textSelect").value;
 
   const filtered = goods.filter(b =>
     (!character || b.character === character) &&
-    (!category || b.category === category)
+    (!category || b.category === category) &&
+    (!text || b.text === text || b.text === "")
   );
 
   const container = document.getElementById("imageContainer");
