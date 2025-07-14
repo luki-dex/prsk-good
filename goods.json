@@ -14,7 +14,7 @@
     "thumbnail": "images/thumbnail/epick/01_ichika.png",
     "character": "星乃一歌",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -32,7 +32,25 @@
     "thumbnail": "images/thumbnail/epick/01_ichika_sign.png",
     "character": "星乃一歌",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/01_ichika_text.png",
+    "webp": "images/webp/glitter/01_ichika_text.webp",
+    "thumbnail": "images/thumbnail/glitter/01_ichika_text.png",
+    "character": "星乃一歌",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/01_ichika.png",
+    "webp": "images/webp/glitter/01_ichika.webp",
+    "thumbnail": "images/thumbnail/glitter/01_ichika.png",
+    "character": "星乃一歌",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -50,7 +68,7 @@
     "thumbnail": "images/thumbnail/shikishi/01_ichika.png",
     "character": "星乃一歌",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -77,7 +95,7 @@
     "thumbnail": "images/thumbnail/epick/02_saki.png",
     "character": "天馬咲希",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -95,7 +113,25 @@
     "thumbnail": "images/thumbnail/epick/02_saki_sign.png",
     "character": "天馬咲希",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/02_saki_text.png",
+    "webp": "images/webp/glitter/02_saki_text.webp",
+    "thumbnail": "images/thumbnail/glitter/02_saki_text.png",
+    "character": "天馬咲希",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/02_saki.png",
+    "webp": "images/webp/glitter/02_saki.webp",
+    "thumbnail": "images/thumbnail/glitter/02_saki.png",
+    "character": "天馬咲希",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -113,7 +149,7 @@
     "thumbnail": "images/thumbnail/shikishi/02_saki.png",
     "character": "天馬咲希",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -140,7 +176,7 @@
     "thumbnail": "images/thumbnail/epick/03_honami.png",
     "character": "望月穗波",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -158,7 +194,25 @@
     "thumbnail": "images/thumbnail/epick/03_honami_sign.png",
     "character": "望月穗波",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/03_honami_text.png",
+    "webp": "images/webp/glitter/03_honami_text.webp",
+    "thumbnail": "images/thumbnail/glitter/03_honami_text.png",
+    "character": "望月穗波",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/03_honami.png",
+    "webp": "images/webp/glitter/03_honami.webp",
+    "thumbnail": "images/thumbnail/glitter/03_honami.png",
+    "character": "望月穗波",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -176,7 +230,7 @@
     "thumbnail": "images/thumbnail/shikishi/03_honami.png",
     "character": "望月穗波",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -203,7 +257,7 @@
     "thumbnail": "images/thumbnail/epick/04_shiho.png",
     "character": "日野森志步",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -221,7 +275,25 @@
     "thumbnail": "images/thumbnail/epick/04_shiho_sign.png",
     "character": "日野森志步",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/04_shiho_text.png",
+    "webp": "images/webp/glitter/04_shiho_text.webp",
+    "thumbnail": "images/thumbnail/glitter/04_shiho_text.png",
+    "character": "日野森志步",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/04_shiho.png",
+    "webp": "images/webp/glitter/04_shiho.webp",
+    "thumbnail": "images/thumbnail/glitter/04_shiho.png",
+    "character": "日野森志步",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -239,7 +311,7 @@
     "thumbnail": "images/thumbnail/shikishi/04_shiho.png",
     "character": "日野森志步",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -266,7 +338,7 @@
     "thumbnail": "images/thumbnail/epick/05_minori.png",
     "character": "花里實乃理",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -284,7 +356,25 @@
     "thumbnail": "images/thumbnail/epick/05_minori_sign.png",
     "character": "花里實乃理",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/05_minori_text.png",
+    "webp": "images/webp/glitter/05_minori_text.webp",
+    "thumbnail": "images/thumbnail/glitter/05_minori_text.png",
+    "character": "花里實乃理",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/05_minori.png",
+    "webp": "images/webp/glitter/05_minori.webp",
+    "thumbnail": "images/thumbnail/glitter/05_minori.png",
+    "character": "花里實乃理",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -302,7 +392,7 @@
     "thumbnail": "images/thumbnail/shikishi/05_minori.png",
     "character": "花里實乃理",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -329,7 +419,7 @@
     "thumbnail": "images/thumbnail/epick/06_haruka.png",
     "character": "桐谷遙",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -347,7 +437,25 @@
     "thumbnail": "images/thumbnail/epick/06_haruka_sign.png",
     "character": "桐谷遙",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/06_haruka_text.png",
+    "webp": "images/webp/glitter/06_haruka_text.webp",
+    "thumbnail": "images/thumbnail/glitter/06_haruka_text.png",
+    "character": "桐谷遙",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/06_haruka.png",
+    "webp": "images/webp/glitter/06_haruka.webp",
+    "thumbnail": "images/thumbnail/glitter/06_haruka.png",
+    "character": "桐谷遙",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -365,7 +473,7 @@
     "thumbnail": "images/thumbnail/shikishi/06_haruka.png",
     "character": "桐谷遙",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -392,7 +500,7 @@
     "thumbnail": "images/thumbnail/epick/07_airi.png",
     "character": "桃井愛莉",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -410,7 +518,25 @@
     "thumbnail": "images/thumbnail/epick/07_airi_sign.png",
     "character": "桃井愛莉",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/07_airi_text.png",
+    "webp": "images/webp/glitter/07_airi_text.webp",
+    "thumbnail": "images/thumbnail/glitter/07_airi_text.png",
+    "character": "桃井愛莉",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/07_airi.png",
+    "webp": "images/webp/glitter/07_airi.webp",
+    "thumbnail": "images/thumbnail/glitter/07_airi.png",
+    "character": "桃井愛莉",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -428,7 +554,7 @@
     "thumbnail": "images/thumbnail/shikishi/07_airi.png",
     "character": "桃井愛莉",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -455,7 +581,7 @@
     "thumbnail": "images/thumbnail/epick/08_shizuku.png",
     "character": "日野森雫",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -473,7 +599,25 @@
     "thumbnail": "images/thumbnail/epick/08_shizuku_sign.png",
     "character": "日野森雫",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/08_shizuku_text.png",
+    "webp": "images/webp/glitter/08_shizuku_text.webp",
+    "thumbnail": "images/thumbnail/glitter/08_shizuku_text.png",
+    "character": "日野森雫",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/08_shizuku.png",
+    "webp": "images/webp/glitter/08_shizuku.webp",
+    "thumbnail": "images/thumbnail/glitter/08_shizuku.png",
+    "character": "日野森雫",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -491,7 +635,7 @@
     "thumbnail": "images/thumbnail/shikishi/08_shizuku.png",
     "character": "日野森雫",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -518,7 +662,7 @@
     "thumbnail": "images/thumbnail/epick/09_kohane.png",
     "character": "小豆澤心羽",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -536,7 +680,25 @@
     "thumbnail": "images/thumbnail/epick/09_kohane_sign.png",
     "character": "小豆澤心羽",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/09_kohane_text.png",
+    "webp": "images/webp/glitter/09_kohane_text.webp",
+    "thumbnail": "images/thumbnail/glitter/09_kohane_text.png",
+    "character": "小豆澤心羽",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/09_kohane.png",
+    "webp": "images/webp/glitter/09_kohane.webp",
+    "thumbnail": "images/thumbnail/glitter/09_kohane.png",
+    "character": "小豆澤心羽",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -554,7 +716,7 @@
     "thumbnail": "images/thumbnail/shikishi/09_kohane.png",
     "character": "小豆澤心羽",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -581,7 +743,7 @@
     "thumbnail": "images/thumbnail/epick/10_an.png",
     "character": "白石杏",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -599,7 +761,25 @@
     "thumbnail": "images/thumbnail/epick/10_an_sign.png",
     "character": "白石杏",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/10_an_text.png",
+    "webp": "images/webp/glitter/10_an_text.webp",
+    "thumbnail": "images/thumbnail/glitter/10_an_text.png",
+    "character": "白石杏",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/10_an.png",
+    "webp": "images/webp/glitter/10_an.webp",
+    "thumbnail": "images/thumbnail/glitter/10_an.png",
+    "character": "白石杏",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -617,7 +797,7 @@
     "thumbnail": "images/thumbnail/shikishi/10_an.png",
     "character": "白石杏",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -644,7 +824,7 @@
     "thumbnail": "images/thumbnail/epick/11_akito.png",
     "character": "東雲彰人",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -662,7 +842,25 @@
     "thumbnail": "images/thumbnail/epick/11_akito_sign.png",
     "character": "東雲彰人",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/11_akito_text.png",
+    "webp": "images/webp/glitter/11_akito_text.webp",
+    "thumbnail": "images/thumbnail/glitter/11_akito_text.png",
+    "character": "東雲彰人",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/11_akito.png",
+    "webp": "images/webp/glitter/11_akito.webp",
+    "thumbnail": "images/thumbnail/glitter/11_akito.png",
+    "character": "東雲彰人",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -680,7 +878,7 @@
     "thumbnail": "images/thumbnail/shikishi/11_akito.png",
     "character": "東雲彰人",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -707,7 +905,7 @@
     "thumbnail": "images/thumbnail/epick/12_toya.png",
     "character": "青柳冬彌",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -725,7 +923,25 @@
     "thumbnail": "images/thumbnail/epick/12_toya_sign.png",
     "character": "青柳冬彌",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/12_toya_text.png",
+    "webp": "images/webp/glitter/12_toya_text.webp",
+    "thumbnail": "images/thumbnail/glitter/12_toya_text.png",
+    "character": "青柳冬彌",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/12_toya.png",
+    "webp": "images/webp/glitter/12_toya.webp",
+    "thumbnail": "images/thumbnail/glitter/12_toya.png",
+    "character": "青柳冬彌",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -743,7 +959,7 @@
     "thumbnail": "images/thumbnail/shikishi/12_toya.png",
     "character": "青柳冬彌",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -770,7 +986,7 @@
     "thumbnail": "images/thumbnail/epick/13_tsukasa.png",
     "character": "天馬司",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -788,7 +1004,25 @@
     "thumbnail": "images/thumbnail/epick/13_tsukasa_sign.png",
     "character": "天馬司",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/13_tsukasa_text.png",
+    "webp": "images/webp/glitter/13_tsukasa_text.webp",
+    "thumbnail": "images/thumbnail/glitter/13_tsukasa_text.png",
+    "character": "天馬司",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/13_tsukasa.png",
+    "webp": "images/webp/glitter/13_tsukasa.webp",
+    "thumbnail": "images/thumbnail/glitter/13_tsukasa.png",
+    "character": "天馬司",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -806,7 +1040,7 @@
     "thumbnail": "images/thumbnail/shikishi/13_tsukasa.png",
     "character": "天馬司",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 1
   },
   {
@@ -824,7 +1058,7 @@
     "thumbnail": "images/thumbnail/shikishi/13_tsukasa_nonam.png",
     "character": "天馬司",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 2
   },
   {
@@ -851,7 +1085,7 @@
     "thumbnail": "images/thumbnail/epick/14_emu.png",
     "character": "鳳笑夢",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -869,7 +1103,25 @@
     "thumbnail": "images/thumbnail/epick/14_emu_sign.png",
     "character": "鳳笑夢",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/14_emu_text.png",
+    "webp": "images/webp/glitter/14_emu_text.webp",
+    "thumbnail": "images/thumbnail/glitter/14_emu_text.png",
+    "character": "鳳笑夢",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/14_emu.png",
+    "webp": "images/webp/glitter/14_emu.webp",
+    "thumbnail": "images/thumbnail/glitter/14_emu.png",
+    "character": "鳳笑夢",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -887,7 +1139,7 @@
     "thumbnail": "images/thumbnail/shikishi/14_emu.png",
     "character": "鳳笑夢",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 1
   },
   {
@@ -905,7 +1157,7 @@
     "thumbnail": "images/thumbnail/shikishi/14_emu_nonam.png",
     "character": "鳳笑夢",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 2
   },
   {
@@ -932,7 +1184,7 @@
     "thumbnail": "images/thumbnail/epick/15_nene.png",
     "character": "草薙寧寧",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -950,7 +1202,25 @@
     "thumbnail": "images/thumbnail/epick/15_nene_sign.png",
     "character": "草薙寧寧",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/15_nene_text.png",
+    "webp": "images/webp/glitter/15_nene_text.webp",
+    "thumbnail": "images/thumbnail/glitter/15_nene_text.png",
+    "character": "草薙寧寧",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/15_nene.png",
+    "webp": "images/webp/glitter/15_nene.webp",
+    "thumbnail": "images/thumbnail/glitter/15_nene.png",
+    "character": "草薙寧寧",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -968,7 +1238,7 @@
     "thumbnail": "images/thumbnail/shikishi/15_nene.png",
     "character": "草薙寧寧",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 1
   },
   {
@@ -986,7 +1256,7 @@
     "thumbnail": "images/thumbnail/shikishi/15_nene_nonam.png",
     "character": "草薙寧寧",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 2
   },
   {
@@ -1013,7 +1283,7 @@
     "thumbnail": "images/thumbnail/epick/16_rui.png",
     "character": "神代類",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1031,7 +1301,25 @@
     "thumbnail": "images/thumbnail/epick/16_rui_sign.png",
     "character": "神代類",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/16_rui_text.png",
+    "webp": "images/webp/glitter/16_rui_text.webp",
+    "thumbnail": "images/thumbnail/glitter/16_rui_text.png",
+    "character": "神代類",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/16_rui.png",
+    "webp": "images/webp/glitter/16_rui.webp",
+    "thumbnail": "images/thumbnail/glitter/16_rui.png",
+    "character": "神代類",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1049,7 +1337,7 @@
     "thumbnail": "images/thumbnail/shikishi/16_rui.png",
     "character": "神代類",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 1
   },
   {
@@ -1067,7 +1355,7 @@
     "thumbnail": "images/thumbnail/shikishi/16_rui_nonam.png",
     "character": "神代類",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 2
   },
   {
@@ -1094,7 +1382,7 @@
     "thumbnail": "images/thumbnail/epick/17_kanade.png",
     "character": "宵崎奏",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1112,7 +1400,25 @@
     "thumbnail": "images/thumbnail/epick/17_kanade_sign.png",
     "character": "宵崎奏",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/17_kanade_text.png",
+    "webp": "images/webp/glitter/17_kanade_text.webp",
+    "thumbnail": "images/thumbnail/glitter/17_kanade_text.png",
+    "character": "宵崎奏",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/17_kanade.png",
+    "webp": "images/webp/glitter/17_kanade.webp",
+    "thumbnail": "images/thumbnail/glitter/17_kanade.png",
+    "character": "宵崎奏",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1130,7 +1436,7 @@
     "thumbnail": "images/thumbnail/shikishi/17_kanade.png",
     "character": "宵崎奏",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1157,7 +1463,7 @@
     "thumbnail": "images/thumbnail/epick/18_mafuyu.png",
     "character": "朝比奈真冬",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1175,7 +1481,25 @@
     "thumbnail": "images/thumbnail/epick/18_mafuyu_sign.png",
     "character": "朝比奈真冬",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/18_mafuyu_text.png",
+    "webp": "images/webp/glitter/18_mafuyu_text.webp",
+    "thumbnail": "images/thumbnail/glitter/18_mafuyu_text.png",
+    "character": "朝比奈真冬",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/18_mafuyu.png",
+    "webp": "images/webp/glitter/18_mafuyu.webp",
+    "thumbnail": "images/thumbnail/glitter/18_mafuyu.png",
+    "character": "朝比奈真冬",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1193,7 +1517,7 @@
     "thumbnail": "images/thumbnail/shikishi/18_mafuyu.png",
     "character": "朝比奈真冬",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1220,7 +1544,7 @@
     "thumbnail": "images/thumbnail/epick/19_ena.png",
     "character": "東雲繪名",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1238,7 +1562,25 @@
     "thumbnail": "images/thumbnail/epick/19_ena_sign.png",
     "character": "東雲繪名",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/19_ena_text.png",
+    "webp": "images/webp/glitter/19_ena_text.webp",
+    "thumbnail": "images/thumbnail/glitter/19_ena_text.png",
+    "character": "東雲繪名",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/19_ena.png",
+    "webp": "images/webp/glitter/19_ena.webp",
+    "thumbnail": "images/thumbnail/glitter/19_ena.png",
+    "character": "東雲繪名",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1256,7 +1598,7 @@
     "thumbnail": "images/thumbnail/shikishi/19_ena.png",
     "character": "東雲繪名",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1283,7 +1625,7 @@
     "thumbnail": "images/thumbnail/epick/20_mizuki.png",
     "character": "曉山瑞希",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1301,7 +1643,25 @@
     "thumbnail": "images/thumbnail/epick/20_mizuki_sign.png",
     "character": "曉山瑞希",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/20_mizuki_text.png",
+    "webp": "images/webp/glitter/20_mizuki_text.webp",
+    "thumbnail": "images/thumbnail/glitter/20_mizuki_text.png",
+    "character": "曉山瑞希",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/20_mizuki.png",
+    "webp": "images/webp/glitter/20_mizuki.webp",
+    "thumbnail": "images/thumbnail/glitter/20_mizuki.png",
+    "character": "曉山瑞希",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1319,7 +1679,7 @@
     "thumbnail": "images/thumbnail/shikishi/20_mizuki.png",
     "character": "曉山瑞希",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1346,7 +1706,7 @@
     "thumbnail": "images/thumbnail/epick/21_miku.png",
     "character": "初音未來",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1364,7 +1724,25 @@
     "thumbnail": "images/thumbnail/epick/21_miku_sign.png",
     "character": "初音未來",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/21_miku_text.png",
+    "webp": "images/webp/glitter/21_miku_text.webp",
+    "thumbnail": "images/thumbnail/glitter/21_miku_text.png",
+    "character": "初音未來",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/21_miku.png",
+    "webp": "images/webp/glitter/21_miku.webp",
+    "thumbnail": "images/thumbnail/glitter/21_miku.png",
+    "character": "初音未來",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1382,7 +1760,7 @@
     "thumbnail": "images/thumbnail/shikishi/21_miku.png",
     "character": "初音未來",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 1
   },
   {
@@ -1400,7 +1778,7 @@
     "thumbnail": "images/thumbnail/shikishi/21_miku_nonam.png",
     "character": "初音未來",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 2
   },
   {
@@ -1481,7 +1859,7 @@
     "thumbnail": "images/thumbnail/epick/22_rin.png",
     "character": "鏡音鈴",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1499,7 +1877,25 @@
     "thumbnail": "images/thumbnail/epick/22_rin_sign.png",
     "character": "鏡音鈴",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/22_rin_text.png",
+    "webp": "images/webp/glitter/22_rin_text.webp",
+    "thumbnail": "images/thumbnail/glitter/22_rin_text.png",
+    "character": "鏡音鈴",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/22_rin.png",
+    "webp": "images/webp/glitter/22_rin.webp",
+    "thumbnail": "images/thumbnail/glitter/22_rin.png",
+    "character": "鏡音鈴",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1517,7 +1913,7 @@
     "thumbnail": "images/thumbnail/shikishi/22_rin.png",
     "character": "鏡音鈴",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1544,7 +1940,7 @@
     "thumbnail": "images/thumbnail/epick/23_len.png",
     "character": "鏡音連",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1562,7 +1958,25 @@
     "thumbnail": "images/thumbnail/epick/23_len_sign.png",
     "character": "鏡音連",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/23_len_text.png",
+    "webp": "images/webp/glitter/23_len_text.webp",
+    "thumbnail": "images/thumbnail/glitter/23_len_text.png",
+    "character": "鏡音連",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/23_len.png",
+    "webp": "images/webp/glitter/23_len.webp",
+    "thumbnail": "images/thumbnail/glitter/23_len.png",
+    "character": "鏡音連",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1580,7 +1994,7 @@
     "thumbnail": "images/thumbnail/shikishi/23_len.png",
     "character": "鏡音連",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1607,7 +2021,7 @@
     "thumbnail": "images/thumbnail/epick/24_luka.png",
     "character": "巡音流歌",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1625,7 +2039,25 @@
     "thumbnail": "images/thumbnail/epick/24_luka_sign.png",
     "character": "巡音流歌",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/24_luka_text.png",
+    "webp": "images/webp/glitter/24_luka_text.webp",
+    "thumbnail": "images/thumbnail/glitter/24_luka_text.png",
+    "character": "巡音流歌",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/24_luka.png",
+    "webp": "images/webp/glitter/24_luka.webp",
+    "thumbnail": "images/thumbnail/glitter/24_luka.png",
+    "character": "巡音流歌",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1643,7 +2075,7 @@
     "thumbnail": "images/thumbnail/shikishi/24_luka.png",
     "character": "巡音流歌",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1670,7 +2102,7 @@
     "thumbnail": "images/thumbnail/epick/25_meiko.png",
     "character": "MEIKO",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1688,7 +2120,25 @@
     "thumbnail": "images/thumbnail/epick/25_meiko_sign.png",
     "character": "MEIKO",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/25_meiko_text.png",
+    "webp": "images/webp/glitter/25_meiko_text.webp",
+    "thumbnail": "images/thumbnail/glitter/25_meiko_text.png",
+    "character": "MEIKO",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/25_meiko.png",
+    "webp": "images/webp/glitter/25_meiko.webp",
+    "thumbnail": "images/thumbnail/glitter/25_meiko.png",
+    "character": "MEIKO",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1706,7 +2156,7 @@
     "thumbnail": "images/thumbnail/shikishi/25_meiko.png",
     "character": "MEIKO",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1733,7 +2183,7 @@
     "thumbnail": "images/thumbnail/epick/26_kaito.png",
     "character": "KAITO",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1751,7 +2201,25 @@
     "thumbnail": "images/thumbnail/epick/26_kaito_sign.png",
     "character": "KAITO",
     "category": "ePick",
-    "text": "不標示",
+    "text": "無標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/26_kaito_text.png",
+    "webp": "images/webp/glitter/26_kaito_text.webp",
+    "thumbnail": "images/thumbnail/glitter/26_kaito_text.png",
+    "character": "KAITO",
+    "category": "卡面徽章",
+    "text": "標示",
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/26_kaito.png",
+    "webp": "images/webp/glitter/26_kaito.webp",
+    "thumbnail": "images/thumbnail/glitter/26_kaito.png",
+    "character": "KAITO",
+    "category": "卡面徽章",
+    "text": "無標示",
     "warning": 0
   },
   {
@@ -1769,7 +2237,7 @@
     "thumbnail": "images/thumbnail/shikishi/26_kaito.png",
     "character": "KAITO",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 1
   },
   {
@@ -1787,7 +2255,7 @@
     "thumbnail": "images/thumbnail/shikishi/26_kaito_nonam.png",
     "character": "KAITO",
     "category": "色紙",
-    "text": "不標示",
+    "text": "無標示",
     "warning": 2
   },
   {
