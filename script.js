@@ -5,7 +5,6 @@ fetch('goods.json')
   .then(data => {
     goods = data;
     populateSelects();
-    updateImages();
   });
 
 function populateSelects() {
