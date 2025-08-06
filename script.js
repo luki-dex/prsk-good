@@ -64,7 +64,7 @@ function updateImages() {
     if (b.warning === 1) {
 
       const warning = document.createElement("div");
-        warning.textContent = "含南嘉堂合作色紙";
+        warning.textContent = "含南嘉堂合作畫板";
         warning.style.color = "black";
         warning.style.fontSize = "14px";
         warning.style.textAlign = "center";
@@ -72,7 +72,7 @@ function updateImages() {
     }else if (b.warning === 2) {
 
       const warning = document.createElement("div");
-        warning.textContent = "不含南嘉堂合作色紙";
+        warning.textContent = "不含南嘉堂合作畫板";
         warning.style.color = "black";
         warning.style.fontSize = "14px";
         warning.style.textAlign = "center";
