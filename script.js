@@ -52,6 +52,74 @@ function updateImages() {
     wrapper.style.alignItems = "center";
     wrapper.style.gap = "8px";
 
+    const name = document.createElement("div");
+      fullname = b.character + "/" + b.category
+      name.textContent = fullname;
+      name.style.color = "black";
+      name.style.fontSize = "16px";
+      name.style.textAlign = "center";
+      wrapper.appendChild(name);
+    
+    
+    const detailsBox = document.createElement("div");
+    detailsBox.style.display = "none";
+    detailsBox.style.flexDirection = "column";
+    detailsBox.style.alignItems = "center";
+    detailsBox.style.gap = "4px";
+    detailsBox.style.border = "1px solid #000000";
+    detailsBox.style.padding = "4px 4px";
+
+    const detail = document.createElement("div");
+    if (b.text === "標示"){detail.textContent = "標示卡面名稱";}
+    else{detail.textContent = "無標示卡面名稱";}
+    detail.style.color = "black";
+    detail.style.fontSize = "14px";
+    detail.style.textAlign = "center";
+    detailsBox.appendChild(detail);
+    
+
+    if (b.warning === 1) {
+      const warning = document.createElement("div");
+      warning.textContent = "含南嘉堂合作畫板";
+      warning.style.color = "black";
+      warning.style.fontSize = "14px";
+      warning.style.textAlign = "center";
+      detailsBox.appendChild(warning);
+
+    }else if (b.warning === 2) {
+      const warning = document.createElement("div");
+      warning.textContent = "不含南嘉堂合作畫板";
+      warning.style.color = "black";
+      warning.style.fontSize = "14px";
+      warning.style.textAlign = "center";
+      detailsBox.appendChild(warning);
+
+    }else if (b.warning === 3) {
+      const warning = document.createElement("div");
+      warning.textContent = "建議使用副團體版本";
+      warning.style.color = "black";
+      warning.style.fontSize = "14px";
+      warning.style.textAlign = "center";
+      detailsBox.appendChild(warning);
+    }
+
+    const toggleLink = document.createElement("a");
+    toggleLink.type = "a";
+    toggleLink.textContent = "展開說明";
+    toggleLink.style.cursor = "pointer";
+    toggleLink.style.fontSize = "12px";
+    toggleLink.style.textDecoration = "underline";
+    toggleLink.style.color = "#000000";
+
+    toggleLink.addEventListener("click", () => {
+      const isHidden = detailsBox.style.display === "none";
+      detailsBox.style.display = isHidden ? "flex" : "none";
+      toggleLink.textContent = isHidden ? "收起說明" : "展開說明";
+    });
+
+      wrapper.appendChild(toggleLink);
+      wrapper.appendChild(detailsBox);
+
     const img = document.createElement("img");
     img.src = b.thumbnail;
     img.alt = b.character;
@@ -59,33 +127,6 @@ function updateImages() {
     img.addEventListener("click", () => {
       window.open(b.full, "_blank");
     });
-    wrapper.appendChild(img);
-
-    if (b.warning === 1) {
-
-      const warning = document.createElement("div");
-        warning.textContent = "含南嘉堂合作畫板";
-        warning.style.color = "black";
-        warning.style.fontSize = "14px";
-        warning.style.textAlign = "center";
-        wrapper.appendChild(warning);
-    }else if (b.warning === 2) {
-
-      const warning = document.createElement("div");
-        warning.textContent = "不含南嘉堂合作畫板";
-        warning.style.color = "black";
-        warning.style.fontSize = "14px";
-        warning.style.textAlign = "center";
-        wrapper.appendChild(warning);
-    }else if (b.warning === 3) {
-
-      const warning = document.createElement("div");
-        warning.textContent = "⚠️建議使用副團體版本";
-        warning.style.color = "black";
-        warning.style.fontSize = "14px";
-        warning.style.textAlign = "center";
-        wrapper.appendChild(warning);
-    }
 
     const downloadPNG = document.createElement("a");
     downloadPNG.href = b.full;
@@ -109,6 +150,7 @@ function updateImages() {
     downloadWebP.style.borderRadius = "4px";
     downloadWebP.style.fontSize = "14px";
 
+    wrapper.appendChild(img);
     wrapper.appendChild(downloadPNG);
     wrapper.appendChild(downloadWebP);
     container.appendChild(wrapper);
