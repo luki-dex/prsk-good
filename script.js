@@ -68,6 +68,7 @@ function updateImages() {
     detailsBox.style.gap = "4px";
     detailsBox.style.border = "1px solid #000000";
     detailsBox.style.padding = "4px 4px";
+    detailsBox.style.backgroundColor = "#FFFFFF"
 
     const detail = document.createElement("div");
     if (b.text === "標示"){detail.textContent = "標示卡面名稱";}
@@ -77,6 +78,22 @@ function updateImages() {
     detail.style.textAlign = "center";
     detailsBox.appendChild(detail);
     
+    if (b.sign === 1) {
+      const sign = document.createElement("div");
+      sign.textContent = "普卡版本";
+      sign.style.color = "black";
+      sign.style.fontSize = "14px";
+      sign.style.textAlign = "center";
+      detailsBox.appendChild(sign);
+
+    }else if (b.sign === 2) {
+      const sign = document.createElement("div");
+      sign.textContent = "簽卡版本";
+      sign.style.color = "black";
+      sign.style.fontSize = "14px";
+      sign.style.textAlign = "center";
+      detailsBox.appendChild(sign);
+    }
 
     if (b.warning === 1) {
       const warning = document.createElement("div");
