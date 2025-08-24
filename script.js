@@ -69,49 +69,17 @@ function updateImages() {
     detailsBox.style.border = "1px solid #000000";
     detailsBox.style.padding = "4px 4px";
     detailsBox.style.backgroundColor = "#FFFFFF"
-
-    const detail = document.createElement("div");
-    if (b.text === "標示"){detail.textContent = "標示卡面名稱";}
-    else{detail.textContent = "無標示卡面名稱";}
-    detail.style.color = "black";
-    detail.style.fontSize = "14px";
-    detail.style.textAlign = "center";
-    detailsBox.appendChild(detail);
     
-    if (b.sign === 1) {
-      const sign = document.createElement("div");
-      sign.textContent = "普卡版本";
-      sign.style.color = "black";
-      sign.style.fontSize = "14px";
-      sign.style.textAlign = "center";
-      detailsBox.appendChild(sign);
-
-    }else if (b.sign === 2) {
-      const sign = document.createElement("div");
-      sign.textContent = "簽卡版本";
-      sign.style.color = "black";
-      sign.style.fontSize = "14px";
-      sign.style.textAlign = "center";
-      detailsBox.appendChild(sign);
+    for (var i = 0; i < b.detail.length; i++){
+      const details = document.createElement("div");
+      details.textContent = b.detail[i];
+      details.style.color = "black";
+      details.style.fontSize = "14px";
+      details.style.textAlign = "center";
+      detailsBox.appendChild(details);
     }
 
     if (b.warning === 1) {
-      const warning = document.createElement("div");
-      warning.textContent = "含南嘉堂合作畫板";
-      warning.style.color = "black";
-      warning.style.fontSize = "14px";
-      warning.style.textAlign = "center";
-      detailsBox.appendChild(warning);
-
-    }else if (b.warning === 2) {
-      const warning = document.createElement("div");
-      warning.textContent = "不含南嘉堂合作畫板";
-      warning.style.color = "black";
-      warning.style.fontSize = "14px";
-      warning.style.textAlign = "center";
-      detailsBox.appendChild(warning);
-
-    }else if (b.warning === 3) {
       const warning = document.createElement("div");
       warning.textContent = "建議使用副團體版本";
       warning.style.color = "black";
@@ -119,7 +87,7 @@ function updateImages() {
       warning.style.textAlign = "center";
       detailsBox.appendChild(warning);
     }
-
+    
     const toggleLink = document.createElement("a");
     toggleLink.type = "a";
     toggleLink.textContent = "展開說明";

@@ -6,7 +6,11 @@
     "character": "星乃一歌",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -16,7 +20,39 @@
     "character": "星乃一歌",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/01_ichika_unit_text.png",
+    "webp": "images/webp/epick/01_ichika_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/01_ichika_unit_text.png",
+    "character": "星乃一歌",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/01_ichika_unit.png",
+    "webp": "images/webp/epick/01_ichika_unit.webp",
+    "thumbnail": "images/thumbnail/epick/01_ichika_unit.png",
+    "character": "星乃一歌",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -26,7 +62,11 @@
     "character": "星乃一歌",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -36,7 +76,11 @@
     "character": "星乃一歌",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -46,7 +90,10 @@
     "character": "星乃一歌",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -56,7 +103,36 @@
     "character": "星乃一歌",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/01_ichika_unit_text.png",
+    "webp": "images/webp/glitter/01_ichika_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/01_ichika_unit_text.png",
+    "character": "星乃一歌",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/01_ichika_unit.png",
+    "webp": "images/webp/glitter/01_ichika_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/01_ichika_unit.png",
+    "character": "星乃一歌",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -66,7 +142,9 @@
     "character": "星乃一歌",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -76,7 +154,9 @@
     "character": "星乃一歌",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -86,7 +166,10 @@
     "character": "星乃一歌",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -96,7 +179,10 @@
     "character": "星乃一歌",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -106,7 +192,10 @@
     "character": "星乃一歌",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -116,7 +205,10 @@
     "character": "星乃一歌",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -126,7 +218,9 @@
     "character": "星乃一歌",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -136,7 +230,9 @@
     "character": "星乃一歌",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -146,7 +242,9 @@
     "character": "星乃一歌",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -156,7 +254,9 @@
     "character": "星乃一歌",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -166,7 +266,7 @@
     "character": "星乃一歌",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -176,7 +276,11 @@
     "character": "天馬咲希",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -186,7 +290,39 @@
     "character": "天馬咲希",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/02_saki_unit_text.png",
+    "webp": "images/webp/epick/02_saki_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/02_saki_unit_text.png",
+    "character": "天馬咲希",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/02_saki_unit.png",
+    "webp": "images/webp/epick/02_saki_unit.webp",
+    "thumbnail": "images/thumbnail/epick/02_saki_unit.png",
+    "character": "天馬咲希",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -196,7 +332,11 @@
     "character": "天馬咲希",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -206,7 +346,11 @@
     "character": "天馬咲希",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -216,7 +360,10 @@
     "character": "天馬咲希",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -226,7 +373,36 @@
     "character": "天馬咲希",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/02_saki_unit_text.png",
+    "webp": "images/webp/glitter/02_saki_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/02_saki_unit_text.png",
+    "character": "天馬咲希",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/02_saki_unit.png",
+    "webp": "images/webp/glitter/02_saki_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/02_saki_unit.png",
+    "character": "天馬咲希",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -236,7 +412,9 @@
     "character": "天馬咲希",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -246,7 +424,9 @@
     "character": "天馬咲希",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -256,7 +436,10 @@
     "character": "天馬咲希",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -266,7 +449,10 @@
     "character": "天馬咲希",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -276,7 +462,10 @@
     "character": "天馬咲希",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -286,7 +475,10 @@
     "character": "天馬咲希",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -296,7 +488,9 @@
     "character": "天馬咲希",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -306,7 +500,9 @@
     "character": "天馬咲希",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -316,7 +512,9 @@
     "character": "天馬咲希",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -326,7 +524,9 @@
     "character": "天馬咲希",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -336,7 +536,7 @@
     "character": "天馬咲希",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -346,7 +546,11 @@
     "character": "望月穗波",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -356,7 +560,39 @@
     "character": "望月穗波",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/03_honami_unit_text.png",
+    "webp": "images/webp/epick/03_honami_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/03_honami_unit_text.png",
+    "character": "望月穗波",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/03_honami_unit.png",
+    "webp": "images/webp/epick/03_honami_unit.webp",
+    "thumbnail": "images/thumbnail/epick/03_honami_unit.png",
+    "character": "望月穗波",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -366,7 +602,11 @@
     "character": "望月穗波",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -376,7 +616,11 @@
     "character": "望月穗波",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -386,7 +630,10 @@
     "character": "望月穗波",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -396,7 +643,36 @@
     "character": "望月穗波",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/03_honami_unit_text.png",
+    "webp": "images/webp/glitter/03_honami_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/03_honami_unit_text.png",
+    "character": "望月穗波",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/03_honami_unit.png",
+    "webp": "images/webp/glitter/03_honami_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/03_honami_unit.png",
+    "character": "望月穗波",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -406,7 +682,9 @@
     "character": "望月穗波",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -416,7 +694,9 @@
     "character": "望月穗波",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -426,7 +706,10 @@
     "character": "望月穗波",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -436,7 +719,10 @@
     "character": "望月穗波",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -446,7 +732,10 @@
     "character": "望月穗波",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -456,7 +745,10 @@
     "character": "望月穗波",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -466,7 +758,9 @@
     "character": "望月穗波",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -476,7 +770,9 @@
     "character": "望月穗波",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -486,7 +782,9 @@
     "character": "望月穗波",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -496,7 +794,9 @@
     "character": "望月穗波",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -506,7 +806,7 @@
     "character": "望月穗波",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -516,7 +816,11 @@
     "character": "日野森志步",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -526,7 +830,39 @@
     "character": "日野森志步",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/04_shiho_unit_text.png",
+    "webp": "images/webp/epick/04_shiho_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/04_shiho_unit_text.png",
+    "character": "日野森志步",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/04_shiho_unit.png",
+    "webp": "images/webp/epick/04_shiho_unit.webp",
+    "thumbnail": "images/thumbnail/epick/04_shiho_unit.png",
+    "character": "日野森志步",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -536,7 +872,11 @@
     "character": "日野森志步",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -546,7 +886,11 @@
     "character": "日野森志步",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -556,7 +900,10 @@
     "character": "日野森志步",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -566,7 +913,36 @@
     "character": "日野森志步",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/04_shiho_unit_text.png",
+    "webp": "images/webp/glitter/04_shiho_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/04_shiho_unit_text.png",
+    "character": "日野森志步",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/04_shiho_unit.png",
+    "webp": "images/webp/glitter/04_shiho_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/04_shiho_unit.png",
+    "character": "日野森志步",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -576,7 +952,9 @@
     "character": "日野森志步",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -586,7 +964,9 @@
     "character": "日野森志步",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -596,7 +976,10 @@
     "character": "日野森志步",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -606,7 +989,10 @@
     "character": "日野森志步",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -616,7 +1002,10 @@
     "character": "日野森志步",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -626,7 +1015,10 @@
     "character": "日野森志步",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -636,7 +1028,9 @@
     "character": "日野森志步",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -646,7 +1040,9 @@
     "character": "日野森志步",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -656,7 +1052,9 @@
     "character": "日野森志步",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -666,7 +1064,9 @@
     "character": "日野森志步",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -676,7 +1076,7 @@
     "character": "日野森志步",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -686,7 +1086,11 @@
     "character": "花里實乃理",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -696,7 +1100,39 @@
     "character": "花里實乃理",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/05_minori_unit_text.png",
+    "webp": "images/webp/epick/05_minori_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/05_minori_unit_text.png",
+    "character": "花里實乃理",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/05_minori_unit.png",
+    "webp": "images/webp/epick/05_minori_unit.webp",
+    "thumbnail": "images/thumbnail/epick/05_minori_unit.png",
+    "character": "花里實乃理",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -706,7 +1142,11 @@
     "character": "花里實乃理",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -716,7 +1156,11 @@
     "character": "花里實乃理",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -726,7 +1170,10 @@
     "character": "花里實乃理",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -736,7 +1183,36 @@
     "character": "花里實乃理",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/05_minori_unit_text.png",
+    "webp": "images/webp/glitter/05_minori_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/05_minori_unit_text.png",
+    "character": "花里實乃理",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/05_minori_unit.png",
+    "webp": "images/webp/glitter/05_minori_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/05_minori_unit.png",
+    "character": "花里實乃理",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -746,7 +1222,9 @@
     "character": "花里實乃理",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -756,7 +1234,9 @@
     "character": "花里實乃理",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -766,7 +1246,10 @@
     "character": "花里實乃理",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -776,7 +1259,10 @@
     "character": "花里實乃理",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -786,7 +1272,10 @@
     "character": "花里實乃理",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -796,7 +1285,10 @@
     "character": "花里實乃理",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -806,7 +1298,9 @@
     "character": "花里實乃理",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -816,7 +1310,9 @@
     "character": "花里實乃理",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -826,7 +1322,9 @@
     "character": "花里實乃理",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -836,7 +1334,9 @@
     "character": "花里實乃理",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -846,7 +1346,7 @@
     "character": "花里實乃理",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -856,7 +1356,11 @@
     "character": "桐谷遙",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -866,7 +1370,39 @@
     "character": "桐谷遙",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/06_haruka_unit_text.png",
+    "webp": "images/webp/epick/06_haruka_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/06_haruka_unit_text.png",
+    "character": "桐谷遙",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/06_haruka_unit.png",
+    "webp": "images/webp/epick/06_haruka_unit.webp",
+    "thumbnail": "images/thumbnail/epick/06_haruka_unit.png",
+    "character": "桐谷遙",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -876,7 +1412,11 @@
     "character": "桐谷遙",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -886,7 +1426,11 @@
     "character": "桐谷遙",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -896,7 +1440,10 @@
     "character": "桐谷遙",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -906,7 +1453,36 @@
     "character": "桐谷遙",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/06_haruka_unit_text.png",
+    "webp": "images/webp/glitter/06_haruka_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/06_haruka_unit_text.png",
+    "character": "桐谷遙",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/06_haruka_unit.png",
+    "webp": "images/webp/glitter/06_haruka_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/06_haruka_unit.png",
+    "character": "桐谷遙",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -916,7 +1492,9 @@
     "character": "桐谷遙",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -926,7 +1504,9 @@
     "character": "桐谷遙",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -936,7 +1516,10 @@
     "character": "桐谷遙",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -946,7 +1529,10 @@
     "character": "桐谷遙",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -956,7 +1542,10 @@
     "character": "桐谷遙",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -966,7 +1555,10 @@
     "character": "桐谷遙",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -976,7 +1568,9 @@
     "character": "桐谷遙",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -986,7 +1580,9 @@
     "character": "桐谷遙",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -996,7 +1592,9 @@
     "character": "桐谷遙",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1006,7 +1604,9 @@
     "character": "桐谷遙",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1016,7 +1616,7 @@
     "character": "桐谷遙",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -1026,7 +1626,11 @@
     "character": "桃井愛莉",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1036,7 +1640,39 @@
     "character": "桃井愛莉",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/07_airi_unit_text.png",
+    "webp": "images/webp/epick/07_airi_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/07_airi_unit_text.png",
+    "character": "桃井愛莉",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/07_airi_unit.png",
+    "webp": "images/webp/epick/07_airi_unit.webp",
+    "thumbnail": "images/thumbnail/epick/07_airi_unit.png",
+    "character": "桃井愛莉",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1046,7 +1682,11 @@
     "character": "桃井愛莉",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1056,7 +1696,11 @@
     "character": "桃井愛莉",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1066,7 +1710,10 @@
     "character": "桃井愛莉",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1076,7 +1723,36 @@
     "character": "桃井愛莉",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/07_airi_unit_text.png",
+    "webp": "images/webp/glitter/07_airi_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/07_airi_unit_text.png",
+    "character": "桃井愛莉",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/07_airi_unit.png",
+    "webp": "images/webp/glitter/07_airi_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/07_airi_unit.png",
+    "character": "桃井愛莉",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1086,7 +1762,9 @@
     "character": "桃井愛莉",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1096,7 +1774,9 @@
     "character": "桃井愛莉",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1106,7 +1786,10 @@
     "character": "桃井愛莉",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1116,7 +1799,10 @@
     "character": "桃井愛莉",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1126,7 +1812,10 @@
     "character": "桃井愛莉",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1136,7 +1825,10 @@
     "character": "桃井愛莉",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1146,7 +1838,9 @@
     "character": "桃井愛莉",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1156,7 +1850,9 @@
     "character": "桃井愛莉",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1166,7 +1862,9 @@
     "character": "桃井愛莉",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1176,7 +1874,9 @@
     "character": "桃井愛莉",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1186,7 +1886,7 @@
     "character": "桃井愛莉",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -1196,7 +1896,11 @@
     "character": "日野森雫",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1206,7 +1910,39 @@
     "character": "日野森雫",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/08_shizuku_unit_text.png",
+    "webp": "images/webp/epick/08_shizuku_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/08_shizuku_unit_text.png",
+    "character": "日野森雫",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/08_shizuku_unit.png",
+    "webp": "images/webp/epick/08_shizuku_unit.webp",
+    "thumbnail": "images/thumbnail/epick/08_shizuku_unit.png",
+    "character": "日野森雫",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1216,7 +1952,11 @@
     "character": "日野森雫",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1226,7 +1966,11 @@
     "character": "日野森雫",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1236,7 +1980,10 @@
     "character": "日野森雫",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1246,7 +1993,36 @@
     "character": "日野森雫",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/08_shizuku_unit_text.png",
+    "webp": "images/webp/glitter/08_shizuku_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/08_shizuku_unit_text.png",
+    "character": "日野森雫",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/08_shizuku_unit.png",
+    "webp": "images/webp/glitter/08_shizuku_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/08_shizuku_unit.png",
+    "character": "日野森雫",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1256,7 +2032,9 @@
     "character": "日野森雫",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1266,7 +2044,9 @@
     "character": "日野森雫",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1276,7 +2056,10 @@
     "character": "日野森雫",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1286,7 +2069,10 @@
     "character": "日野森雫",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1296,7 +2082,10 @@
     "character": "日野森雫",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1306,7 +2095,10 @@
     "character": "日野森雫",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1316,7 +2108,9 @@
     "character": "日野森雫",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1326,7 +2120,9 @@
     "character": "日野森雫",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1336,7 +2132,9 @@
     "character": "日野森雫",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1346,7 +2144,9 @@
     "character": "日野森雫",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1356,7 +2156,7 @@
     "character": "日野森雫",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -1366,7 +2166,11 @@
     "character": "小豆澤心羽",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1376,7 +2180,39 @@
     "character": "小豆澤心羽",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/09_kohane_unit_text.png",
+    "webp": "images/webp/epick/09_kohane_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/09_kohane_unit_text.png",
+    "character": "小豆澤心羽",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/09_kohane_unit.png",
+    "webp": "images/webp/epick/09_kohane_unit.webp",
+    "thumbnail": "images/thumbnail/epick/09_kohane_unit.png",
+    "character": "小豆澤心羽",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1386,7 +2222,11 @@
     "character": "小豆澤心羽",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1396,7 +2236,11 @@
     "character": "小豆澤心羽",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1406,7 +2250,10 @@
     "character": "小豆澤心羽",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1416,7 +2263,36 @@
     "character": "小豆澤心羽",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/09_kohane_unit_text.png",
+    "webp": "images/webp/glitter/09_kohane_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/09_kohane_unit_text.png",
+    "character": "小豆澤心羽",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/09_kohane_unit.png",
+    "webp": "images/webp/glitter/09_kohane_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/09_kohane_unit.png",
+    "character": "小豆澤心羽",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1426,7 +2302,9 @@
     "character": "小豆澤心羽",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1436,7 +2314,9 @@
     "character": "小豆澤心羽",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1446,7 +2326,10 @@
     "character": "小豆澤心羽",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1456,7 +2339,10 @@
     "character": "小豆澤心羽",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1466,7 +2352,10 @@
     "character": "小豆澤心羽",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1476,7 +2365,10 @@
     "character": "小豆澤心羽",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1486,7 +2378,9 @@
     "character": "小豆澤心羽",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1496,7 +2390,9 @@
     "character": "小豆澤心羽",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1506,7 +2402,9 @@
     "character": "小豆澤心羽",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1516,7 +2414,9 @@
     "character": "小豆澤心羽",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1526,7 +2426,7 @@
     "character": "小豆澤心羽",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -1536,7 +2436,11 @@
     "character": "白石杏",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1546,7 +2450,39 @@
     "character": "白石杏",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/10_an_unit_text.png",
+    "webp": "images/webp/epick/10_an_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/10_an_unit_text.png",
+    "character": "白石杏",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/10_an_unit.png",
+    "webp": "images/webp/epick/10_an_unit.webp",
+    "thumbnail": "images/thumbnail/epick/10_an_unit.png",
+    "character": "白石杏",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1556,7 +2492,11 @@
     "character": "白石杏",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1566,7 +2506,11 @@
     "character": "白石杏",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1576,7 +2520,10 @@
     "character": "白石杏",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1586,7 +2533,36 @@
     "character": "白石杏",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/10_an_unit_text.png",
+    "webp": "images/webp/glitter/10_an_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/10_an_unit_text.png",
+    "character": "白石杏",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/10_an_unit.png",
+    "webp": "images/webp/glitter/10_an_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/10_an_unit.png",
+    "character": "白石杏",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1596,7 +2572,9 @@
     "character": "白石杏",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1606,7 +2584,9 @@
     "character": "白石杏",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1616,7 +2596,10 @@
     "character": "白石杏",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1626,7 +2609,10 @@
     "character": "白石杏",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1636,7 +2622,10 @@
     "character": "白石杏",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1646,7 +2635,10 @@
     "character": "白石杏",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1656,7 +2648,9 @@
     "character": "白石杏",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1666,7 +2660,9 @@
     "character": "白石杏",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1676,7 +2672,9 @@
     "character": "白石杏",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1686,7 +2684,9 @@
     "character": "白石杏",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1696,7 +2696,7 @@
     "character": "白石杏",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -1706,7 +2706,11 @@
     "character": "東雲彰人",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1716,7 +2720,39 @@
     "character": "東雲彰人",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/11_akito_unit_text.png",
+    "webp": "images/webp/epick/11_akito_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/11_akito_unit_text.png",
+    "character": "東雲彰人",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/11_akito_unit.png",
+    "webp": "images/webp/epick/11_akito_unit.webp",
+    "thumbnail": "images/thumbnail/epick/11_akito_unit.png",
+    "character": "東雲彰人",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1726,7 +2762,11 @@
     "character": "東雲彰人",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1736,7 +2776,11 @@
     "character": "東雲彰人",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1746,7 +2790,10 @@
     "character": "東雲彰人",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1756,7 +2803,36 @@
     "character": "東雲彰人",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/11_akito_unit_text.png",
+    "webp": "images/webp/glitter/11_akito_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/11_akito_unit_text.png",
+    "character": "東雲彰人",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/11_akito_unit.png",
+    "webp": "images/webp/glitter/11_akito_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/11_akito_unit.png",
+    "character": "東雲彰人",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1766,7 +2842,9 @@
     "character": "東雲彰人",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1776,7 +2854,9 @@
     "character": "東雲彰人",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1786,7 +2866,10 @@
     "character": "東雲彰人",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1796,7 +2879,10 @@
     "character": "東雲彰人",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1806,7 +2892,10 @@
     "character": "東雲彰人",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1816,7 +2905,10 @@
     "character": "東雲彰人",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1826,7 +2918,9 @@
     "character": "東雲彰人",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1836,7 +2930,9 @@
     "character": "東雲彰人",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1846,7 +2942,9 @@
     "character": "東雲彰人",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1856,7 +2954,9 @@
     "character": "東雲彰人",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1866,7 +2966,7 @@
     "character": "東雲彰人",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -1876,7 +2976,11 @@
     "character": "青柳冬彌",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1886,7 +2990,39 @@
     "character": "青柳冬彌",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/12_toya_unit_text.png",
+    "webp": "images/webp/epick/12_toya_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/12_toya_unit_text.png",
+    "character": "青柳冬彌",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/12_toya_unit.png",
+    "webp": "images/webp/epick/12_toya_unit.webp",
+    "thumbnail": "images/thumbnail/epick/12_toya_unit.png",
+    "character": "青柳冬彌",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1896,7 +3032,11 @@
     "character": "青柳冬彌",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1906,7 +3046,11 @@
     "character": "青柳冬彌",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1916,7 +3060,10 @@
     "character": "青柳冬彌",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1926,7 +3073,36 @@
     "character": "青柳冬彌",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/12_toya_unit_text.png",
+    "webp": "images/webp/glitter/12_toya_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/12_toya_unit_text.png",
+    "character": "青柳冬彌",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/12_toya_unit.png",
+    "webp": "images/webp/glitter/12_toya_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/12_toya_unit.png",
+    "character": "青柳冬彌",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1936,7 +3112,9 @@
     "character": "青柳冬彌",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1946,7 +3124,9 @@
     "character": "青柳冬彌",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1956,7 +3136,10 @@
     "character": "青柳冬彌",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1966,7 +3149,10 @@
     "character": "青柳冬彌",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1976,7 +3162,10 @@
     "character": "青柳冬彌",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1986,7 +3175,10 @@
     "character": "青柳冬彌",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -1996,7 +3188,9 @@
     "character": "青柳冬彌",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2006,7 +3200,9 @@
     "character": "青柳冬彌",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2016,7 +3212,9 @@
     "character": "青柳冬彌",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2026,7 +3224,9 @@
     "character": "青柳冬彌",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2036,7 +3236,7 @@
     "character": "青柳冬彌",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -2046,7 +3246,11 @@
     "character": "天馬司",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2056,7 +3260,39 @@
     "character": "天馬司",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/13_tsukasa_unit_text.png",
+    "webp": "images/webp/epick/13_tsukasa_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/13_tsukasa_unit_text.png",
+    "character": "天馬司",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/13_tsukasa_unit.png",
+    "webp": "images/webp/epick/13_tsukasa_unit.webp",
+    "thumbnail": "images/thumbnail/epick/13_tsukasa_unit.png",
+    "character": "天馬司",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2066,7 +3302,11 @@
     "character": "天馬司",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2076,7 +3316,11 @@
     "character": "天馬司",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2086,7 +3330,10 @@
     "character": "天馬司",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2096,7 +3343,36 @@
     "character": "天馬司",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/13_tsukasa_unit_text.png",
+    "webp": "images/webp/glitter/13_tsukasa_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/13_tsukasa_unit_text.png",
+    "character": "天馬司",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/13_tsukasa_unit.png",
+    "webp": "images/webp/glitter/13_tsukasa_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/13_tsukasa_unit.png",
+    "character": "天馬司",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2106,7 +3382,9 @@
     "character": "天馬司",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2116,7 +3394,9 @@
     "character": "天馬司",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2126,7 +3406,10 @@
     "character": "天馬司",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2136,7 +3419,10 @@
     "character": "天馬司",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2146,7 +3432,10 @@
     "character": "天馬司",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2156,7 +3445,10 @@
     "character": "天馬司",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2166,8 +3458,11 @@
     "character": "天馬司",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/13_tsukasa.png",
@@ -2176,8 +3471,11 @@
     "character": "天馬司",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/13_tsukasa_nonam_text.png",
@@ -2186,8 +3484,11 @@
     "character": "天馬司",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/13_tsukasa_nonam.png",
@@ -2196,8 +3497,11 @@
     "character": "天馬司",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/square/13_tsukasa_text.png",
@@ -2206,7 +3510,9 @@
     "character": "天馬司",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2216,7 +3522,9 @@
     "character": "天馬司",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2226,7 +3534,7 @@
     "character": "天馬司",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -2236,7 +3544,11 @@
     "character": "鳳笑夢",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2246,7 +3558,39 @@
     "character": "鳳笑夢",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/14_emu_unit_text.png",
+    "webp": "images/webp/epick/14_emu_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/14_emu_unit_text.png",
+    "character": "鳳笑夢",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/14_emu_unit.png",
+    "webp": "images/webp/epick/14_emu_unit.webp",
+    "thumbnail": "images/thumbnail/epick/14_emu_unit.png",
+    "character": "鳳笑夢",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2256,7 +3600,11 @@
     "character": "鳳笑夢",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2266,7 +3614,11 @@
     "character": "鳳笑夢",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2276,7 +3628,10 @@
     "character": "鳳笑夢",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2286,7 +3641,36 @@
     "character": "鳳笑夢",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/14_emu_unit_text.png",
+    "webp": "images/webp/glitter/14_emu_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/14_emu_unit_text.png",
+    "character": "鳳笑夢",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/14_emu_unit.png",
+    "webp": "images/webp/glitter/14_emu_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/14_emu_unit.png",
+    "character": "鳳笑夢",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2296,7 +3680,9 @@
     "character": "鳳笑夢",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2306,7 +3692,9 @@
     "character": "鳳笑夢",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2316,7 +3704,10 @@
     "character": "鳳笑夢",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2326,7 +3717,10 @@
     "character": "鳳笑夢",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2336,7 +3730,10 @@
     "character": "鳳笑夢",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2346,7 +3743,10 @@
     "character": "鳳笑夢",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2356,8 +3756,11 @@
     "character": "鳳笑夢",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/14_emu.png",
@@ -2366,8 +3769,11 @@
     "character": "鳳笑夢",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/14_emu_nonam_text.png",
@@ -2376,8 +3782,11 @@
     "character": "鳳笑夢",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/14_emu_nonam.png",
@@ -2386,8 +3795,11 @@
     "character": "鳳笑夢",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/square/14_emu_text.png",
@@ -2396,7 +3808,9 @@
     "character": "鳳笑夢",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2406,7 +3820,9 @@
     "character": "鳳笑夢",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2416,7 +3832,7 @@
     "character": "鳳笑夢",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -2426,7 +3842,11 @@
     "character": "草薙寧寧",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2436,7 +3856,39 @@
     "character": "草薙寧寧",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/15_nene_unit_text.png",
+    "webp": "images/webp/epick/15_nene_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/15_nene_unit_text.png",
+    "character": "草薙寧寧",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/15_nene_unit.png",
+    "webp": "images/webp/epick/15_nene_unit.webp",
+    "thumbnail": "images/thumbnail/epick/15_nene_unit.png",
+    "character": "草薙寧寧",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2446,7 +3898,11 @@
     "character": "草薙寧寧",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2456,7 +3912,11 @@
     "character": "草薙寧寧",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2466,7 +3926,10 @@
     "character": "草薙寧寧",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2476,7 +3939,36 @@
     "character": "草薙寧寧",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/15_nene_unit_text.png",
+    "webp": "images/webp/glitter/15_nene_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/15_nene_unit_text.png",
+    "character": "草薙寧寧",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/15_nene_unit.png",
+    "webp": "images/webp/glitter/15_nene_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/15_nene_unit.png",
+    "character": "草薙寧寧",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2486,7 +3978,9 @@
     "character": "草薙寧寧",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2496,7 +3990,9 @@
     "character": "草薙寧寧",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2506,7 +4002,10 @@
     "character": "草薙寧寧",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2516,7 +4015,10 @@
     "character": "草薙寧寧",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2526,7 +4028,10 @@
     "character": "草薙寧寧",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2536,7 +4041,10 @@
     "character": "草薙寧寧",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2546,8 +4054,11 @@
     "character": "草薙寧寧",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/15_nene.png",
@@ -2556,8 +4067,11 @@
     "character": "草薙寧寧",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/15_nene_nonam_text.png",
@@ -2566,8 +4080,11 @@
     "character": "草薙寧寧",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/15_nene_nonam.png",
@@ -2576,8 +4093,11 @@
     "character": "草薙寧寧",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/square/15_nene_text.png",
@@ -2586,7 +4106,9 @@
     "character": "草薙寧寧",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2596,7 +4118,9 @@
     "character": "草薙寧寧",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2606,7 +4130,7 @@
     "character": "草薙寧寧",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -2616,7 +4140,11 @@
     "character": "神代類",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2626,7 +4154,39 @@
     "character": "神代類",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/16_rui_unit_text.png",
+    "webp": "images/webp/epick/16_rui_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/16_rui_unit_text.png",
+    "character": "神代類",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/16_rui_unit.png",
+    "webp": "images/webp/epick/16_rui_unit.webp",
+    "thumbnail": "images/thumbnail/epick/16_rui_unit.png",
+    "character": "神代類",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2636,7 +4196,11 @@
     "character": "神代類",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2646,7 +4210,11 @@
     "character": "神代類",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2656,7 +4224,10 @@
     "character": "神代類",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2666,7 +4237,36 @@
     "character": "神代類",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/16_rui_unit_text.png",
+    "webp": "images/webp/glitter/16_rui_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/16_rui_unit_text.png",
+    "character": "神代類",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/16_rui_unit.png",
+    "webp": "images/webp/glitter/16_rui_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/16_rui_unit.png",
+    "character": "神代類",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2676,7 +4276,9 @@
     "character": "神代類",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2686,7 +4288,9 @@
     "character": "神代類",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2696,7 +4300,10 @@
     "character": "神代類",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2706,7 +4313,10 @@
     "character": "神代類",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2716,7 +4326,10 @@
     "character": "神代類",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2726,7 +4339,10 @@
     "character": "神代類",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2736,8 +4352,11 @@
     "character": "神代類",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/16_rui.png",
@@ -2746,8 +4365,11 @@
     "character": "神代類",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/16_rui_nonam_text.png",
@@ -2756,8 +4378,11 @@
     "character": "神代類",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/16_rui_nonam.png",
@@ -2766,8 +4391,11 @@
     "character": "神代類",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/square/16_rui_text.png",
@@ -2776,7 +4404,9 @@
     "character": "神代類",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2786,7 +4416,9 @@
     "character": "神代類",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2796,7 +4428,7 @@
     "character": "神代類",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -2806,7 +4438,11 @@
     "character": "宵崎奏",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2816,7 +4452,39 @@
     "character": "宵崎奏",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/17_kanade_unit_text.png",
+    "webp": "images/webp/epick/17_kanade_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/17_kanade_unit_text.png",
+    "character": "宵崎奏",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/17_kanade_unit.png",
+    "webp": "images/webp/epick/17_kanade_unit.webp",
+    "thumbnail": "images/thumbnail/epick/17_kanade_unit.png",
+    "character": "宵崎奏",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2826,7 +4494,11 @@
     "character": "宵崎奏",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2836,7 +4508,11 @@
     "character": "宵崎奏",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2846,7 +4522,10 @@
     "character": "宵崎奏",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2856,7 +4535,36 @@
     "character": "宵崎奏",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/17_kanade_unit_text.png",
+    "webp": "images/webp/glitter/17_kanade_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/17_kanade_unit_text.png",
+    "character": "宵崎奏",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/17_kanade_unit.png",
+    "webp": "images/webp/glitter/17_kanade_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/17_kanade_unit.png",
+    "character": "宵崎奏",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2866,7 +4574,9 @@
     "character": "宵崎奏",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2876,7 +4586,9 @@
     "character": "宵崎奏",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2886,7 +4598,10 @@
     "character": "宵崎奏",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2896,7 +4611,10 @@
     "character": "宵崎奏",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2906,7 +4624,10 @@
     "character": "宵崎奏",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2916,7 +4637,10 @@
     "character": "宵崎奏",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2926,7 +4650,9 @@
     "character": "宵崎奏",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2936,7 +4662,9 @@
     "character": "宵崎奏",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2946,7 +4674,9 @@
     "character": "宵崎奏",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2956,7 +4686,9 @@
     "character": "宵崎奏",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2966,7 +4698,7 @@
     "character": "宵崎奏",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -2976,7 +4708,11 @@
     "character": "朝比奈真冬",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2986,7 +4722,39 @@
     "character": "朝比奈真冬",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/18_mafuyu_unit_text.png",
+    "webp": "images/webp/epick/18_mafuyu_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/18_mafuyu_unit_text.png",
+    "character": "朝比奈真冬",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/18_mafuyu_unit.png",
+    "webp": "images/webp/epick/18_mafuyu_unit.webp",
+    "thumbnail": "images/thumbnail/epick/18_mafuyu_unit.png",
+    "character": "朝比奈真冬",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -2996,7 +4764,11 @@
     "character": "朝比奈真冬",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3006,7 +4778,11 @@
     "character": "朝比奈真冬",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3016,7 +4792,10 @@
     "character": "朝比奈真冬",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3026,7 +4805,36 @@
     "character": "朝比奈真冬",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/18_mafuyu_unit_text.png",
+    "webp": "images/webp/glitter/18_mafuyu_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/18_mafuyu_unit_text.png",
+    "character": "朝比奈真冬",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/18_mafuyu_unit.png",
+    "webp": "images/webp/glitter/18_mafuyu_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/18_mafuyu_unit.png",
+    "character": "朝比奈真冬",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3036,7 +4844,9 @@
     "character": "朝比奈真冬",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3046,7 +4856,9 @@
     "character": "朝比奈真冬",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3056,7 +4868,10 @@
     "character": "朝比奈真冬",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3066,7 +4881,10 @@
     "character": "朝比奈真冬",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3076,7 +4894,10 @@
     "character": "朝比奈真冬",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3086,7 +4907,10 @@
     "character": "朝比奈真冬",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3096,7 +4920,9 @@
     "character": "朝比奈真冬",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3106,7 +4932,9 @@
     "character": "朝比奈真冬",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3116,7 +4944,9 @@
     "character": "朝比奈真冬",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3126,7 +4956,9 @@
     "character": "朝比奈真冬",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3136,7 +4968,7 @@
     "character": "朝比奈真冬",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -3146,7 +4978,11 @@
     "character": "東雲繪名",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3156,7 +4992,39 @@
     "character": "東雲繪名",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/19_ena_unit_text.png",
+    "webp": "images/webp/epick/19_ena_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/19_ena_unit_text.png",
+    "character": "東雲繪名",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/19_ena_unit.png",
+    "webp": "images/webp/epick/19_ena_unit.webp",
+    "thumbnail": "images/thumbnail/epick/19_ena_unit.png",
+    "character": "東雲繪名",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3166,7 +5034,11 @@
     "character": "東雲繪名",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3176,7 +5048,11 @@
     "character": "東雲繪名",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3186,7 +5062,10 @@
     "character": "東雲繪名",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3196,7 +5075,36 @@
     "character": "東雲繪名",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/19_ena_unit_text.png",
+    "webp": "images/webp/glitter/19_ena_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/19_ena_unit_text.png",
+    "character": "東雲繪名",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/19_ena_unit.png",
+    "webp": "images/webp/glitter/19_ena_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/19_ena_unit.png",
+    "character": "東雲繪名",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3206,7 +5114,9 @@
     "character": "東雲繪名",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3216,7 +5126,9 @@
     "character": "東雲繪名",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3226,7 +5138,10 @@
     "character": "東雲繪名",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3236,7 +5151,10 @@
     "character": "東雲繪名",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3246,7 +5164,10 @@
     "character": "東雲繪名",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3256,7 +5177,10 @@
     "character": "東雲繪名",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3266,7 +5190,9 @@
     "character": "東雲繪名",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3276,7 +5202,9 @@
     "character": "東雲繪名",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3286,7 +5214,9 @@
     "character": "東雲繪名",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3296,7 +5226,9 @@
     "character": "東雲繪名",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3306,7 +5238,7 @@
     "character": "東雲繪名",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -3316,7 +5248,11 @@
     "character": "曉山瑞希",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3326,7 +5262,39 @@
     "character": "曉山瑞希",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/20_mizuki_unit_text.png",
+    "webp": "images/webp/epick/20_mizuki_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/20_mizuki_unit_text.png",
+    "character": "曉山瑞希",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/20_mizuki_unit.png",
+    "webp": "images/webp/epick/20_mizuki_unit.webp",
+    "thumbnail": "images/thumbnail/epick/20_mizuki_unit.png",
+    "character": "曉山瑞希",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3336,7 +5304,11 @@
     "character": "曉山瑞希",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3346,7 +5318,11 @@
     "character": "曉山瑞希",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3356,7 +5332,10 @@
     "character": "曉山瑞希",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3366,7 +5345,36 @@
     "character": "曉山瑞希",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/20_mizuki_unit_text.png",
+    "webp": "images/webp/glitter/20_mizuki_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/20_mizuki_unit_text.png",
+    "character": "曉山瑞希",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/20_mizuki_unit.png",
+    "webp": "images/webp/glitter/20_mizuki_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/20_mizuki_unit.png",
+    "character": "曉山瑞希",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3376,7 +5384,9 @@
     "character": "曉山瑞希",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3386,7 +5396,9 @@
     "character": "曉山瑞希",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3396,7 +5408,10 @@
     "character": "曉山瑞希",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3406,7 +5421,10 @@
     "character": "曉山瑞希",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3416,7 +5434,10 @@
     "character": "曉山瑞希",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3426,7 +5447,10 @@
     "character": "曉山瑞希",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3436,7 +5460,9 @@
     "character": "曉山瑞希",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3446,7 +5472,9 @@
     "character": "曉山瑞希",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3456,7 +5484,9 @@
     "character": "曉山瑞希",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3466,7 +5496,9 @@
     "character": "曉山瑞希",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3476,7 +5508,7 @@
     "character": "曉山瑞希",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -3486,7 +5518,11 @@
     "character": "初音未來",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3496,7 +5532,39 @@
     "character": "初音未來",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/21_miku_unit_text.png",
+    "webp": "images/webp/epick/21_miku_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/21_miku_unit_text.png",
+    "character": "初音未來",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/21_miku_unit.png",
+    "webp": "images/webp/epick/21_miku_unit.webp",
+    "thumbnail": "images/thumbnail/epick/21_miku_unit.png",
+    "character": "初音未來",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3506,7 +5574,11 @@
     "character": "初音未來",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3516,7 +5588,11 @@
     "character": "初音未來",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3526,7 +5602,10 @@
     "character": "初音未來",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3536,7 +5615,36 @@
     "character": "初音未來",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/21_miku_unit_text.png",
+    "webp": "images/webp/glitter/21_miku_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/21_miku_unit_text.png",
+    "character": "初音未來",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/21_miku_unit.png",
+    "webp": "images/webp/glitter/21_miku_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/21_miku_unit.png",
+    "character": "初音未來",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3546,7 +5654,9 @@
     "character": "初音未來",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3556,7 +5666,9 @@
     "character": "初音未來",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3566,7 +5678,10 @@
     "character": "初音未來",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3576,7 +5691,10 @@
     "character": "初音未來",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3586,7 +5704,10 @@
     "character": "初音未來",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3596,7 +5717,10 @@
     "character": "初音未來",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3606,8 +5730,11 @@
     "character": "初音未來",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/21_miku.png",
@@ -3616,8 +5743,11 @@
     "character": "初音未來",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/21_miku_nonam_text.png",
@@ -3626,8 +5756,11 @@
     "character": "初音未來",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/21_miku_nonam.png",
@@ -3636,8 +5769,11 @@
     "character": "初音未來",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/square/21_miku_text.png",
@@ -3646,7 +5782,9 @@
     "character": "初音未來",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3656,7 +5794,9 @@
     "character": "初音未來",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3666,8 +5806,8 @@
     "character": "初音未來",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
-    "warning": 3
+    "detail": [],
+    "warning": 1
   },
   {
     "full": "images/doll/27_miku_vs.png",
@@ -3676,7 +5816,7 @@
     "character": "初音未來",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -3686,7 +5826,7 @@
     "character": "初音未來",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -3696,7 +5836,7 @@
     "character": "初音未來",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -3706,7 +5846,7 @@
     "character": "初音未來",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -3716,7 +5856,7 @@
     "character": "初音未來",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -3726,7 +5866,7 @@
     "character": "初音未來",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -3736,7 +5876,11 @@
     "character": "鏡音鈴",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3746,7 +5890,39 @@
     "character": "鏡音鈴",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/22_rin_unit_text.png",
+    "webp": "images/webp/epick/22_rin_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/22_rin_unit_text.png",
+    "character": "鏡音鈴",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/22_rin_unit.png",
+    "webp": "images/webp/epick/22_rin_unit.webp",
+    "thumbnail": "images/thumbnail/epick/22_rin_unit.png",
+    "character": "鏡音鈴",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3756,7 +5932,11 @@
     "character": "鏡音鈴",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3766,7 +5946,11 @@
     "character": "鏡音鈴",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3776,7 +5960,10 @@
     "character": "鏡音鈴",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3786,7 +5973,36 @@
     "character": "鏡音鈴",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/22_rin_unit_text.png",
+    "webp": "images/webp/glitter/22_rin_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/22_rin_unit_text.png",
+    "character": "鏡音鈴",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/22_rin_unit.png",
+    "webp": "images/webp/glitter/22_rin_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/22_rin_unit.png",
+    "character": "鏡音鈴",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3796,7 +6012,9 @@
     "character": "鏡音鈴",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3806,7 +6024,9 @@
     "character": "鏡音鈴",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3816,7 +6036,10 @@
     "character": "鏡音鈴",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3826,7 +6049,10 @@
     "character": "鏡音鈴",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3836,7 +6062,10 @@
     "character": "鏡音鈴",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3846,7 +6075,10 @@
     "character": "鏡音鈴",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3856,7 +6088,9 @@
     "character": "鏡音鈴",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3866,7 +6100,9 @@
     "character": "鏡音鈴",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3876,7 +6112,9 @@
     "character": "鏡音鈴",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3886,7 +6124,9 @@
     "character": "鏡音鈴",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3896,7 +6136,7 @@
     "character": "鏡音鈴",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -3906,7 +6146,11 @@
     "character": "鏡音連",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3916,7 +6160,39 @@
     "character": "鏡音連",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/23_len_unit_text.png",
+    "webp": "images/webp/epick/23_len_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/23_len_unit_text.png",
+    "character": "鏡音連",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/23_len_unit.png",
+    "webp": "images/webp/epick/23_len_unit.webp",
+    "thumbnail": "images/thumbnail/epick/23_len_unit.png",
+    "character": "鏡音連",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3926,7 +6202,11 @@
     "character": "鏡音連",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3936,7 +6216,11 @@
     "character": "鏡音連",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3946,7 +6230,10 @@
     "character": "鏡音連",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3956,7 +6243,36 @@
     "character": "鏡音連",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/23_len_unit_text.png",
+    "webp": "images/webp/glitter/23_len_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/23_len_unit_text.png",
+    "character": "鏡音連",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/23_len_unit.png",
+    "webp": "images/webp/glitter/23_len_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/23_len_unit.png",
+    "character": "鏡音連",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3966,7 +6282,9 @@
     "character": "鏡音連",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3976,7 +6294,9 @@
     "character": "鏡音連",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3986,7 +6306,10 @@
     "character": "鏡音連",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -3996,7 +6319,10 @@
     "character": "鏡音連",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4006,7 +6332,10 @@
     "character": "鏡音連",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4016,7 +6345,10 @@
     "character": "鏡音連",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4026,7 +6358,9 @@
     "character": "鏡音連",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4036,7 +6370,9 @@
     "character": "鏡音連",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4046,7 +6382,9 @@
     "character": "鏡音連",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4056,7 +6394,9 @@
     "character": "鏡音連",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4066,7 +6406,7 @@
     "character": "鏡音連",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -4076,7 +6416,11 @@
     "character": "巡音流歌",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4086,7 +6430,39 @@
     "character": "巡音流歌",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/24_luka_unit_text.png",
+    "webp": "images/webp/epick/24_luka_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/24_luka_unit_text.png",
+    "character": "巡音流歌",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/24_luka_unit.png",
+    "webp": "images/webp/epick/24_luka_unit.webp",
+    "thumbnail": "images/thumbnail/epick/24_luka_unit.png",
+    "character": "巡音流歌",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4096,7 +6472,11 @@
     "character": "巡音流歌",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4106,7 +6486,11 @@
     "character": "巡音流歌",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4116,7 +6500,10 @@
     "character": "巡音流歌",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4126,7 +6513,36 @@
     "character": "巡音流歌",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/24_luka_unit_text.png",
+    "webp": "images/webp/glitter/24_luka_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/24_luka_unit_text.png",
+    "character": "巡音流歌",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/24_luka_unit.png",
+    "webp": "images/webp/glitter/24_luka_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/24_luka_unit.png",
+    "character": "巡音流歌",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4136,7 +6552,9 @@
     "character": "巡音流歌",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4146,7 +6564,9 @@
     "character": "巡音流歌",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4156,7 +6576,10 @@
     "character": "巡音流歌",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4166,7 +6589,10 @@
     "character": "巡音流歌",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4176,7 +6602,10 @@
     "character": "巡音流歌",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4186,7 +6615,10 @@
     "character": "巡音流歌",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4196,7 +6628,9 @@
     "character": "巡音流歌",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4206,7 +6640,9 @@
     "character": "巡音流歌",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4216,7 +6652,9 @@
     "character": "巡音流歌",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4226,7 +6664,9 @@
     "character": "巡音流歌",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4236,7 +6676,7 @@
     "character": "巡音流歌",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -4246,7 +6686,11 @@
     "character": "MEIKO",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4256,7 +6700,39 @@
     "character": "MEIKO",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/25_meiko_unit_text.png",
+    "webp": "images/webp/epick/25_meiko_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/25_meiko_unit_text.png",
+    "character": "MEIKO",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/25_meiko_unit.png",
+    "webp": "images/webp/epick/25_meiko_unit.webp",
+    "thumbnail": "images/thumbnail/epick/25_meiko_unit.png",
+    "character": "MEIKO",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4266,7 +6742,11 @@
     "character": "MEIKO",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4276,7 +6756,11 @@
     "character": "MEIKO",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4286,7 +6770,10 @@
     "character": "MEIKO",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4296,7 +6783,36 @@
     "character": "MEIKO",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/25_meiko_unit_text.png",
+    "webp": "images/webp/glitter/25_meiko_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/25_meiko_unit_text.png",
+    "character": "MEIKO",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/25_meiko_unit.png",
+    "webp": "images/webp/glitter/25_meiko_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/25_meiko_unit.png",
+    "character": "MEIKO",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4306,7 +6822,9 @@
     "character": "MEIKO",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4316,7 +6834,9 @@
     "character": "MEIKO",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4326,7 +6846,10 @@
     "character": "MEIKO",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4336,7 +6859,10 @@
     "character": "MEIKO",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4346,7 +6872,10 @@
     "character": "MEIKO",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4356,7 +6885,10 @@
     "character": "MEIKO",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4366,7 +6898,9 @@
     "character": "MEIKO",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4376,7 +6910,9 @@
     "character": "MEIKO",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4386,7 +6922,9 @@
     "character": "MEIKO",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4396,7 +6934,9 @@
     "character": "MEIKO",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4406,7 +6946,7 @@
     "character": "MEIKO",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   },
   {
@@ -4416,7 +6956,11 @@
     "character": "KAITO",
     "category": "ePick",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4426,7 +6970,39 @@
     "character": "KAITO",
     "category": "ePick",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/26_kaito_unit_text.png",
+    "webp": "images/webp/epick/26_kaito_unit_text.webp",
+    "thumbnail": "images/thumbnail/epick/26_kaito_unit_text.png",
+    "character": "KAITO",
+    "category": "ePick",
+    "text": "標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/epick/26_kaito_unit.png",
+    "webp": "images/webp/epick/26_kaito_unit.webp",
+    "thumbnail": "images/thumbnail/epick/26_kaito_unit.png",
+    "character": "KAITO",
+    "category": "ePick",
+    "text": "無標示",
+    "detail": [
+      "普卡版本",
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4436,7 +7012,11 @@
     "character": "KAITO",
     "category": "ePick",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4446,7 +7026,11 @@
     "character": "KAITO",
     "category": "ePick",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4456,7 +7040,10 @@
     "character": "KAITO",
     "category": "卡面徽章",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4466,7 +7053,36 @@
     "character": "KAITO",
     "category": "卡面徽章",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/26_kaito_unit_text.png",
+    "webp": "images/webp/glitter/26_kaito_unit_text.webp",
+    "thumbnail": "images/thumbnail/glitter/26_kaito_unit_text.png",
+    "character": "KAITO",
+    "category": "卡面徽章",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/glitter/26_kaito_unit.png",
+    "webp": "images/webp/glitter/26_kaito_unit.webp",
+    "thumbnail": "images/thumbnail/glitter/26_kaito_unit.png",
+    "character": "KAITO",
+    "category": "卡面徽章",
+    "text": "無標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4476,7 +7092,9 @@
     "character": "KAITO",
     "category": "厚壓克力",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4486,7 +7104,9 @@
     "character": "KAITO",
     "category": "厚壓克力",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4496,7 +7116,10 @@
     "character": "KAITO",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4506,7 +7129,10 @@
     "character": "KAITO",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 1,
+    "detail": [
+      "普卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4516,7 +7142,10 @@
     "character": "KAITO",
     "category": "透明貼紙",
     "text": "標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4526,7 +7155,10 @@
     "character": "KAITO",
     "category": "透明貼紙",
     "text": "無標示",
-    "sign": 2,
+    "detail": [
+      "簽卡版本",
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4536,8 +7168,11 @@
     "character": "KAITO",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/26_kaito.png",
@@ -4546,8 +7181,11 @@
     "character": "KAITO",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 1
+    "detail": [
+      "含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/26_kaito_nonam_text.png",
@@ -4556,8 +7194,11 @@
     "character": "KAITO",
     "category": "色紙",
     "text": "標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/shikishi/26_kaito_nonam.png",
@@ -4566,8 +7207,11 @@
     "character": "KAITO",
     "category": "色紙",
     "text": "無標示",
-    "sign": 0,
-    "warning": 2
+    "detail": [
+      "不含南嘉堂合作畫板",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
   },
   {
     "full": "images/square/26_kaito_text.png",
@@ -4576,7 +7220,9 @@
     "character": "KAITO",
     "category": "方徽",
     "text": "標示",
-    "sign": 0,
+    "detail": [
+      "標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4586,7 +7232,9 @@
     "character": "KAITO",
     "category": "方徽",
     "text": "無標示",
-    "sign": 0,
+    "detail": [
+      "無標示卡面名稱"
+    ],
     "warning": 0
   },
   {
@@ -4596,7 +7244,7 @@
     "character": "KAITO",
     "category": "娃娃",
     "text": "",
-    "sign": 0,
+    "detail": [],
     "warning": 0
   }
 ]
