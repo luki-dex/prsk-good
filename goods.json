@@ -160,6 +160,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/01_ichika_unit_text.png",
+    "webp": "images/webp/waferpolar/01_ichika_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/01_ichika_unit_text.png",
+    "character": "星乃一歌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/01_ichika_unit.png",
+    "webp": "images/webp/waferpolar/01_ichika_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/01_ichika_unit.png",
+    "character": "星乃一歌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/01_ichika_text.png",
+    "webp": "images/webp/waferpolar/01_ichika_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/01_ichika_text.png",
+    "character": "星乃一歌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/01_ichika.png",
+    "webp": "images/webp/waferpolar/01_ichika.webp",
+    "thumbnail": "images/thumbnail/waferpolar/01_ichika.png",
+    "character": "星乃一歌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/01_ichika_text.png",
     "webp": "images/webp/sticker/01_ichika_text.webp",
     "thumbnail": "images/thumbnail/sticker/01_ichika_text.png",
@@ -425,6 +477,58 @@
     "category": "厚壓克力",
     "text": "無標示",
     "detail": [
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/02_saki_unit_text.png",
+    "webp": "images/webp/waferpolar/02_saki_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/02_saki_unit_text.png",
+    "character": "天馬咲希",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/02_saki_unit.png",
+    "webp": "images/webp/waferpolar/02_saki_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/02_saki_unit.png",
+    "character": "天馬咲希",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/02_saki_text.png",
+    "webp": "images/webp/waferpolar/02_saki_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/02_saki_text.png",
+    "character": "天馬咲希",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/02_saki.png",
+    "webp": "images/webp/waferpolar/02_saki.webp",
+    "thumbnail": "images/thumbnail/waferpolar/02_saki.png",
+    "character": "天馬咲希",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
       "無標示卡面名稱"
     ],
     "warning": 0
@@ -700,6 +804,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/03_honami_unit_text.png",
+    "webp": "images/webp/waferpolar/03_honami_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/03_honami_unit_text.png",
+    "character": "望月穗波",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/03_honami_unit.png",
+    "webp": "images/webp/waferpolar/03_honami_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/03_honami_unit.png",
+    "character": "望月穗波",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/03_honami_text.png",
+    "webp": "images/webp/waferpolar/03_honami_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/03_honami_text.png",
+    "character": "望月穗波",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/03_honami.png",
+    "webp": "images/webp/waferpolar/03_honami.webp",
+    "thumbnail": "images/thumbnail/waferpolar/03_honami.png",
+    "character": "望月穗波",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/03_honami_text.png",
     "webp": "images/webp/sticker/03_honami_text.webp",
     "thumbnail": "images/thumbnail/sticker/03_honami_text.png",
@@ -965,6 +1121,58 @@
     "category": "厚壓克力",
     "text": "無標示",
     "detail": [
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/04_shiho_unit_text.png",
+    "webp": "images/webp/waferpolar/04_shiho_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/04_shiho_unit_text.png",
+    "character": "日野森志步",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/04_shiho_unit.png",
+    "webp": "images/webp/waferpolar/04_shiho_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/04_shiho_unit.png",
+    "character": "日野森志步",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/04_shiho_text.png",
+    "webp": "images/webp/waferpolar/04_shiho_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/04_shiho_text.png",
+    "character": "日野森志步",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/04_shiho.png",
+    "webp": "images/webp/waferpolar/04_shiho.webp",
+    "thumbnail": "images/thumbnail/waferpolar/04_shiho.png",
+    "character": "日野森志步",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
       "無標示卡面名稱"
     ],
     "warning": 0
@@ -1240,6 +1448,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/05_minori_unit_text.png",
+    "webp": "images/webp/waferpolar/05_minori_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/05_minori_unit_text.png",
+    "character": "花里實乃理",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/05_minori_unit.png",
+    "webp": "images/webp/waferpolar/05_minori_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/05_minori_unit.png",
+    "character": "花里實乃理",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/05_minori_text.png",
+    "webp": "images/webp/waferpolar/05_minori_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/05_minori_text.png",
+    "character": "花里實乃理",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/05_minori.png",
+    "webp": "images/webp/waferpolar/05_minori.webp",
+    "thumbnail": "images/thumbnail/waferpolar/05_minori.png",
+    "character": "花里實乃理",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/05_minori_text.png",
     "webp": "images/webp/sticker/05_minori_text.webp",
     "thumbnail": "images/thumbnail/sticker/05_minori_text.png",
@@ -1505,6 +1765,58 @@
     "category": "厚壓克力",
     "text": "無標示",
     "detail": [
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/06_haruka_unit_text.png",
+    "webp": "images/webp/waferpolar/06_haruka_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/06_haruka_unit_text.png",
+    "character": "桐谷遙",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/06_haruka_unit.png",
+    "webp": "images/webp/waferpolar/06_haruka_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/06_haruka_unit.png",
+    "character": "桐谷遙",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/06_haruka_text.png",
+    "webp": "images/webp/waferpolar/06_haruka_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/06_haruka_text.png",
+    "character": "桐谷遙",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/06_haruka.png",
+    "webp": "images/webp/waferpolar/06_haruka.webp",
+    "thumbnail": "images/thumbnail/waferpolar/06_haruka.png",
+    "character": "桐谷遙",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
       "無標示卡面名稱"
     ],
     "warning": 0
@@ -1780,6 +2092,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/07_airi_unit_text.png",
+    "webp": "images/webp/waferpolar/07_airi_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/07_airi_unit_text.png",
+    "character": "桃井愛莉",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/07_airi_unit.png",
+    "webp": "images/webp/waferpolar/07_airi_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/07_airi_unit.png",
+    "character": "桃井愛莉",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/07_airi_text.png",
+    "webp": "images/webp/waferpolar/07_airi_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/07_airi_text.png",
+    "character": "桃井愛莉",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/07_airi.png",
+    "webp": "images/webp/waferpolar/07_airi.webp",
+    "thumbnail": "images/thumbnail/waferpolar/07_airi.png",
+    "character": "桃井愛莉",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/07_airi_text.png",
     "webp": "images/webp/sticker/07_airi_text.webp",
     "thumbnail": "images/thumbnail/sticker/07_airi_text.png",
@@ -2045,6 +2409,58 @@
     "category": "厚壓克力",
     "text": "無標示",
     "detail": [
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/08_shizuku_unit_text.png",
+    "webp": "images/webp/waferpolar/08_shizuku_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/08_shizuku_unit_text.png",
+    "character": "日野森雫",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/08_shizuku_unit.png",
+    "webp": "images/webp/waferpolar/08_shizuku_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/08_shizuku_unit.png",
+    "character": "日野森雫",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/08_shizuku_text.png",
+    "webp": "images/webp/waferpolar/08_shizuku_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/08_shizuku_text.png",
+    "character": "日野森雫",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/08_shizuku.png",
+    "webp": "images/webp/waferpolar/08_shizuku.webp",
+    "thumbnail": "images/thumbnail/waferpolar/08_shizuku.png",
+    "character": "日野森雫",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
       "無標示卡面名稱"
     ],
     "warning": 0
@@ -2320,6 +2736,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/09_kohane_unit_text.png",
+    "webp": "images/webp/waferpolar/09_kohane_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/09_kohane_unit_text.png",
+    "character": "小豆澤心羽",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/09_kohane_unit.png",
+    "webp": "images/webp/waferpolar/09_kohane_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/09_kohane_unit.png",
+    "character": "小豆澤心羽",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/09_kohane_text.png",
+    "webp": "images/webp/waferpolar/09_kohane_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/09_kohane_text.png",
+    "character": "小豆澤心羽",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/09_kohane.png",
+    "webp": "images/webp/waferpolar/09_kohane.webp",
+    "thumbnail": "images/thumbnail/waferpolar/09_kohane.png",
+    "character": "小豆澤心羽",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/09_kohane_text.png",
     "webp": "images/webp/sticker/09_kohane_text.webp",
     "thumbnail": "images/thumbnail/sticker/09_kohane_text.png",
@@ -2585,6 +3053,58 @@
     "category": "厚壓克力",
     "text": "無標示",
     "detail": [
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/10_an_unit_text.png",
+    "webp": "images/webp/waferpolar/10_an_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/10_an_unit_text.png",
+    "character": "白石杏",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/10_an_unit.png",
+    "webp": "images/webp/waferpolar/10_an_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/10_an_unit.png",
+    "character": "白石杏",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/10_an_text.png",
+    "webp": "images/webp/waferpolar/10_an_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/10_an_text.png",
+    "character": "白石杏",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/10_an.png",
+    "webp": "images/webp/waferpolar/10_an.webp",
+    "thumbnail": "images/thumbnail/waferpolar/10_an.png",
+    "character": "白石杏",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
       "無標示卡面名稱"
     ],
     "warning": 0
@@ -2860,6 +3380,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/11_akito_unit_text.png",
+    "webp": "images/webp/waferpolar/11_akito_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/11_akito_unit_text.png",
+    "character": "東雲彰人",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/11_akito_unit.png",
+    "webp": "images/webp/waferpolar/11_akito_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/11_akito_unit.png",
+    "character": "東雲彰人",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/11_akito_text.png",
+    "webp": "images/webp/waferpolar/11_akito_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/11_akito_text.png",
+    "character": "東雲彰人",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/11_akito.png",
+    "webp": "images/webp/waferpolar/11_akito.webp",
+    "thumbnail": "images/thumbnail/waferpolar/11_akito.png",
+    "character": "東雲彰人",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/11_akito_text.png",
     "webp": "images/webp/sticker/11_akito_text.webp",
     "thumbnail": "images/thumbnail/sticker/11_akito_text.png",
@@ -3130,6 +3702,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/12_toya_unit_text.png",
+    "webp": "images/webp/waferpolar/12_toya_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/12_toya_unit_text.png",
+    "character": "青柳冬彌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/12_toya_unit.png",
+    "webp": "images/webp/waferpolar/12_toya_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/12_toya_unit.png",
+    "character": "青柳冬彌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/12_toya_text.png",
+    "webp": "images/webp/waferpolar/12_toya_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/12_toya_text.png",
+    "character": "青柳冬彌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/12_toya.png",
+    "webp": "images/webp/waferpolar/12_toya.webp",
+    "thumbnail": "images/thumbnail/waferpolar/12_toya.png",
+    "character": "青柳冬彌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/12_toya_text.png",
     "webp": "images/webp/sticker/12_toya_text.webp",
     "thumbnail": "images/thumbnail/sticker/12_toya_text.png",
@@ -3395,6 +4019,58 @@
     "category": "厚壓克力",
     "text": "無標示",
     "detail": [
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/13_tsukasa_unit_text.png",
+    "webp": "images/webp/waferpolar/13_tsukasa_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/13_tsukasa_unit_text.png",
+    "character": "天馬司",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/13_tsukasa_unit.png",
+    "webp": "images/webp/waferpolar/13_tsukasa_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/13_tsukasa_unit.png",
+    "character": "天馬司",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/13_tsukasa_text.png",
+    "webp": "images/webp/waferpolar/13_tsukasa_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/13_tsukasa_text.png",
+    "character": "天馬司",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/13_tsukasa.png",
+    "webp": "images/webp/waferpolar/13_tsukasa.webp",
+    "thumbnail": "images/thumbnail/waferpolar/13_tsukasa.png",
+    "character": "天馬司",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
       "無標示卡面名稱"
     ],
     "warning": 0
@@ -3698,6 +4374,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/14_emu_unit_text.png",
+    "webp": "images/webp/waferpolar/14_emu_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/14_emu_unit_text.png",
+    "character": "鳳笑夢",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/14_emu_unit.png",
+    "webp": "images/webp/waferpolar/14_emu_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/14_emu_unit.png",
+    "character": "鳳笑夢",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/14_emu_text.png",
+    "webp": "images/webp/waferpolar/14_emu_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/14_emu_text.png",
+    "character": "鳳笑夢",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/14_emu.png",
+    "webp": "images/webp/waferpolar/14_emu.webp",
+    "thumbnail": "images/thumbnail/waferpolar/14_emu.png",
+    "character": "鳳笑夢",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/14_emu_text.png",
     "webp": "images/webp/sticker/14_emu_text.webp",
     "thumbnail": "images/thumbnail/sticker/14_emu_text.png",
@@ -3991,6 +4719,58 @@
     "category": "厚壓克力",
     "text": "無標示",
     "detail": [
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/15_nene_unit_text.png",
+    "webp": "images/webp/waferpolar/15_nene_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/15_nene_unit_text.png",
+    "character": "草薙寧寧",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/15_nene_unit.png",
+    "webp": "images/webp/waferpolar/15_nene_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/15_nene_unit.png",
+    "character": "草薙寧寧",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/15_nene_text.png",
+    "webp": "images/webp/waferpolar/15_nene_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/15_nene_text.png",
+    "character": "草薙寧寧",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/15_nene.png",
+    "webp": "images/webp/waferpolar/15_nene.webp",
+    "thumbnail": "images/thumbnail/waferpolar/15_nene.png",
+    "character": "草薙寧寧",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
       "無標示卡面名稱"
     ],
     "warning": 0
@@ -4294,6 +5074,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/16_rui_unit_text.png",
+    "webp": "images/webp/waferpolar/16_rui_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/16_rui_unit_text.png",
+    "character": "神代類",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/16_rui_unit.png",
+    "webp": "images/webp/waferpolar/16_rui_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/16_rui_unit.png",
+    "character": "神代類",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/16_rui_text.png",
+    "webp": "images/webp/waferpolar/16_rui_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/16_rui_text.png",
+    "character": "神代類",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/16_rui.png",
+    "webp": "images/webp/waferpolar/16_rui.webp",
+    "thumbnail": "images/thumbnail/waferpolar/16_rui.png",
+    "character": "神代類",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/16_rui_text.png",
     "webp": "images/webp/sticker/16_rui_text.webp",
     "thumbnail": "images/thumbnail/sticker/16_rui_text.png",
@@ -4592,6 +5424,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/17_kanade_unit_text.png",
+    "webp": "images/webp/waferpolar/17_kanade_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/17_kanade_unit_text.png",
+    "character": "宵崎奏",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/17_kanade_unit.png",
+    "webp": "images/webp/waferpolar/17_kanade_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/17_kanade_unit.png",
+    "character": "宵崎奏",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/17_kanade_text.png",
+    "webp": "images/webp/waferpolar/17_kanade_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/17_kanade_text.png",
+    "character": "宵崎奏",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/17_kanade.png",
+    "webp": "images/webp/waferpolar/17_kanade.webp",
+    "thumbnail": "images/thumbnail/waferpolar/17_kanade.png",
+    "character": "宵崎奏",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/17_kanade_text.png",
     "webp": "images/webp/sticker/17_kanade_text.webp",
     "thumbnail": "images/thumbnail/sticker/17_kanade_text.png",
@@ -4857,6 +5741,58 @@
     "category": "厚壓克力",
     "text": "無標示",
     "detail": [
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/18_mafuyu_unit_text.png",
+    "webp": "images/webp/waferpolar/18_mafuyu_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/18_mafuyu_unit_text.png",
+    "character": "朝比奈真冬",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/18_mafuyu_unit.png",
+    "webp": "images/webp/waferpolar/18_mafuyu_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/18_mafuyu_unit.png",
+    "character": "朝比奈真冬",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/18_mafuyu_text.png",
+    "webp": "images/webp/waferpolar/18_mafuyu_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/18_mafuyu_text.png",
+    "character": "朝比奈真冬",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/18_mafuyu.png",
+    "webp": "images/webp/waferpolar/18_mafuyu.webp",
+    "thumbnail": "images/thumbnail/waferpolar/18_mafuyu.png",
+    "character": "朝比奈真冬",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
       "無標示卡面名稱"
     ],
     "warning": 0
@@ -5132,6 +6068,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/19_ena_unit_text.png",
+    "webp": "images/webp/waferpolar/19_ena_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/19_ena_unit_text.png",
+    "character": "東雲繪名",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/19_ena_unit.png",
+    "webp": "images/webp/waferpolar/19_ena_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/19_ena_unit.png",
+    "character": "東雲繪名",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/19_ena_text.png",
+    "webp": "images/webp/waferpolar/19_ena_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/19_ena_text.png",
+    "character": "東雲繪名",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/19_ena.png",
+    "webp": "images/webp/waferpolar/19_ena.webp",
+    "thumbnail": "images/thumbnail/waferpolar/19_ena.png",
+    "character": "東雲繪名",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/19_ena_text.png",
     "webp": "images/webp/sticker/19_ena_text.webp",
     "thumbnail": "images/thumbnail/sticker/19_ena_text.png",
@@ -5402,6 +6390,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/20_mizuki_unit_text.png",
+    "webp": "images/webp/waferpolar/20_mizuki_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/20_mizuki_unit_text.png",
+    "character": "曉山瑞希",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/20_mizuki_unit.png",
+    "webp": "images/webp/waferpolar/20_mizuki_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/20_mizuki_unit.png",
+    "character": "曉山瑞希",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/20_mizuki_text.png",
+    "webp": "images/webp/waferpolar/20_mizuki_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/20_mizuki_text.png",
+    "character": "曉山瑞希",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/20_mizuki.png",
+    "webp": "images/webp/waferpolar/20_mizuki.webp",
+    "thumbnail": "images/thumbnail/waferpolar/20_mizuki.png",
+    "character": "曉山瑞希",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/20_mizuki_text.png",
     "webp": "images/webp/sticker/20_mizuki_text.webp",
     "thumbnail": "images/thumbnail/sticker/20_mizuki_text.png",
@@ -5667,6 +6707,58 @@
     "category": "厚壓克力",
     "text": "無標示",
     "detail": [
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/21_miku_unit_text.png",
+    "webp": "images/webp/waferpolar/21_miku_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/21_miku_unit_text.png",
+    "character": "初音未來",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/21_miku_unit.png",
+    "webp": "images/webp/waferpolar/21_miku_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/21_miku_unit.png",
+    "character": "初音未來",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/21_miku_text.png",
+    "webp": "images/webp/waferpolar/21_miku_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/21_miku_text.png",
+    "character": "初音未來",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/21_miku.png",
+    "webp": "images/webp/waferpolar/21_miku.webp",
+    "thumbnail": "images/thumbnail/waferpolar/21_miku.png",
+    "character": "初音未來",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
       "無標示卡面名稱"
     ],
     "warning": 0
@@ -6030,6 +7122,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/22_rin_unit_text.png",
+    "webp": "images/webp/waferpolar/22_rin_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/22_rin_unit_text.png",
+    "character": "鏡音鈴",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/22_rin_unit.png",
+    "webp": "images/webp/waferpolar/22_rin_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/22_rin_unit.png",
+    "character": "鏡音鈴",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/22_rin_text.png",
+    "webp": "images/webp/waferpolar/22_rin_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/22_rin_text.png",
+    "character": "鏡音鈴",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/22_rin.png",
+    "webp": "images/webp/waferpolar/22_rin.webp",
+    "thumbnail": "images/thumbnail/waferpolar/22_rin.png",
+    "character": "鏡音鈴",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/22_rin_text.png",
     "webp": "images/webp/sticker/22_rin_text.webp",
     "thumbnail": "images/thumbnail/sticker/22_rin_text.png",
@@ -6295,6 +7439,58 @@
     "category": "厚壓克力",
     "text": "無標示",
     "detail": [
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/23_len_unit_text.png",
+    "webp": "images/webp/waferpolar/23_len_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/23_len_unit_text.png",
+    "character": "鏡音連",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/23_len_unit.png",
+    "webp": "images/webp/waferpolar/23_len_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/23_len_unit.png",
+    "character": "鏡音連",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/23_len_text.png",
+    "webp": "images/webp/waferpolar/23_len_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/23_len_text.png",
+    "character": "鏡音連",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/23_len.png",
+    "webp": "images/webp/waferpolar/23_len.webp",
+    "thumbnail": "images/thumbnail/waferpolar/23_len.png",
+    "character": "鏡音連",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
       "無標示卡面名稱"
     ],
     "warning": 0
@@ -6570,6 +7766,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/24_luka_unit_text.png",
+    "webp": "images/webp/waferpolar/24_luka_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/24_luka_unit_text.png",
+    "character": "巡音流歌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/24_luka_unit.png",
+    "webp": "images/webp/waferpolar/24_luka_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/24_luka_unit.png",
+    "character": "巡音流歌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/24_luka_text.png",
+    "webp": "images/webp/waferpolar/24_luka_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/24_luka_text.png",
+    "character": "巡音流歌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/24_luka.png",
+    "webp": "images/webp/waferpolar/24_luka.webp",
+    "thumbnail": "images/thumbnail/waferpolar/24_luka.png",
+    "character": "巡音流歌",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/24_luka_text.png",
     "webp": "images/webp/sticker/24_luka_text.webp",
     "thumbnail": "images/thumbnail/sticker/24_luka_text.png",
@@ -6840,6 +8088,58 @@
     "warning": 0
   },
   {
+    "full": "images/waferpolar/25_meiko_unit_text.png",
+    "webp": "images/webp/waferpolar/25_meiko_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/25_meiko_unit_text.png",
+    "character": "MEIKO",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/25_meiko_unit.png",
+    "webp": "images/webp/waferpolar/25_meiko_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/25_meiko_unit.png",
+    "character": "MEIKO",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/25_meiko_text.png",
+    "webp": "images/webp/waferpolar/25_meiko_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/25_meiko_text.png",
+    "character": "MEIKO",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/25_meiko.png",
+    "webp": "images/webp/waferpolar/25_meiko.webp",
+    "thumbnail": "images/thumbnail/waferpolar/25_meiko.png",
+    "character": "MEIKO",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
     "full": "images/sticker/25_meiko_text.png",
     "webp": "images/webp/sticker/25_meiko_text.webp",
     "thumbnail": "images/thumbnail/sticker/25_meiko_text.png",
@@ -7105,6 +8405,58 @@
     "category": "厚壓克力",
     "text": "無標示",
     "detail": [
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/26_kaito_unit_text.png",
+    "webp": "images/webp/waferpolar/26_kaito_unit_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/26_kaito_unit_text.png",
+    "character": "KAITO",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/26_kaito_unit.png",
+    "webp": "images/webp/waferpolar/26_kaito_unit.webp",
+    "thumbnail": "images/thumbnail/waferpolar/26_kaito_unit.png",
+    "character": "KAITO",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "含團體物",
+      "無標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/26_kaito_text.png",
+    "webp": "images/webp/waferpolar/26_kaito_text.webp",
+    "thumbnail": "images/thumbnail/waferpolar/26_kaito_text.png",
+    "character": "KAITO",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
+      "標示卡面名稱"
+    ],
+    "warning": 0
+  },
+  {
+    "full": "images/waferpolar/26_kaito.png",
+    "webp": "images/webp/waferpolar/26_kaito.webp",
+    "thumbnail": "images/thumbnail/waferpolar/26_kaito.png",
+    "character": "KAITO",
+    "category": "拍立得&餅卡",
+    "text": "標示",
+    "detail": [
+      "不含團體物",
       "無標示卡面名稱"
     ],
     "warning": 0
