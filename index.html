@@ -1,180 +1,129 @@
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang="zh-TW">
 <head>
-  <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Chiron+Hei+HK:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
-
-  <link rel="icon" type="image/png" href="images/favicon.png" />
-
-  <title>世界計畫週邊圖鑑&lt;施工中&gt;</title>
-
-  <style>
-
-	body {
-	font-family: "Chiron Hei HK", sans-serif;
-	padding: 20px;
-	background-image: url(images/background.png);
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-position: center;
-	background-size: cover;
-	}
-
-	label {
-	margin-right: 15px;
-	}
-
-	#imageContainer {
-	margin-top: 20px;
-	display: flex;
-	flex-wrap: wrap;
-	gap: 16px;
-	justify-content: center;
-	}
-
-	#imageContainer img {
-	width: 150px;
-	height: auto;
-	box-shadow: 0 0 8px rgba(0,0,0,0.2);
-	}
-
-	.centered {
-    text-align: center;
-    }
-
-	.container {
-	display: flex;
-	justify-content: center;
-	}
-
-	.dolltable{
-	border-collapse:collapse;
-	border-color:black;
-	border-style:solid;
-	border-width:1px;
-	border-spacing:0;
-	}
-	.dolltable th{
-	border-color:black;
-	border-style:solid;
-	border-width:1px;
-	}
-	.dolltable td{
-	border-color:black;
-	border-style:solid;
-	border-width:1px;
-	}
-
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>世界計畫週邊圖鑑&lt;施工中&gt;</title>
+    <link rel="icon" href="images/favicon.png" type="image/png">
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <img src="images/title.png" alt="圖鑑一覽" style="margin: 0 auto; display: block;">
-  <br><br>
 
-  <a href="https://bsky.app/profile/luki-dex.bsky.social"  style="display: block; text-align: center;">點我取得更新資訊（Bluesky）</a>
-  <br>
- 
-  <a href="https://peing.net/zh-TW/luki_dex"  style="display: block; text-align: center;">點我前往匿名箱（Peing）</a>
-  <br>
+    <div class="container">
+        <header>
+            <img src="images/title.png" alt="網頁標題" class="title-image">
+        </header>
 
-  <details class="centered">
-  	<summary>點我展開娃娃日文正式名稱對照</summary>
-	<table class="dolltable" style="margin-left: auto; margin-right: auto;">
-	<tr>
-		<th>項目</th>
-		<th>正式名稱</th>
-	</tr>
-	<tr>
-		<td>初販/第一個活動景品娃</td>
-		<td>モアプラスマスコット</td>
-	</tr>
-	<tr>
-		<td>其他景品娃</td>
-		<td>ふわぷちマスコット</td>
-	</tr>
-	<tr>
-		<td>OC制服/V家團服坐姿娃</td>
-		<td>モアプラスふわふわぬいぐるみ</td>
-	</tr>
-	<tr>
-		<td>其他坐姿娃</td>
-		<td>ふわぷちミニぬいぐるみ</td>
-	</tr>
-	<tr>
-		<td>一番賞娃</td>
-		<td>ぷちぬいマスコット（セガラッキーくじ）</td>
-	</tr><tr>
-		<td>趴娃</td>
-		<td>寝そべりぬいぐるみ</td>
-	</tr>
-	<tr>
-		<td>方糰/方塊娃</td>
-		<td>モアプラススクエアマスコット</td>
-	</tr>
-	<tr>
-		<td>蟲娃/小趴娃</td>
-		<td>もちもちマスコット</td>
-	</tr>
-	<tr>
-		<td>大頭別針</td>
-		<td>モアプラスふわふわマスコットバッジ</td>
-	</tr>
-	<tr>
-		<td>活動坐姿娃</td>
-		<td>ふわぷちぬいぐるみM</td>
-	</tr>
-	<tr>
-		<td>羅森雞娃</td>
-		<td>なりきり！からあげクンぬいぐるみ</td>
-	</tr>
-	<tr>
-		<td>線上一番賞</td>
-		<td>はっぴーこれくしょんくじ</td>
-	</tr>
-	<tr>
-		<td>L/n菲尼</td>
-		<td>フェニーくん ぬいぐるみ（リプコレ）</td>
-	</tr>
-	<tr>
-		<td>菲尼樂園娃</td>
-		<td>フェニーくん ぬいぐるみ（フェニックスワンダーランド）</td>
-	</tr>
-	<tr>
-		<td>三麗鷗角色</td>
-		<td>サンリオキャラクターズぬいぐるみ</td>
-	</tr>
-	</table>
-  </details>
-  <br>
+        <a href="https://bsky.app/profile/luki-dex.bsky.social"  style="display: block; text-align: center;">點我取得更新資訊（Bluesky）</a>
+        <br>
+        
+        <a href="https://peing.net/zh-TW/luki_dex"  style="display: block; text-align: center;">點我前往匿名箱（Peing）</a>
+        <br>
 
+        <details class="centered">
+            <summary>點我展開娃娃日文正式名稱對照</summary>
+            <table class="dolltable" style="margin-left: auto; margin-right: auto;">
+            <tr>
+                <th>項目</th>
+                <th>正式名稱</th>
+            </tr>
+            <tr>
+                <td>初販/第一個活動景品娃</td>
+                <td>モアプラスマスコット</td>
+            </tr>
+            <tr>
+                <td>其他景品娃</td>
+                <td>ふわぷちマスコット</td>
+            </tr>
+            <tr>
+                <td>OC制服/V家團服坐姿娃</td>
+                <td>モアプラスふわふわぬいぐるみ</td>
+            </tr>
+            <tr>
+                <td>其他坐姿娃</td>
+                <td>ふわぷちミニぬいぐるみ</td>
+            </tr>
+            <tr>
+                <td>一番賞娃</td>
+                <td>ぷちぬいマスコット（セガラッキーくじ）</td>
+            </tr><tr>
+                <td>趴娃</td>
+                <td>寝そべりぬいぐるみ</td>
+            </tr>
+            <tr>
+                <td>方糰/方塊娃</td>
+                <td>モアプラススクエアマスコット</td>
+            </tr>
+            <tr>
+                <td>蟲娃/小趴娃</td>
+                <td>もちもちマスコット</td>
+            </tr>
+            <tr>
+                <td>大頭別針</td>
+                <td>モアプラスふわふわマスコットバッジ</td>
+            </tr>
+            <tr>
+                <td>活動坐姿娃</td>
+                <td>ふわぷちぬいぐるみM</td>
+            </tr>
+            <tr>
+                <td>羅森雞娃</td>
+                <td>なりきり！からあげクンぬいぐるみ</td>
+            </tr>
+            <tr>
+                <td>線上一番賞</td>
+                <td>はっぴーこれくしょんくじ</td>
+            </tr>
+            <tr>
+                <td>L/n菲尼</td>
+                <td>フェニーくん ぬいぐるみ（リプコレ）</td>
+            </tr>
+            <tr>
+                <td>菲尼樂園娃</td>
+                <td>フェニーくん ぬいぐるみ（フェニックスワンダーランド）</td>
+            </tr>
+            <tr>
+                <td>三麗鷗角色</td>
+                <td>サンリオキャラクターズぬいぐるみ</td>
+            </tr>
+            </table>
+        </details>
+        <br>
 
-  <div class="container">
-    <label>角色:
-      <select id="characterSelect">
-	    <option value="">不限</option>
-	  </select>
-    </label>
+        <div  class="guide">
+            <h3>建議善用篩選快速找到所需圖片</h3>
+            - <span class="tb">標示卡面名稱</span>表示該圖片有標註各個該類週邊的常見稱呼<br>
+            - <span class="yb">黃底</span>表示該週邊尚未發售<br>
+            - <span class="gb">團體物</span>指包含多個角色且無主要角色的週邊<br>
+            - <span class="nb">南嘉堂畫板</span>因不完全算是色紙，分為有/無兩個版本<br>
+        </div><br>
 
-    <label>類別:
-      <select id="categorySelect">
-	    <option value="">不限</option>
-	  </select>
-    </label>
+        <nav class="filters">
+            <div class="filter-group">
+                <label for="character-filter">角色:</label>
+                <select id="character-filter">
+                    <option value="">所有角色</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="category-filter">類別:</label>
+                <select id="category-filter">
+                    <option value="">所有類別</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="text-filter">卡面名稱:</label>
+                <select id="text-filter">
+                    <option value="">不限</option>
+                </select>
+            </div>
+            <button id="filter-button">顯示結果</button>
+        </nav>
 
-	<label>卡面名稱:
-      <select id="textSelect">
-	    <option value="">不限</option>
-	  </select>
-    </label>
+        <main id="results-container" class="results-grid">
+            </main>
+    </div>
 
-    <button id="searchButton">顯示結果</button>
-  </div>
-  
-
-  <div id="imageContainer"></div>
-
-  <script src="script.js"></script>
+    <script src="script.js"></script>
 </body>
 </html>

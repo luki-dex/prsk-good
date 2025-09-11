@@ -1,143 +1,161 @@
-let goods = [];
+document.addEventListener('DOMContentLoaded', () => {
+    const characterFilter = document.getElementById('character-filter');
+    const categoryFilter = document.getElementById('category-filter');
+    const textFilter = document.getElementById('text-filter');
+    const filterButton = document.getElementById('filter-button');
+    const resultsContainer = document.getElementById('results-container');
 
-fetch('goods.json')
-  .then(res => res.json())
-  .then(data => {
-    goods = data;
-    populateSelects();
-  });
+    let allData = [];
 
-function populateSelects() {
-  const character = [...new Set(goods.map(b => b.character))];
-  const category = [...new Set(goods.map(b => b.category))];
-  const text = [...new Set(goods.map(b => b.text))];
+    fetch('goods.json')
+        .then(response => {
+            if (!response.ok) {
+                throw new Error('無法讀取 goods.json 檔案');
+            }
+            return response.json();
+        })
+        .then(data => {
+            allData = data;
+            populateFilters(data);
+        })
+        .catch(error => {
+            console.error('讀取資料時發生錯誤:', error);
+            resultsContainer.innerHTML = `<p class="message">錯誤：無法載入圖片資料。</p>`;
+        });
 
-  fillSelect('characterSelect', character);
-  fillSelect('categorySelect', category);
-  fillSelect('textSelect', text);
+    function populateFilters(data) {
+        const characters = new Set();
+        const categories = new Set();
+        const texts = new Set();
 
-  document.getElementById("searchButton").addEventListener("click", updateImages);
-}
+        data.forEach(item => {
+            characters.add(item.character);
+            categories.add(item.category);
+            texts.add(item.text);
+        });
 
-function fillSelect(id, items) {
-  const select = document.getElementById(id);
-  items.forEach(item => {
-    const option = document.createElement("option");
-    option.value = item;
-    option.textContent = item;
-    if (option.textContent !== "") {
-      select.appendChild(option);
-    }
-  });
-}
-
-function updateImages() {
-  const character = document.getElementById("characterSelect").value;
-  const category = document.getElementById("categorySelect").value;
-  const text = document.getElementById("textSelect").value;
-
-  const filtered = goods.filter(b =>
-    (!character || b.character === character) &&
-    (!category || b.category === category) &&
-    (!text || b.text === text || b.text === "")
-  );
-
-  const container = document.getElementById("imageContainer");
-  container.innerHTML = "";
-
-  filtered.forEach(b => {
-    const wrapper = document.createElement("div");
-    wrapper.style.display = "flex";
-    wrapper.style.flexDirection = "column";
-    wrapper.style.alignItems = "center";
-    wrapper.style.gap = "8px";
-
-    const name = document.createElement("div");
-      fullname = b.character + "/" + b.category
-      name.textContent = fullname;
-      name.style.color = "black";
-      name.style.fontSize = "16px";
-      name.style.textAlign = "center";
-      wrapper.appendChild(name);
-    
-    
-    const detailsBox = document.createElement("div");
-    detailsBox.style.display = "none";
-    detailsBox.style.flexDirection = "column";
-    detailsBox.style.alignItems = "center";
-    detailsBox.style.gap = "4px";
-    detailsBox.style.border = "1px solid #000000";
-    detailsBox.style.padding = "4px 4px";
-    detailsBox.style.backgroundColor = "#FFFFFF"
-    
-    for (var i = 0; i < b.detail.length; i++){
-      const details = document.createElement("div");
-      details.textContent = b.detail[i];
-      details.style.color = "black";
-      details.style.fontSize = "14px";
-      details.style.textAlign = "center";
-      detailsBox.appendChild(details);
+        const fillSelect = (selectElement, items) => {
+            items.forEach(item => {
+                const option = document.createElement('option');
+                option.value = item;
+                option.textContent = item;
+                if (option.textContent !== "") {
+                    selectElement.appendChild(option);
+                };
+            });
+        };
+        
+        fillSelect(characterFilter, [...characters]);
+        fillSelect(categoryFilter, [...categories]);
+        fillSelect(textFilter, [...texts]);
     }
 
-    if (b.warning === 1) {
-      const warning = document.createElement("div");
-      warning.textContent = "建議使用副團體版本";
-      warning.style.color = "black";
-      warning.style.fontSize = "14px";
-      warning.style.textAlign = "center";
-      detailsBox.appendChild(warning);
-    }
-    
-    const toggleLink = document.createElement("a");
-    toggleLink.type = "a";
-    toggleLink.textContent = "展開說明";
-    toggleLink.style.cursor = "pointer";
-    toggleLink.style.fontSize = "12px";
-    toggleLink.style.textDecoration = "underline";
-    toggleLink.style.color = "#000000";
-
-    toggleLink.addEventListener("click", () => {
-      const isHidden = detailsBox.style.display === "none";
-      detailsBox.style.display = isHidden ? "flex" : "none";
-      toggleLink.textContent = isHidden ? "收起說明" : "展開說明";
+    filterButton.addEventListener('click', () => {
+        displayResults();
     });
 
-      wrapper.appendChild(toggleLink);
-      wrapper.appendChild(detailsBox);
+    function displayResults() {
+        const selectedCharacter = characterFilter.value;
+        const selectedCategory = categoryFilter.value;
+        const selectedText = textFilter.value;
 
-    const img = document.createElement("img");
-    img.src = b.thumbnail;
-    img.alt = b.character;
-    img.title = b.character;
-    img.addEventListener("click", () => {
-      window.open(b.full, "_blank");
+        const filteredData = allData.filter(item => {
+            const characterMatch = !selectedCharacter || item.character === selectedCharacter;
+            const categoryMatch = !selectedCategory || item.category === selectedCategory;
+            const textMatch = !selectedText || item.text === selectedText;
+            return characterMatch && categoryMatch && textMatch;
+        });
+
+        renderCards(filteredData);
+    }
+
+    function renderCards(data) {
+        resultsContainer.innerHTML = ''; 
+
+        if (data.length === 0) {
+            resultsContainer.innerHTML = `<p class="message">找不到符合條件的圖片。</p>`;
+            return;
+        }
+
+        data.forEach((item, index) => {
+            const detailHtml = item.detail.map(d => `<p>${d}</p>`).join('');
+            
+            const card = document.createElement('div');
+            card.className = 'result-card';
+            card.innerHTML = `
+                <img src="${item.thumbnail}" alt="${item.text}" class="thumbnail" data-full-src="${item.webp}">
+                <div class="card-content">
+                    <h3 class="card-title">${item.character} - ${item.category}</h3>
+                    ${item.warning === 1 ? '<p class="card-warning">建議使用副團體版本</p>' : ''}
+                    <div class="card-buttons">
+                        <a href="${item.full}" download class="btn btn-download-png">下載 PNG</a>
+                        <a href="${item.webp}" download class="btn btn-download-webp">下載 WebP</a>
+                        <button class="btn btn-details" data-target="details-${index}">展開說明</button>
+                    </div>
+                    <div id="details-${index}" class="details-content">
+                        ${detailHtml}
+                    </div>
+                </div>
+            `;
+            resultsContainer.appendChild(card);
+        });
+    }
+
+    resultsContainer.addEventListener('click', (event) => {
+        const target = event.target;
+
+        if (target.classList.contains('btn-details')) {
+            const detailsId = target.getAttribute('data-target');
+            const detailsContent = document.getElementById(detailsId);
+            if (detailsContent) {
+                const isVisible = detailsContent.style.display === 'block';
+                detailsContent.style.display = isVisible ? 'none' : 'block';
+                target.textContent = isVisible ? '展開說明' : '收起說明';
+            }
+        }
+        
+        if (target.classList.contains('thumbnail')) {
+            const fullImageUrl = target.getAttribute('data-full-src');
+            if (fullImageUrl) {
+                showLightbox(fullImageUrl);
+            }
+        }
     });
 
-    const downloadPNG = document.createElement("a");
-    downloadPNG.href = b.full;
-    downloadPNG.download = "";
-    downloadPNG.textContent = "下載PNG";
-    downloadPNG.style.textDecoration = "none";
-    downloadPNG.style.backgroundColor = "#4CAF50";
-    downloadPNG.style.color = "white";
-    downloadPNG.style.padding = "6px 12px";
-    downloadPNG.style.borderRadius = "4px";
-    downloadPNG.style.fontSize = "14px";
+    function showLightbox(imageUrl) {
+        const lightbox = document.createElement('div');
+        lightbox.id = 'lightbox-overlay';
+        lightbox.className = 'lightbox-overlay';
+        lightbox.innerHTML = `
+            <div class="lightbox-content">
+                <span class="lightbox-close">&times;</span>
+                <img src="${imageUrl}" alt="圖片預覽">
+            </div>
+        `;
 
-    const downloadWebP = document.createElement("a");
-    downloadWebP.href = b.webp;
-    downloadWebP.download = "";
-    downloadWebP.textContent = "下載WebP";
-    downloadWebP.style.textDecoration = "none";
-    downloadWebP.style.backgroundColor = "#329cc9";
-    downloadWebP.style.color = "white";
-    downloadWebP.style.padding = "6px 12px";
-    downloadWebP.style.borderRadius = "4px";
-    downloadWebP.style.fontSize = "14px";
+        document.body.appendChild(lightbox);
+        
+        lightbox.querySelector('.lightbox-close').addEventListener('click', closeLightbox);
+        lightbox.addEventListener('click', (e) => {
+            if (e.target.id === 'lightbox-overlay') {
+                closeLightbox();
+            }
+        });
 
-    wrapper.appendChild(img);
-    wrapper.appendChild(downloadPNG);
-    wrapper.appendChild(downloadWebP);
-    container.appendChild(wrapper);
-  });
-}
+        document.addEventListener('keydown', handleEscKey);
+    }
+    
+    function closeLightbox() {
+        const lightbox = document.getElementById('lightbox-overlay');
+        if (lightbox) {
+            lightbox.remove();
+            document.removeEventListener('keydown', handleEscKey);
+        }
+    }
+    
+    function handleEscKey(e) {
+        if (e.key === 'Escape') {
+            closeLightbox();
+        }
+    }
+});
