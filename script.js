@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
     const characterFilter = document.getElementById('character-filter');
     const categoryFilter = document.getElementById('category-filter');
-    const textFilter = document.getElementById('text-filter');
     const filterButton = document.getElementById('filter-button');
     const resultsContainer = document.getElementById('results-container');
 
     let allData = [];
+    let currentDisplayData = [];
 
     fetch('goods.json')
         .then(response => {
@@ -26,12 +26,10 @@ document.addEventListener('DOMContentLoaded', () => {
     function populateFilters(data) {
         const characters = new Set();
         const categories = new Set();
-        const texts = new Set();
 
         data.forEach(item => {
             characters.add(item.character);
             categories.add(item.category);
-            texts.add(item.text);
         });
 
         const fillSelect = (selectElement, items) => {
@@ -39,15 +37,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 const option = document.createElement('option');
                 option.value = item;
                 option.textContent = item;
-                if (option.textContent !== "") {
-                    selectElement.appendChild(option);
-                };
+                selectElement.appendChild(option);
+                
             });
         };
         
         fillSelect(characterFilter, [...characters]);
         fillSelect(categoryFilter, [...categories]);
-        fillSelect(textFilter, [...texts]);
     }
 
     filterButton.addEventListener('click', () => {
@@ -57,15 +53,14 @@ document.addEventListener('DOMContentLoaded', () => {
     function displayResults() {
         const selectedCharacter = characterFilter.value;
         const selectedCategory = categoryFilter.value;
-        const selectedText = textFilter.value;
 
         const filteredData = allData.filter(item => {
             const characterMatch = !selectedCharacter || item.character === selectedCharacter;
             const categoryMatch = !selectedCategory || item.category === selectedCategory;
-            const textMatch = !selectedText || item.text === selectedText;
-            return characterMatch && categoryMatch && textMatch;
+            return characterMatch && categoryMatch;
         });
 
+		currentDisplayData = filteredData;
         renderCards(filteredData);
     }
 
@@ -78,23 +73,37 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         data.forEach((item, index) => {
-            const detailHtml = item.detail.map(d => `<p>${d}</p>`).join('');
+			
+			const hasVariants = item.variants && Array.isArray(item.variants) && item.variants.length > 0;
+            
+            let variantSelectorHtml = '';
+            if (hasVariants) {
+                const variantOptions = item.variants.map((variant, vIndex) => 
+                    `<option value="${vIndex}" ${vIndex === 0 ? 'selected' : ''}>${variant.name}</option>`
+                ).join('');
+                
+                variantSelectorHtml = `
+                    <div class="variant-selector">
+                        <label for="variant-${index}">選擇版本：</label>
+                        <select id="variant-${index}" class="variant-select" data-item-index="${index}"> ${variantOptions}</select>
+                    </div>
+                `;
+            }
             
             const card = document.createElement('div');
             card.className = 'result-card';
+            card.setAttribute('data-item-index', index);
             card.innerHTML = `
-                <img src="${item.thumbnail}" alt="${item.text}" class="thumbnail" data-full-src="${item.webp}">
+                <img src="${hasVariants ? item.variants[0].thumbnail : item.thumbnail}" class="thumbnail"  data-full-src="${hasVariants ? item.variants[0].webp : item.webp}">
                 <div class="card-content">
                     <h3 class="card-title">${item.character} - ${item.category}</h3>
                     ${item.warning === 1 ? '<p class="card-warning">建議使用副團體版本</p>' : ''}
-                    <div class="card-buttons">
-                        <a href="${item.full}" download class="btn btn-download-png">下載 PNG</a>
-                        <a href="${item.webp}" download class="btn btn-download-webp">下載 WebP</a>
-                        <button class="btn btn-details" data-target="details-${index}">展開說明</button>
-                    </div>
-                    <div id="details-${index}" class="details-content">
-                        ${detailHtml}
-                    </div>
+                    ${variantSelectorHtml}
+					
+					<div class="card-buttons">
+                        <a href="${hasVariants ? item.variants[0].full : item.full}" download class="btn btn-download-png">下載 PNG</a>
+                        <a href="${hasVariants ? item.variants[0].webp : item.webp}" download class="btn btn-download-webp">下載 WebP</a>
+					</div>
                 </div>
             `;
             resultsContainer.appendChild(card);
@@ -103,21 +112,34 @@ document.addEventListener('DOMContentLoaded', () => {
 
     resultsContainer.addEventListener('click', (event) => {
         const target = event.target;
-
-        if (target.classList.contains('btn-details')) {
-            const detailsId = target.getAttribute('data-target');
-            const detailsContent = document.getElementById(detailsId);
-            if (detailsContent) {
-                const isVisible = detailsContent.style.display === 'block';
-                detailsContent.style.display = isVisible ? 'none' : 'block';
-                target.textContent = isVisible ? '展開說明' : '收起說明';
-            }
-        }
         
         if (target.classList.contains('thumbnail')) {
             const fullImageUrl = target.getAttribute('data-full-src');
             if (fullImageUrl) {
                 showLightbox(fullImageUrl);
+            }
+        }
+    });
+	
+	resultsContainer.addEventListener('change', (event) => {
+        if (event.target.classList.contains('variant-select')) {
+            const itemIndex = parseInt(event.target.getAttribute('data-item-index'));
+            const variantIndex = parseInt(event.target.value);
+            
+            const item = currentDisplayData[itemIndex];
+            
+            if (item && item.variants && item.variants[variantIndex]) {
+                const variant = item.variants[variantIndex];
+                const card = event.target.closest('.result-card');
+                
+                const thumbnail = card.querySelector('.thumbnail');
+                thumbnail.src = variant.thumbnail;
+                thumbnail.setAttribute('data-full-src', variant.webp);
+                
+                const pngLink = card.querySelector('.btn-download-png');
+                const webpLink = card.querySelector('.btn-download-webp');
+                pngLink.href = variant.full;
+                webpLink.href = variant.webp;
             }
         }
     });

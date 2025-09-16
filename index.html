@@ -92,7 +92,7 @@
 
         <div  class="guide">
             <h3>建議善用篩選快速找到所需圖片</h3>
-            - <span class="tb">標示卡面名稱</span>表示該圖片有標註各個該類週邊的常見稱呼<br>
+            - <span class="tb">標示卡面名稱</span>表示該圖片有標示常見稱呼<br>
             - <span class="yb">黃底</span>表示該週邊尚未發售<br>
             - <span class="gb">團體物</span>指包含多個角色且無主要角色的週邊<br>
             - <span class="nb">南嘉堂畫板</span>因不完全算是色紙，分為有/無兩個版本<br>
@@ -100,28 +100,21 @@
 
         <nav class="filters">
             <div class="filter-group">
-                <label for="character-filter">角色:</label>
+                <label for="character-filter">角色：</label>
                 <select id="character-filter">
                     <option value="">所有角色</option>
                 </select>
             </div>
             <div class="filter-group">
-                <label for="category-filter">類別:</label>
+                <label for="category-filter">類別：</label>
                 <select id="category-filter">
                     <option value="">所有類別</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="text-filter">卡面名稱:</label>
-                <select id="text-filter">
-                    <option value="">不限</option>
                 </select>
             </div>
             <button id="filter-button">顯示結果</button>
         </nav>
 
-        <main id="results-container" class="results-grid">
-            </main>
+        <main id="results-container" class="results-grid"></main>
     </div>
 
     <script src="script.js"></script>
