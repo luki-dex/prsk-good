@@ -1,0 +1,1210 @@
+{
+  "version": "1.0.0",
+  "characters": [
+    {
+      "id": "01_ichika",
+      "name": "星乃一歌",
+      "order": 1,
+      "color": "#33aaee"
+    },
+    {
+      "id": "02_saki",
+      "name": "天馬咲希",
+      "order": 2,
+      "color": "#ffdd44"
+    },
+    {
+      "id": "03_honami",
+      "name": "望月穗波",
+      "order": 3,
+      "color": "#ee6666"
+    },
+    {
+      "id": "04_shiho",
+      "name": "日野森志步",
+      "order": 4,
+      "color": "#bbdd22"
+    },
+    {
+      "id": "05_minori",
+      "name": "花里實乃理",
+      "order": 5,
+      "color": "#ffccaa"
+    },
+    {
+      "id": "06_haruka",
+      "name": "桐谷遙",
+      "order": 6,
+      "color": "#99ccff"
+    },
+    {
+      "id": "07_airi",
+      "name": "桃井愛莉",
+      "order": 7,
+      "color": "#ffaacc"
+    },
+    {
+      "id": "08_shizuku",
+      "name": "日野森雫",
+      "order": 8,
+      "color": "#99eedd"
+    },
+    {
+      "id": "09_kohane",
+      "name": "小豆澤心羽",
+      "order": 9,
+      "color": "#ff6699"
+    },
+    {
+      "id": "10_an",
+      "name": "白石杏",
+      "order": 10,
+      "color": "#00bbdd"
+    },
+    {
+      "id": "11_akito",
+      "name": "東雲彰人",
+      "order": 11,
+      "color": "#ff7722"
+    },
+    {
+      "id": "12_toya",
+      "name": "青柳冬彌",
+      "order": 12,
+      "color": "#0077dd"
+    },
+    {
+      "id": "13_tsukasa",
+      "name": "天馬司",
+      "order": 13,
+      "color": "#ffbb00"
+    },
+    {
+      "id": "14_emu",
+      "name": "鳳笑夢",
+      "order": 14,
+      "color": "#ff66bb"
+    },
+    {
+      "id": "15_nene",
+      "name": "草薙寧寧",
+      "order": 15,
+      "color": "#33dd99"
+    },
+    {
+      "id": "16_rui",
+      "name": "神代類",
+      "order": 16,
+      "color": "#bb88ee"
+    },
+    {
+      "id": "17_kanade",
+      "name": "宵崎奏",
+      "order": 17,
+      "color": "#bb6688"
+    },
+    {
+      "id": "18_mafuyu",
+      "name": "朝比奈真冬",
+      "order": 18,
+      "color": "#8888cc"
+    },
+    {
+      "id": "19_ena",
+      "name": "東雲繪名",
+      "order": 19,
+      "color": "#ccaa88"
+    },
+    {
+      "id": "20_mizuki",
+      "name": "曉山瑞希",
+      "order": 20,
+      "color": "#ddaacc"
+    },
+    {
+      "id": "21_miku",
+      "name": "初音未來",
+      "order": 21,
+      "color": "#33ccbb"
+    },
+    {
+      "id": "22_rin",
+      "name": "鏡音鈴",
+      "order": 22,
+      "color": "#ffcc11"
+    },
+    {
+      "id": "23_len",
+      "name": "鏡音連",
+      "order": 23,
+      "color": "#ffee11"
+    },
+    {
+      "id": "24_luka",
+      "name": "巡音流歌",
+      "order": 24,
+      "color": "#ffbbcc"
+    },
+    {
+      "id": "25_meiko",
+      "name": "MEIKO",
+      "order": 25,
+      "color": "#dd4444"
+    },
+    {
+      "id": "26_kaito",
+      "name": "KAITO",
+      "order": 26,
+      "color": "#3366cc"
+    }
+  ],
+  "series": [
+    {
+      "id": "ep-event",
+      "name": "卡面ePick",
+      "order": 1,
+      "color": "#aa8866"
+    },
+    {
+      "id": "ep-star2",
+      "name": "特典ePick",
+      "order": 2,
+      "color": "#77bb66"
+    },
+    {
+      "id": "ep-special",
+      "name": "特殊ePick",
+      "order": 3,
+      "color": "#bbeeaa"
+    },
+    {
+      "id": "ep-sign",
+      "name": "卡面ePick簽",
+      "order": 4,
+      "color": "#aa8866"
+    },
+    {
+      "id": "ep-sign-sp",
+      "name": "特殊ePick簽",
+      "order": 5,
+      "color": "#aa8866"
+    },
+    {
+      "id": "shikishi-event",
+      "name": "卡面色紙",
+      "order": 6,
+      "color": "#aa8866"
+    },
+    {
+      "id": "shikishi-star2",
+      "name": "二星卡面色紙",
+      "order": 7,
+      "color": "#77bb66"
+    },
+    {
+      "id": "shikishi-special",
+      "name": "特殊活動色紙",
+      "order": 8,
+      "color": "#bbeeaa"
+    },
+    {
+      "id": "nobleart-event",
+      "name": "卡面厚磚",
+      "order": 9,
+      "color": "#aa8866"
+    },
+    {
+      "id": "nobleart-special",
+      "name": "厚壓克力",
+      "order": 10,
+      "color": "#bbeeaa"
+    },
+    {
+      "id": "glitter-event",
+      "name": "卡面細閃",
+      "order": 11,
+      "color": "#aa8866"
+    },
+    {
+      "id": "glitter-star2",
+      "name": "特典徽章",
+      "order": 12,
+      "color": "#77bb66"
+    },
+    {
+      "id": "glitter-special",
+      "name": "其他卡面徽章",
+      "order": 13,
+      "color": "#bbeeaa"
+    },
+    {
+      "id": "sticker-event",
+      "name": "卡面透明貼紙",
+      "order": 14,
+      "color": "#aa8866"
+    },
+    {
+      "id": "sticker-special",
+      "name": "活動透明貼紙",
+      "order": 15,
+      "color": "#77bb66"
+    },
+    {
+      "id": "sticker-sign",
+      "name": "透明貼紙簽",
+      "order": 16,
+      "color": "#bbeeaa"
+    },
+    {
+      "id": "square-event",
+      "name": "方徽",
+      "order": 17,
+      "color": "#88aa66"
+    },
+    {
+      "id": "wafer",
+      "name": "威化餅卡",
+      "order": 18,
+      "color": "#bbeeaa"
+    },
+    {
+      "id": "polar",
+      "name": "拍立得",
+      "order": 19,
+      "color": "#88aa66"
+    },
+    {
+      "id": "doll-masu",
+      "name": "景品娃",
+      "order": 20,
+      "color": "#88aa66",
+      "subCategories": {
+        "enabled": true,
+        "label": "選擇團體",
+        "options": [
+          {
+            "id": "vs",
+            "name": "V家"
+          },
+          {
+            "id": "ln",
+            "name": "Ln"
+          },
+          {
+            "id": "mmj",
+            "name": "MMJ"
+          },
+          {
+            "id": "vbs",
+            "name": "VBS"
+          },
+          {
+            "id": "ws",
+            "name": "WS"
+          },
+          {
+            "id": "25",
+            "name": "25時"
+          }
+        ]
+      }
+    },
+    {
+      "id": "doll-sit",
+      "name": "坐姿娃",
+      "order": 21,
+      "color": "#88aa66",
+      "subCategories": {
+        "enabled": true,
+        "label": "選擇團體",
+        "options": [
+          {
+            "id": "vs",
+            "name": "V家"
+          },
+          {
+            "id": "ln",
+            "name": "Ln"
+          },
+          {
+            "id": "vbs",
+            "name": "VBS"
+          },
+          {
+            "id": "25",
+            "name": "25時"
+          }
+        ]
+      }
+    },
+    {
+      "id": "doll-kuji",
+      "name": "一番賞娃",
+      "order": 22,
+      "color": "#88aa66",
+      "subCategories": {
+        "enabled": true,
+        "label": "選擇團體",
+        "options": [
+          {
+            "id": "vs",
+            "name": "V家"
+          },
+          {
+            "id": "ln",
+            "name": "Ln"
+          },
+          {
+            "id": "mmj",
+            "name": "MMJ"
+          },
+          {
+            "id": "vbs",
+            "name": "VBS"
+          },
+          {
+            "id": "ws",
+            "name": "WS"
+          },
+          {
+            "id": "25",
+            "name": "25時"
+          }
+        ]
+      }
+    },
+    {
+      "id": "doll-neso",
+      "name": "趴娃",
+      "order": 23,
+      "color": "#88aa66",
+      "subCategories": {
+        "enabled": true,
+        "label": "選擇團體",
+        "options": [
+          {
+            "id": "vs",
+            "name": "V家"
+          },
+          {
+            "id": "ln",
+            "name": "Ln"
+          },
+          {
+            "id": "mmj",
+            "name": "MMJ"
+          },
+          {
+            "id": "vbs",
+            "name": "VBS"
+          },
+          {
+            "id": "ws",
+            "name": "WS"
+          },
+          {
+            "id": "25",
+            "name": "25時"
+          }
+        ]
+      }
+    },
+    {
+      "id": "doll-other",
+      "name": "其他娃娃",
+      "order": 24,
+      "color": "#88aa66",
+      "subCategories": {
+        "enabled": true,
+        "label": "選擇團體",
+        "options": [
+          {
+            "id": "vs",
+            "name": "V家"
+          },
+          {
+            "id": "ln",
+            "name": "Ln"
+          },
+          {
+            "id": "mmj",
+            "name": "MMJ"
+          },
+          {
+            "id": "vbs",
+            "name": "VBS"
+          },
+          {
+            "id": "ws",
+            "name": "WS"
+          },
+          {
+            "id": "25",
+            "name": "25時"
+          }
+        ]
+      }
+    },
+    {
+      "id": "doll-special",
+      "name": "非角色娃娃",
+      "order": 25,
+      "color": "#88aa66",
+      "subCategories": {
+        "enabled": true,
+        "label": "選擇團體",
+        "options": [
+          {
+            "id": "vs",
+            "name": "V家"
+          }
+        ]
+      }
+    }
+  ],
+  "images": {
+    "01_ichika": {
+      "ep-event": "images/ep_event/01_ichika.png",
+      "ep-star2": "images/ep_star2/01_ichika.png",
+      "ep-special": "images/ep_special/01_ichika.png",
+      "ep-sign": "images/ep_sign/01_ichika.png",
+      "ep-sign-sp": "images/ep_sign_sp/01_ichika.png",
+      "shikishi-event": "images/shikishi_event/01_ichika.png",
+      "shikishi-star2": "images/shikishi_star2/01_ichika.png",
+      "shikishi-special": "images/shikishi_special/01_ichika.png",
+      "nobleart-event": "images/nobleart_event/01_ichika.png",
+      "nobleart-special": "images/nobleart_special/01_ichika.png",
+      "glitter-event": "images/glitter_event/01_ichika.png",
+      "glitter-star2": "images/glitter_star2/01_ichika.png",
+      "glitter-special": "images/glitter_special/01_ichika.png",
+      "sticker-event": "images/sticker_event/01_ichika.png",
+      "sticker-special": "images/sticker_special/01_ichika.png",
+      "sticker-sign": "images/sticker_sign/01_ichika.png",
+      "square-event": "images/square_event/01_ichika.png",
+      "wafer": "images/wafer/01_ichika.png",
+      "polar": "images/polar/01_ichika.png",
+      "doll-masu": "images/doll_masu/01_ichika.png",
+      "doll-sit": "images/doll_sit/01_ichika.png",
+      "doll-kuji": "images/doll_kuji/01_ichika.png",
+      "doll-neso": "images/doll_neso/01_ichika.png",
+      "doll-other": "images/doll_other/01_ichika.png",
+      "doll-special": "images/doll_special/01_ichika.png"
+    },
+    "02_saki": {
+      "ep-event": "images/ep_event/02_saki.png",
+      "ep-star2": "images/ep_star2/02_saki.png",
+      "ep-special": "images/ep_special/02_saki.png",
+      "ep-sign": "images/ep_sign/02_saki.png",
+      "ep-sign-sp": "images/ep_sign_sp/02_saki.png",
+      "shikishi-event": "images/shikishi_event/02_saki.png",
+      "shikishi-star2": "images/shikishi_star2/02_saki.png",
+      "shikishi-special": "images/shikishi_special/02_saki.png",
+      "nobleart-event": "images/nobleart_event/02_saki.png",
+      "nobleart-special": "images/nobleart_special/02_saki.png",
+      "glitter-event": "images/glitter_event/02_saki.png",
+      "glitter-star2": "images/glitter_star2/02_saki.png",
+      "glitter-special": "images/glitter_special/02_saki.png",
+      "sticker-event": "images/sticker_event/02_saki.png",
+      "sticker-special": "images/sticker_special/02_saki.png",
+      "sticker-sign": "images/sticker_sign/02_saki.png",
+      "square-event": "images/square_event/02_saki.png",
+      "wafer": "images/wafer/02_saki.png",
+      "polar": "images/polar/02_saki.png",
+      "doll-masu": "images/doll_masu/02_saki.png",
+      "doll-sit": "images/doll_sit/02_saki.png",
+      "doll-kuji": "images/doll_kuji/02_saki.png",
+      "doll-neso": "images/doll_neso/02_saki.png",
+      "doll-other": "images/doll_other/02_saki.png",
+      "doll-special": "images/doll_special/02_saki.png"
+    },
+    "03_honami": {
+      "ep-event": "images/ep_event/03_honami.png",
+      "ep-star2": "images/ep_star2/03_honami.png",
+      "ep-special": "images/ep_special/03_honami.png",
+      "ep-sign": "images/ep_sign/03_honami.png",
+      "ep-sign-sp": "images/ep_sign_sp/03_honami.png",
+      "shikishi-event": "images/shikishi_event/03_honami.png",
+      "shikishi-star2": "images/shikishi_star2/03_honami.png",
+      "shikishi-special": "images/shikishi_special/03_honami.png",
+      "nobleart-event": "images/nobleart_event/03_honami.png",
+      "nobleart-special": "images/nobleart_special/03_honami.png",
+      "glitter-event": "images/glitter_event/03_honami.png",
+      "glitter-star2": "images/glitter_star2/03_honami.png",
+      "glitter-special": "images/glitter_special/03_honami.png",
+      "sticker-event": "images/sticker_event/03_honami.png",
+      "sticker-special": "images/sticker_special/03_honami.png",
+      "sticker-sign": "images/sticker_sign/03_honami.png",
+      "square-event": "images/square_event/03_honami.png",
+      "wafer": "images/wafer/03_honami.png",
+      "polar": "images/polar/03_honami.png",
+      "doll-masu": "images/doll_masu/03_honami.png",
+      "doll-sit": "images/doll_sit/03_honami.png",
+      "doll-kuji": "images/doll_kuji/03_honami.png",
+      "doll-neso": "images/doll_neso/03_honami.png",
+      "doll-other": "images/doll_other/03_honami.png",
+      "doll-special": "images/doll_special/03_honami.png"
+    },
+    "04_shiho": {
+      "ep-event": "images/ep_event/04_shiho.png",
+      "ep-star2": "images/ep_star2/04_shiho.png",
+      "ep-special": "images/ep_special/04_shiho.png",
+      "ep-sign": "images/ep_sign/04_shiho.png",
+      "ep-sign-sp": "images/ep_sign_sp/04_shiho.png",
+      "shikishi-event": "images/shikishi_event/04_shiho.png",
+      "shikishi-star2": "images/shikishi_star2/04_shiho.png",
+      "shikishi-special": "images/shikishi_special/04_shiho.png",
+      "nobleart-event": "images/nobleart_event/04_shiho.png",
+      "nobleart-special": "images/nobleart_special/04_shiho.png",
+      "glitter-event": "images/glitter_event/04_shiho.png",
+      "glitter-star2": "images/glitter_star2/04_shiho.png",
+      "glitter-special": "images/glitter_special/04_shiho.png",
+      "sticker-event": "images/sticker_event/04_shiho.png",
+      "sticker-special": "images/sticker_special/04_shiho.png",
+      "sticker-sign": "images/sticker_sign/04_shiho.png",
+      "square-event": "images/square_event/04_shiho.png",
+      "wafer": "images/wafer/04_shiho.png",
+      "polar": "images/polar/04_shiho.png",
+      "doll-masu": "images/doll_masu/04_shiho.png",
+      "doll-sit": "images/doll_sit/04_shiho.png",
+      "doll-kuji": "images/doll_kuji/04_shiho.png",
+      "doll-neso": "images/doll_neso/04_shiho.png",
+      "doll-other": "images/doll_other/04_shiho.png",
+      "doll-special": "images/doll_special/04_shiho.png"
+    },
+    "05_minori": {
+      "ep-event": "images/ep_event/05_minori.png",
+      "ep-star2": "images/ep_star2/05_minori.png",
+      "ep-special": "images/ep_special/05_minori.png",
+      "ep-sign": "images/ep_sign/05_minori.png",
+      "ep-sign-sp": "images/ep_sign_sp/05_minori.png",
+      "shikishi-event": "images/shikishi_event/05_minori.png",
+      "shikishi-star2": "images/shikishi_star2/05_minori.png",
+      "shikishi-special": "images/shikishi_special/05_minori.png",
+      "nobleart-event": "images/nobleart_event/05_minori.png",
+      "nobleart-special": "images/nobleart_special/05_minori.png",
+      "glitter-event": "images/glitter_event/05_minori.png",
+      "glitter-star2": "images/glitter_star2/05_minori.png",
+      "glitter-special": "images/glitter_special/05_minori.png",
+      "sticker-event": "images/sticker_event/05_minori.png",
+      "sticker-special": "images/sticker_special/05_minori.png",
+      "sticker-sign": "images/sticker_sign/05_minori.png",
+      "square-event": "images/square_event/05_minori.png",
+      "wafer": "images/wafer/05_minori.png",
+      "polar": "images/polar/05_minori.png",
+      "doll-masu": "images/doll_masu/05_minori.png",
+      "doll-sit": "images/doll_sit/05_minori.png",
+      "doll-kuji": "images/doll_kuji/05_minori.png",
+      "doll-neso": "images/doll_neso/05_minori.png",
+      "doll-other": "images/doll_other/05_minori.png",
+      "doll-special": "images/doll_special/05_minori.png"
+    },
+    "06_haruka": {
+      "ep-event": "images/ep_event/06_haruka.png",
+      "ep-star2": "images/ep_star2/06_haruka.png",
+      "ep-special": "images/ep_special/06_haruka.png",
+      "ep-sign": "images/ep_sign/06_haruka.png",
+      "ep-sign-sp": "images/ep_sign_sp/06_haruka.png",
+      "shikishi-event": "images/shikishi_event/06_haruka.png",
+      "shikishi-star2": "images/shikishi_star2/06_haruka.png",
+      "shikishi-special": "images/shikishi_special/06_haruka.png",
+      "nobleart-event": "images/nobleart_event/06_haruka.png",
+      "nobleart-special": "images/nobleart_special/06_haruka.png",
+      "glitter-event": "images/glitter_event/06_haruka.png",
+      "glitter-star2": "images/glitter_star2/06_haruka.png",
+      "glitter-special": "images/glitter_special/06_haruka.png",
+      "sticker-event": "images/sticker_event/06_haruka.png",
+      "sticker-special": "images/sticker_special/06_haruka.png",
+      "sticker-sign": "images/sticker_sign/06_haruka.png",
+      "square-event": "images/square_event/06_haruka.png",
+      "wafer": "images/wafer/06_haruka.png",
+      "polar": "images/polar/06_haruka.png",
+      "doll-masu": "images/doll_masu/06_haruka.png",
+      "doll-sit": "images/doll_sit/06_haruka.png",
+      "doll-kuji": "images/doll_kuji/06_haruka.png",
+      "doll-neso": "images/doll_neso/06_haruka.png",
+      "doll-other": "images/doll_other/06_haruka.png",
+      "doll-special": "images/doll_special/06_haruka.png"
+    },
+    "07_airi": {
+      "ep-event": "images/ep_event/07_airi.png",
+      "ep-star2": "images/ep_star2/07_airi.png",
+      "ep-special": "images/ep_special/07_airi.png",
+      "ep-sign": "images/ep_sign/07_airi.png",
+      "ep-sign-sp": "images/ep_sign_sp/07_airi.png",
+      "shikishi-event": "images/shikishi_event/07_airi.png",
+      "shikishi-star2": "images/shikishi_star2/07_airi.png",
+      "shikishi-special": "images/shikishi_special/07_airi.png",
+      "nobleart-event": "images/nobleart_event/07_airi.png",
+      "nobleart-special": "images/nobleart_special/07_airi.png",
+      "glitter-event": "images/glitter_event/07_airi.png",
+      "glitter-star2": "images/glitter_star2/07_airi.png",
+      "glitter-special": "images/glitter_special/07_airi.png",
+      "sticker-event": "images/sticker_event/07_airi.png",
+      "sticker-special": "images/sticker_special/07_airi.png",
+      "sticker-sign": "images/sticker_sign/07_airi.png",
+      "square-event": "images/square_event/07_airi.png",
+      "wafer": "images/wafer/07_airi.png",
+      "polar": "images/polar/07_airi.png",
+      "doll-masu": "images/doll_masu/07_airi.png",
+      "doll-sit": "images/doll_sit/07_airi.png",
+      "doll-kuji": "images/doll_kuji/07_airi.png",
+      "doll-neso": "images/doll_neso/07_airi.png",
+      "doll-other": "images/doll_other/07_airi.png",
+      "doll-special": "images/doll_special/07_airi.png"
+    },
+    "08_shizuku": {
+      "ep-event": "images/ep_event/08_shizuku.png",
+      "ep-star2": "images/ep_star2/08_shizuku.png",
+      "ep-special": "images/ep_special/08_shizuku.png",
+      "ep-sign": "images/ep_sign/08_shizuku.png",
+      "ep-sign-sp": "images/ep_sign_sp/08_shizuku.png",
+      "shikishi-event": "images/shikishi_event/08_shizuku.png",
+      "shikishi-star2": "images/shikishi_star2/08_shizuku.png",
+      "shikishi-special": "images/shikishi_special/08_shizuku.png",
+      "nobleart-event": "images/nobleart_event/08_shizuku.png",
+      "nobleart-special": "images/nobleart_special/08_shizuku.png",
+      "glitter-event": "images/glitter_event/08_shizuku.png",
+      "glitter-star2": "images/glitter_star2/08_shizuku.png",
+      "glitter-special": "images/glitter_special/08_shizuku.png",
+      "sticker-event": "images/sticker_event/08_shizuku.png",
+      "sticker-special": "images/sticker_special/08_shizuku.png",
+      "sticker-sign": "images/sticker_sign/08_shizuku.png",
+      "square-event": "images/square_event/08_shizuku.png",
+      "wafer": "images/wafer/08_shizuku.png",
+      "polar": "images/polar/08_shizuku.png",
+      "doll-masu": "images/doll_masu/08_shizuku.png",
+      "doll-sit": "images/doll_sit/08_shizuku.png",
+      "doll-kuji": "images/doll_kuji/08_shizuku.png",
+      "doll-neso": "images/doll_neso/08_shizuku.png",
+      "doll-other": "images/doll_other/08_shizuku.png",
+      "doll-special": "images/doll_special/08_shizuku.png"
+    },
+    "09_kohane": {
+      "ep-event": "images/ep_event/09_kohane.png",
+      "ep-star2": "images/ep_star2/09_kohane.png",
+      "ep-special": "images/ep_special/09_kohane.png",
+      "ep-sign": "images/ep_sign/09_kohane.png",
+      "ep-sign-sp": "images/ep_sign_sp/09_kohane.png",
+      "shikishi-event": "images/shikishi_event/09_kohane.png",
+      "shikishi-star2": "images/shikishi_star2/09_kohane.png",
+      "shikishi-special": "images/shikishi_special/09_kohane.png",
+      "nobleart-event": "images/nobleart_event/09_kohane.png",
+      "nobleart-special": "images/nobleart_special/09_kohane.png",
+      "glitter-event": "images/glitter_event/09_kohane.png",
+      "glitter-star2": "images/glitter_star2/09_kohane.png",
+      "glitter-special": "images/glitter_special/09_kohane.png",
+      "sticker-event": "images/sticker_event/09_kohane.png",
+      "sticker-special": "images/sticker_special/09_kohane.png",
+      "sticker-sign": "images/sticker_sign/09_kohane.png",
+      "square-event": "images/square_event/09_kohane.png",
+      "wafer": "images/wafer/09_kohane.png",
+      "polar": "images/polar/09_kohane.png",
+      "doll-masu": "images/doll_masu/09_kohane.png",
+      "doll-sit": "images/doll_sit/09_kohane.png",
+      "doll-kuji": "images/doll_kuji/09_kohane.png",
+      "doll-neso": "images/doll_neso/09_kohane.png",
+      "doll-other": "images/doll_other/09_kohane.png",
+      "doll-special": "images/doll_special/09_kohane.png"
+    },
+    "10_an": {
+      "ep-event": "images/ep_event/10_an.png",
+      "ep-star2": "images/ep_star2/10_an.png",
+      "ep-special": "images/ep_special/10_an.png",
+      "ep-sign": "images/ep_sign/10_an.png",
+      "ep-sign-sp": "images/ep_sign_sp/10_an.png",
+      "shikishi-event": "images/shikishi_event/10_an.png",
+      "shikishi-star2": "images/shikishi_star2/10_an.png",
+      "shikishi-special": "images/shikishi_special/10_an.png",
+      "nobleart-event": "images/nobleart_event/10_an.png",
+      "nobleart-special": "images/nobleart_special/10_an.png",
+      "glitter-event": "images/glitter_event/10_an.png",
+      "glitter-star2": "images/glitter_star2/10_an.png",
+      "glitter-special": "images/glitter_special/10_an.png",
+      "sticker-event": "images/sticker_event/10_an.png",
+      "sticker-special": "images/sticker_special/10_an.png",
+      "sticker-sign": "images/sticker_sign/10_an.png",
+      "square-event": "images/square_event/10_an.png",
+      "wafer": "images/wafer/10_an.png",
+      "polar": "images/polar/10_an.png",
+      "doll-masu": "images/doll_masu/10_an.png",
+      "doll-sit": "images/doll_sit/10_an.png",
+      "doll-kuji": "images/doll_kuji/10_an.png",
+      "doll-neso": "images/doll_neso/10_an.png",
+      "doll-other": "images/doll_other/10_an.png",
+      "doll-special": "images/doll_special/10_an.png"
+    },
+    "11_akito": {
+      "ep-event": "images/ep_event/11_akito.png",
+      "ep-star2": "images/ep_star2/11_akito.png",
+      "ep-special": "images/ep_special/11_akito.png",
+      "ep-sign": "images/ep_sign/11_akito.png",
+      "ep-sign-sp": "images/ep_sign_sp/11_akito.png",
+      "shikishi-event": "images/shikishi_event/11_akito.png",
+      "shikishi-star2": "images/shikishi_star2/11_akito.png",
+      "shikishi-special": "images/shikishi_special/11_akito.png",
+      "nobleart-event": "images/nobleart_event/11_akito.png",
+      "nobleart-special": "images/nobleart_special/11_akito.png",
+      "glitter-event": "images/glitter_event/11_akito.png",
+      "glitter-star2": "images/glitter_star2/11_akito.png",
+      "glitter-special": "images/glitter_special/11_akito.png",
+      "sticker-event": "images/sticker_event/11_akito.png",
+      "sticker-special": "images/sticker_special/11_akito.png",
+      "sticker-sign": "images/sticker_sign/11_akito.png",
+      "square-event": "images/square_event/11_akito.png",
+      "wafer": "images/wafer/11_akito.png",
+      "polar": "images/polar/11_akito.png",
+      "doll-masu": "images/doll_masu/11_akito.png",
+      "doll-sit": "images/doll_sit/11_akito.png",
+      "doll-kuji": "images/doll_kuji/11_akito.png",
+      "doll-neso": "images/doll_neso/11_akito.png",
+      "doll-other": "images/doll_other/11_akito.png",
+      "doll-special": "images/doll_special/11_akito.png"
+    },
+    "12_toya": {
+      "ep-event": "images/ep_event/12_toya.png",
+      "ep-star2": "images/ep_star2/12_toya.png",
+      "ep-special": "images/ep_special/12_toya.png",
+      "ep-sign": "images/ep_sign/12_toya.png",
+      "ep-sign-sp": "images/ep_sign_sp/12_toya.png",
+      "shikishi-event": "images/shikishi_event/12_toya.png",
+      "shikishi-star2": "images/shikishi_star2/12_toya.png",
+      "shikishi-special": "images/shikishi_special/12_toya.png",
+      "nobleart-event": "images/nobleart_event/12_toya.png",
+      "nobleart-special": "images/nobleart_special/12_toya.png",
+      "glitter-event": "images/glitter_event/12_toya.png",
+      "glitter-star2": "images/glitter_star2/12_toya.png",
+      "glitter-special": "images/glitter_special/12_toya.png",
+      "sticker-event": "images/sticker_event/12_toya.png",
+      "sticker-special": "images/sticker_special/12_toya.png",
+      "sticker-sign": "images/sticker_sign/12_toya.png",
+      "square-event": "images/square_event/12_toya.png",
+      "wafer": "images/wafer/12_toya.png",
+      "polar": "images/polar/12_toya.png",
+      "doll-masu": "images/doll_masu/12_toya.png",
+      "doll-sit": "images/doll_sit/12_toya.png",
+      "doll-kuji": "images/doll_kuji/12_toya.png",
+      "doll-neso": "images/doll_neso/12_toya.png",
+      "doll-other": "images/doll_other/12_toya.png",
+      "doll-special": "images/doll_special/12_toya.png"
+    },
+    "13_tsukasa": {
+      "ep-event": "images/ep_event/13_tsukasa.png",
+      "ep-star2": "images/ep_star2/13_tsukasa.png",
+      "ep-special": "images/ep_special/13_tsukasa.png",
+      "ep-sign": "images/ep_sign/13_tsukasa.png",
+      "ep-sign-sp": "images/ep_sign_sp/13_tsukasa.png",
+      "shikishi-event": "images/shikishi_event/13_tsukasa.png",
+      "shikishi-star2": "images/shikishi_star2/13_tsukasa.png",
+      "shikishi-special": "images/shikishi_special/13_tsukasa.png",
+      "nobleart-event": "images/nobleart_event/13_tsukasa.png",
+      "nobleart-special": "images/nobleart_special/13_tsukasa.png",
+      "glitter-event": "images/glitter_event/13_tsukasa.png",
+      "glitter-star2": "images/glitter_star2/13_tsukasa.png",
+      "glitter-special": "images/glitter_special/13_tsukasa.png",
+      "sticker-event": "images/sticker_event/13_tsukasa.png",
+      "sticker-special": "images/sticker_special/13_tsukasa.png",
+      "sticker-sign": "images/sticker_sign/13_tsukasa.png",
+      "square-event": "images/square_event/13_tsukasa.png",
+      "wafer": "images/wafer/13_tsukasa.png",
+      "polar": "images/polar/13_tsukasa.png",
+      "doll-masu": "images/doll_masu/13_tsukasa.png",
+      "doll-sit": "images/doll_sit/13_tsukasa.png",
+      "doll-kuji": "images/doll_kuji/13_tsukasa.png",
+      "doll-neso": "images/doll_neso/13_tsukasa.png",
+      "doll-other": "images/doll_other/13_tsukasa.png",
+      "doll-special": "images/doll_special/13_tsukasa.png"
+    },
+    "14_emu": {
+      "ep-event": "images/ep_event/14_emu.png",
+      "ep-star2": "images/ep_star2/14_emu.png",
+      "ep-special": "images/ep_special/14_emu.png",
+      "ep-sign": "images/ep_sign/14_emu.png",
+      "ep-sign-sp": "images/ep_sign_sp/14_emu.png",
+      "shikishi-event": "images/shikishi_event/14_emu.png",
+      "shikishi-star2": "images/shikishi_star2/14_emu.png",
+      "shikishi-special": "images/shikishi_special/14_emu.png",
+      "nobleart-event": "images/nobleart_event/14_emu.png",
+      "nobleart-special": "images/nobleart_special/14_emu.png",
+      "glitter-event": "images/glitter_event/14_emu.png",
+      "glitter-star2": "images/glitter_star2/14_emu.png",
+      "glitter-special": "images/glitter_special/14_emu.png",
+      "sticker-event": "images/sticker_event/14_emu.png",
+      "sticker-special": "images/sticker_special/14_emu.png",
+      "sticker-sign": "images/sticker_sign/14_emu.png",
+      "square-event": "images/square_event/14_emu.png",
+      "wafer": "images/wafer/14_emu.png",
+      "polar": "images/polar/14_emu.png",
+      "doll-masu": "images/doll_masu/14_emu.png",
+      "doll-sit": "images/doll_sit/14_emu.png",
+      "doll-kuji": "images/doll_kuji/14_emu.png",
+      "doll-neso": "images/doll_neso/14_emu.png",
+      "doll-other": "images/doll_other/14_emu.png",
+      "doll-special": "images/doll_special/14_emu.png"
+    },
+    "15_nene": {
+      "ep-event": "images/ep_event/15_nene.png",
+      "ep-star2": "images/ep_star2/15_nene.png",
+      "ep-special": "images/ep_special/15_nene.png",
+      "ep-sign": "images/ep_sign/15_nene.png",
+      "ep-sign-sp": "images/ep_sign_sp/15_nene.png",
+      "shikishi-event": "images/shikishi_event/15_nene.png",
+      "shikishi-star2": "images/shikishi_star2/15_nene.png",
+      "shikishi-special": "images/shikishi_special/15_nene.png",
+      "nobleart-event": "images/nobleart_event/15_nene.png",
+      "nobleart-special": "images/nobleart_special/15_nene.png",
+      "glitter-event": "images/glitter_event/15_nene.png",
+      "glitter-star2": "images/glitter_star2/15_nene.png",
+      "glitter-special": "images/glitter_special/15_nene.png",
+      "sticker-event": "images/sticker_event/15_nene.png",
+      "sticker-special": "images/sticker_special/15_nene.png",
+      "sticker-sign": "images/sticker_sign/15_nene.png",
+      "square-event": "images/square_event/15_nene.png",
+      "wafer": "images/wafer/15_nene.png",
+      "polar": "images/polar/15_nene.png",
+      "doll-masu": "images/doll_masu/15_nene.png",
+      "doll-sit": "images/doll_sit/15_nene.png",
+      "doll-kuji": "images/doll_kuji/15_nene.png",
+      "doll-neso": "images/doll_neso/15_nene.png",
+      "doll-other": "images/doll_other/15_nene.png",
+      "doll-special": "images/doll_special/15_nene.png"
+    },
+    "16_rui": {
+      "ep-event": "images/ep_event/16_rui.png",
+      "ep-star2": "images/ep_star2/16_rui.png",
+      "ep-special": "images/ep_special/16_rui.png",
+      "ep-sign": "images/ep_sign/16_rui.png",
+      "ep-sign-sp": "images/ep_sign_sp/16_rui.png",
+      "shikishi-event": "images/shikishi_event/16_rui.png",
+      "shikishi-star2": "images/shikishi_star2/16_rui.png",
+      "shikishi-special": "images/shikishi_special/16_rui.png",
+      "nobleart-event": "images/nobleart_event/16_rui.png",
+      "nobleart-special": "images/nobleart_special/16_rui.png",
+      "glitter-event": "images/glitter_event/16_rui.png",
+      "glitter-star2": "images/glitter_star2/16_rui.png",
+      "glitter-special": "images/glitter_special/16_rui.png",
+      "sticker-event": "images/sticker_event/16_rui.png",
+      "sticker-special": "images/sticker_special/16_rui.png",
+      "sticker-sign": "images/sticker_sign/16_rui.png",
+      "square-event": "images/square_event/16_rui.png",
+      "wafer": "images/wafer/16_rui.png",
+      "polar": "images/polar/16_rui.png",
+      "doll-masu": "images/doll_masu/16_rui.png",
+      "doll-sit": "images/doll_sit/16_rui.png",
+      "doll-kuji": "images/doll_kuji/16_rui.png",
+      "doll-neso": "images/doll_neso/16_rui.png",
+      "doll-other": "images/doll_other/16_rui.png",
+      "doll-special": "images/doll_special/16_rui.png"
+    },
+    "17_kanade": {
+      "ep-event": "images/ep_event/17_kanade.png",
+      "ep-star2": "images/ep_star2/17_kanade.png",
+      "ep-special": "images/ep_special/17_kanade.png",
+      "ep-sign": "images/ep_sign/17_kanade.png",
+      "ep-sign-sp": "images/ep_sign_sp/17_kanade.png",
+      "shikishi-event": "images/shikishi_event/17_kanade.png",
+      "shikishi-star2": "images/shikishi_star2/17_kanade.png",
+      "shikishi-special": "images/shikishi_special/17_kanade.png",
+      "nobleart-event": "images/nobleart_event/17_kanade.png",
+      "nobleart-special": "images/nobleart_special/17_kanade.png",
+      "glitter-event": "images/glitter_event/17_kanade.png",
+      "glitter-star2": "images/glitter_star2/17_kanade.png",
+      "glitter-special": "images/glitter_special/17_kanade.png",
+      "sticker-event": "images/sticker_event/17_kanade.png",
+      "sticker-special": "images/sticker_special/17_kanade.png",
+      "sticker-sign": "images/sticker_sign/17_kanade.png",
+      "square-event": "images/square_event/17_kanade.png",
+      "wafer": "images/wafer/17_kanade.png",
+      "polar": "images/polar/17_kanade.png",
+      "doll-masu": "images/doll_masu/17_kanade.png",
+      "doll-sit": "images/doll_sit/17_kanade.png",
+      "doll-kuji": "images/doll_kuji/17_kanade.png",
+      "doll-neso": "images/doll_neso/17_kanade.png",
+      "doll-other": "images/doll_other/17_kanade.png",
+      "doll-special": "images/doll_special/17_kanade.png"
+    },
+    "18_mafuyu": {
+      "ep-event": "images/ep_event/18_mafuyu.png",
+      "ep-star2": "images/ep_star2/18_mafuyu.png",
+      "ep-special": "images/ep_special/18_mafuyu.png",
+      "ep-sign": "images/ep_sign/18_mafuyu.png",
+      "ep-sign-sp": "images/ep_sign_sp/18_mafuyu.png",
+      "shikishi-event": "images/shikishi_event/18_mafuyu.png",
+      "shikishi-star2": "images/shikishi_star2/18_mafuyu.png",
+      "shikishi-special": "images/shikishi_special/18_mafuyu.png",
+      "nobleart-event": "images/nobleart_event/18_mafuyu.png",
+      "nobleart-special": "images/nobleart_special/18_mafuyu.png",
+      "glitter-event": "images/glitter_event/18_mafuyu.png",
+      "glitter-star2": "images/glitter_star2/18_mafuyu.png",
+      "glitter-special": "images/glitter_special/18_mafuyu.png",
+      "sticker-event": "images/sticker_event/18_mafuyu.png",
+      "sticker-special": "images/sticker_special/18_mafuyu.png",
+      "sticker-sign": "images/sticker_sign/18_mafuyu.png",
+      "square-event": "images/square_event/18_mafuyu.png",
+      "wafer": "images/wafer/18_mafuyu.png",
+      "polar": "images/polar/18_mafuyu.png",
+      "doll-masu": "images/doll_masu/18_mafuyu.png",
+      "doll-sit": "images/doll_sit/18_mafuyu.png",
+      "doll-kuji": "images/doll_kuji/18_mafuyu.png",
+      "doll-neso": "images/doll_neso/18_mafuyu.png",
+      "doll-other": "images/doll_other/18_mafuyu.png",
+      "doll-special": "images/doll_special/18_mafuyu.png"
+    },
+    "19_ena": {
+      "ep-event": "images/ep_event/19_ena.png",
+      "ep-star2": "images/ep_star2/19_ena.png",
+      "ep-special": "images/ep_special/19_ena.png",
+      "ep-sign": "images/ep_sign/19_ena.png",
+      "ep-sign-sp": "images/ep_sign_sp/19_ena.png",
+      "shikishi-event": "images/shikishi_event/19_ena.png",
+      "shikishi-star2": "images/shikishi_star2/19_ena.png",
+      "shikishi-special": "images/shikishi_special/19_ena.png",
+      "nobleart-event": "images/nobleart_event/19_ena.png",
+      "nobleart-special": "images/nobleart_special/19_ena.png",
+      "glitter-event": "images/glitter_event/19_ena.png",
+      "glitter-star2": "images/glitter_star2/19_ena.png",
+      "glitter-special": "images/glitter_special/19_ena.png",
+      "sticker-event": "images/sticker_event/19_ena.png",
+      "sticker-special": "images/sticker_special/19_ena.png",
+      "sticker-sign": "images/sticker_sign/19_ena.png",
+      "square-event": "images/square_event/19_ena.png",
+      "wafer": "images/wafer/19_ena.png",
+      "polar": "images/polar/19_ena.png",
+      "doll-masu": "images/doll_masu/19_ena.png",
+      "doll-sit": "images/doll_sit/19_ena.png",
+      "doll-kuji": "images/doll_kuji/19_ena.png",
+      "doll-neso": "images/doll_neso/19_ena.png",
+      "doll-other": "images/doll_other/19_ena.png",
+      "doll-special": "images/doll_special/19_ena.png"
+    },
+    "20_mizuki": {
+      "ep-event": "images/ep_event/20_mizuki.png",
+      "ep-star2": "images/ep_star2/20_mizuki.png",
+      "ep-special": "images/ep_special/20_mizuki.png",
+      "ep-sign": "images/ep_sign/20_mizuki.png",
+      "ep-sign-sp": "images/ep_sign_sp/20_mizuki.png",
+      "shikishi-event": "images/shikishi_event/20_mizuki.png",
+      "shikishi-star2": "images/shikishi_star2/20_mizuki.png",
+      "shikishi-special": "images/shikishi_special/20_mizuki.png",
+      "nobleart-event": "images/nobleart_event/20_mizuki.png",
+      "nobleart-special": "images/nobleart_special/20_mizuki.png",
+      "glitter-event": "images/glitter_event/20_mizuki.png",
+      "glitter-star2": "images/glitter_star2/20_mizuki.png",
+      "glitter-special": "images/glitter_special/20_mizuki.png",
+      "sticker-event": "images/sticker_event/20_mizuki.png",
+      "sticker-special": "images/sticker_special/20_mizuki.png",
+      "sticker-sign": "images/sticker_sign/20_mizuki.png",
+      "square-event": "images/square_event/20_mizuki.png",
+      "wafer": "images/wafer/20_mizuki.png",
+      "polar": "images/polar/20_mizuki.png",
+      "doll-masu": "images/doll_masu/20_mizuki.png",
+      "doll-sit": "images/doll_sit/20_mizuki.png",
+      "doll-kuji": "images/doll_kuji/20_mizuki.png",
+      "doll-neso": "images/doll_neso/20_mizuki.png",
+      "doll-other": "images/doll_other/20_mizuki.png",
+      "doll-special": "images/doll_special/20_mizuki.png"
+    },
+    "21_miku": {
+      "ep-event": "images/ep_event/21_miku.png",
+      "ep-star2": "images/ep_star2/21_miku.png",
+      "ep-special": "images/ep_special/21_miku.png",
+      "ep-sign": "images/ep_sign/21_miku.png",
+      "ep-sign-sp": "images/ep_sign_sp/21_miku.png",
+      "shikishi-event": "images/shikishi_event/21_miku.png",
+      "shikishi-star2": "images/shikishi_star2/21_miku.png",
+      "shikishi-special": "images/shikishi_special/21_miku.png",
+      "nobleart-event": "images/nobleart_event/21_miku.png",
+      "nobleart-special": "images/nobleart_special/21_miku.png",
+      "glitter-event": "images/glitter_event/21_miku.png",
+      "glitter-star2": "images/glitter_star2/21_miku.png",
+      "glitter-special": "images/glitter_special/21_miku.png",
+      "sticker-event": "images/sticker_event/21_miku.png",
+      "sticker-special": "images/sticker_special/21_miku.png",
+      "sticker-sign": "images/sticker_sign/21_miku.png",
+      "square-event": "images/square_event/21_miku.png",
+      "wafer": "images/wafer/21_miku.png",
+      "polar": "images/polar/21_miku.png",
+      "doll-masu": {
+        "base": "images/doll_masu/21_miku.png",
+        "vs": "images/doll_masu/21_miku_vs.png",
+        "ln": "images/doll_masu/21_miku_ln.png",
+        "mmj": "images/doll_masu/21_miku_mmj.png",
+        "vbs": "images/doll_masu/21_miku_vbs.png",
+        "ws": "images/doll_masu/21_miku_ws.png",
+        "25": "images/doll_masu/21_miku_25.png"
+      },
+      "doll-sit": {
+        "base": "images/doll_sit/21_miku.png",
+        "vs": "images/doll_sit/21_miku_vs.png",
+        "ln": "images/doll_sit/21_miku_ln.png",
+        "vbs": "images/doll_sit/21_miku_vbs.png",
+        "25": "images/doll_sit/21_miku_25.png"
+      },
+      "doll-kuji": {
+        "base": "images/doll_kuji/21_miku.png",
+        "vs": "images/doll_kuji/21_miku_vs.png",
+        "ln": "images/doll_kuji/21_miku_ln.png",
+        "mmj": "images/doll_kuji/21_miku_mmj.png",
+        "vbs": "images/doll_kuji/21_miku_vbs.png",
+        "ws": "images/doll_kuji/21_miku_ws.png",
+        "25": "images/doll_kuji/21_miku_25.png"
+      },
+      "doll-neso": {
+        "base": "images/doll_neso/21_miku.png",
+        "vs": "images/doll_neso/21_miku_vs.png",
+        "ln": "images/doll_neso/21_miku_ln.png",
+        "mmj": "images/doll_neso/21_miku_mmj.png",
+        "vbs": "images/doll_neso/21_miku_vbs.png",
+        "ws": "images/doll_neso/21_miku_ws.png",
+        "25": "images/doll_neso/21_miku_25.png"
+      },
+      "doll-other": {
+        "base": "images/doll_other/21_miku.png",
+        "vs": "images/doll_other/21_miku_vs.png",
+        "ln": "images/doll_other/21_miku_ln.png",
+        "mmj": "images/doll_other/21_miku_mmj.png",
+        "vbs": "images/doll_other/21_miku_vbs.png",
+        "ws": "images/doll_other/21_miku_ws.png",
+        "25": "images/doll_other/21_miku_25.png"
+      },
+      "doll-special": {
+        "base": "images/doll_other/21_miku.png",
+        "vs": "images/doll_other/21_miku_vs.png"
+      }
+    },
+    "22_rin": {
+      "ep-event": "images/ep_event/22_rin.png",
+      "ep-star2": "images/ep_star2/22_rin.png",
+      "ep-special": "images/ep_special/22_rin.png",
+      "ep-sign": "images/ep_sign/22_rin.png",
+      "ep-sign-sp": "images/ep_sign_sp/22_rin.png",
+      "shikishi-event": "images/shikishi_event/22_rin.png",
+      "shikishi-star2": "images/shikishi_star2/22_rin.png",
+      "shikishi-special": "images/shikishi_special/22_rin.png",
+      "nobleart-event": "images/nobleart_event/22_rin.png",
+      "nobleart-special": "images/nobleart_special/22_rin.png",
+      "glitter-event": "images/glitter_event/22_rin.png",
+      "glitter-star2": "images/glitter_star2/22_rin.png",
+      "glitter-special": "images/glitter_special/22_rin.png",
+      "sticker-event": "images/sticker_event/22_rin.png",
+      "sticker-special": "images/sticker_special/22_rin.png",
+      "sticker-sign": "images/sticker_sign/22_rin.png",
+      "square-event": "images/square_event/22_rin.png",
+      "wafer": "images/wafer/22_rin.png",
+      "polar": "images/polar/22_rin.png",
+      "doll-masu":"images/doll_masu/22_rin.png",
+      "doll-sit": "images/doll_sit/22_rin.png",
+      "doll-kuji": "images/doll_kuji/22_rin.png",
+      "doll-neso": "images/doll_neso/22_rin.png",
+      "doll-other": "images/doll_other/22_rin.png",
+      "doll-special": "images/doll_special/22_rin.png"
+    },
+    "23_len": {
+      "ep-event": "images/ep_event/23_len.png",
+      "ep-star2": "images/ep_star2/23_len.png",
+      "ep-special": "images/ep_special/23_len.png",
+      "ep-sign": "images/ep_sign/23_len.png",
+      "ep-sign-sp": "images/ep_sign_sp/23_len.png",
+      "shikishi-event": "images/shikishi_event/23_len.png",
+      "shikishi-star2": "images/shikishi_star2/23_len.png",
+      "shikishi-special": "images/shikishi_special/23_len.png",
+      "nobleart-event": "images/nobleart_event/23_len.png",
+      "nobleart-special": "images/nobleart_special/23_len.png",
+      "glitter-event": "images/glitter_event/23_len.png",
+      "glitter-star2": "images/glitter_star2/23_len.png",
+      "glitter-special": "images/glitter_special/23_len.png",
+      "sticker-event": "images/sticker_event/23_len.png",
+      "sticker-special": "images/sticker_special/23_len.png",
+      "sticker-sign": "images/sticker_sign/23_len.png",
+      "square-event": "images/square_event/23_len.png",
+      "wafer": "images/wafer/23_len.png",
+      "polar": "images/polar/23_len.png",
+      "doll-masu": "images/doll_masu/23_len.png",
+      "doll-sit": "images/doll_sit/23_len.png",
+      "doll-kuji": "images/doll_kuji/23_len.png",
+      "doll-neso": "images/doll_neso/23_len.png",
+      "doll-other": "images/doll_other/23_len.png",
+      "doll-special": "images/doll_special/23_len.png"
+    },
+    "24_luka": {
+      "ep-event": "images/ep_event/24_luka.png",
+      "ep-star2": "images/ep_star2/24_luka.png",
+      "ep-special": "images/ep_special/24_luka.png",
+      "ep-sign": "images/ep_sign/24_luka.png",
+      "ep-sign-sp": "images/ep_sign_sp/24_luka.png",
+      "shikishi-event": "images/shikishi_event/24_luka.png",
+      "shikishi-star2": "images/shikishi_star2/24_luka.png",
+      "shikishi-special": "images/shikishi_special/24_luka.png",
+      "nobleart-event": "images/nobleart_event/24_luka.png",
+      "nobleart-special": "images/nobleart_special/24_luka.png",
+      "glitter-event": "images/glitter_event/24_luka.png",
+      "glitter-star2": "images/glitter_star2/24_luka.png",
+      "glitter-special": "images/glitter_special/24_luka.png",
+      "sticker-event": "images/sticker_event/24_luka.png",
+      "sticker-special": "images/sticker_special/24_luka.png",
+      "sticker-sign": "images/sticker_sign/24_luka.png",
+      "square-event": "images/square_event/24_luka.png",
+      "wafer": "images/wafer/24_luka.png",
+      "polar": "images/polar/24_luka.png",
+      "doll-masu": "images/doll_masu/24_luka.png",
+      "doll-sit": "images/doll_sit/24_luka.png",
+      "doll-kuji": "images/doll_kuji/24_luka.png",
+      "doll-neso": "images/doll_neso/24_luka.png",
+      "doll-other": "images/doll_other/24_luka.png",
+      "doll-special": "images/doll_special/24_luka.png"
+    },
+    "25_meiko": {
+      "ep-event": "images/ep_event/25_meiko.png",
+      "ep-star2": "images/ep_star2/25_meiko.png",
+      "ep-special": "images/ep_special/25_meiko.png",
+      "ep-sign": "images/ep_sign/25_meiko.png",
+      "ep-sign-sp": "images/ep_sign_sp/25_meiko.png",
+      "shikishi-event": "images/shikishi_event/25_meiko.png",
+      "shikishi-star2": "images/shikishi_star2/25_meiko.png",
+      "shikishi-special": "images/shikishi_special/25_meiko.png",
+      "nobleart-event": "images/nobleart_event/25_meiko.png",
+      "nobleart-special": "images/nobleart_special/25_meiko.png",
+      "glitter-event": "images/glitter_event/25_meiko.png",
+      "glitter-star2": "images/glitter_star2/25_meiko.png",
+      "glitter-special": "images/glitter_special/25_meiko.png",
+      "sticker-event": "images/sticker_event/25_meiko.png",
+      "sticker-special": "images/sticker_special/25_meiko.png",
+      "sticker-sign": "images/sticker_sign/25_meiko.png",
+      "square-event": "images/square_event/25_meiko.png",
+      "wafer": "images/wafer/25_meiko.png",
+      "polar": "images/polar/25_meiko.png",
+      "doll-masu": "images/doll_masu/25_meiko.png",
+      "doll-sit": "images/doll_sit/25_meiko.png",
+      "doll-kuji": "images/doll_kuji/25_meiko.png",
+      "doll-neso": "images/doll_neso/25_meiko.png",
+      "doll-other": "images/doll_other/25_meiko.png",
+      "doll-special": "images/doll_special/25_meiko.png"
+    },
+    "26_kaito": {
+      "ep-event": "images/ep_event/26_kaito.png",
+      "ep-star2": "images/ep_star2/26_kaito.png",
+      "ep-special": "images/ep_special/26_kaito.png",
+      "ep-sign": "images/ep_sign/26_kaito.png",
+      "ep-sign-sp": "images/ep_sign_sp/26_kaito.png",
+      "shikishi-event": "images/shikishi_event/26_kaito.png",
+      "shikishi-star2": "images/shikishi_star2/26_kaito.png",
+      "shikishi-special": "images/shikishi_special/26_kaito.png",
+      "nobleart-event": "images/nobleart_event/26_kaito.png",
+      "nobleart-special": "images/nobleart_special/26_kaito.png",
+      "glitter-event": "images/glitter_event/26_kaito.png",
+      "glitter-star2": "images/glitter_star2/26_kaito.png",
+      "glitter-special": "images/glitter_special/26_kaito.png",
+      "sticker-event": "images/sticker_event/26_kaito.png",
+      "sticker-special": "images/sticker_special/26_kaito.png",
+      "sticker-sign": "images/sticker_sign/26_kaito.png",
+      "square-event": "images/square_event/26_kaito.png",
+      "wafer": "images/wafer/26_kaito.png",
+      "polar": "images/polar/26_kaito.png",
+      "doll-masu": "images/doll_masu/26_kaito.png",
+      "doll-sit": "images/doll_sit/26_kaito.png",
+      "doll-kuji": "images/doll_kuji/26_kaito.png",
+      "doll-neso": "images/doll_neso/26_kaito.png",
+      "doll-other": "images/doll_other/26_kaito.png",
+      "doll-special": "images/doll_special/26_kaito.png"
+    }
+  }
+}
