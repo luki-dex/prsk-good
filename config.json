@@ -163,121 +163,121 @@
       "id": "ep-event",
       "name": "卡面ePick",
       "order": 1,
-      "color": "#aa8866"
+      "color": "#bb99ee"
     },
     {
       "id": "ep-star2",
       "name": "特典ePick",
       "order": 2,
-      "color": "#77bb66"
+      "color": "#ff99dd"
     },
     {
       "id": "ep-special",
       "name": "特殊ePick",
       "order": 3,
-      "color": "#bbeeaa"
+      "color": "#ffbb88"
     },
     {
       "id": "ep-sign",
       "name": "卡面ePick簽",
       "order": 4,
-      "color": "#aa8866"
+      "color": "#ffdd66"
     },
     {
       "id": "ep-sign-sp",
       "name": "特殊ePick簽",
       "order": 5,
-      "color": "#aa8866"
+      "color": "#ffff77"
     },
     {
       "id": "shikishi-event",
       "name": "卡面色紙",
       "order": 6,
-      "color": "#aa8866"
+      "color": "#99ee88"
     },
     {
       "id": "shikishi-star2",
       "name": "二星卡面色紙",
       "order": 7,
-      "color": "#77bb66"
+      "color": "#44cc99"
     },
     {
       "id": "shikishi-special",
       "name": "特殊活動色紙",
       "order": 8,
-      "color": "#bbeeaa"
+      "color": "#009999"
     },
     {
       "id": "nobleart-event",
       "name": "卡面厚磚",
       "order": 9,
-      "color": "#aa8866"
+      "color": "#116677"
     },
     {
       "id": "nobleart-special",
       "name": "厚壓克力",
       "order": 10,
-      "color": "#bbeeaa"
+      "color": "#224455"
     },
     {
       "id": "glitter-event",
       "name": "卡面細閃",
       "order": 11,
-      "color": "#aa8866"
+      "color": "#8877aa"
     },
     {
       "id": "glitter-star2",
       "name": "特典徽章",
       "order": 12,
-      "color": "#77bb66"
+      "color": "#ee99bb"
     },
     {
       "id": "glitter-special",
       "name": "其他卡面徽章",
       "order": 13,
-      "color": "#bbeeaa"
+      "color": "#ffeeff"
     },
     {
       "id": "sticker-event",
       "name": "卡面透明貼紙",
       "order": 14,
-      "color": "#aa8866"
+      "color": "#0088cc"
     },
     {
       "id": "sticker-special",
       "name": "活動透明貼紙",
       "order": 15,
-      "color": "#77bb66"
+      "color": "#661177"
     },
     {
       "id": "sticker-sign",
       "name": "透明貼紙簽",
       "order": 16,
-      "color": "#bbeeaa"
+      "color": "#550033"
     },
     {
       "id": "square-event",
       "name": "方徽",
       "order": 17,
-      "color": "#88aa66"
+      "color": "#66aaff"
     },
     {
       "id": "wafer",
       "name": "威化餅卡",
       "order": 18,
-      "color": "#bbeeaa"
+      "color": "#ee5599"
     },
     {
       "id": "polar",
       "name": "拍立得",
       "order": 19,
-      "color": "#88aa66"
+      "color": "#66aa44"
     },
     {
       "id": "doll-masu",
       "name": "景品娃",
       "order": 20,
-      "color": "#88aa66",
+      "color": "#ccaa66",
       "subCategories": {
         "enabled": true,
         "label": "選擇團體",
@@ -313,7 +313,7 @@
       "id": "doll-sit",
       "name": "坐姿娃",
       "order": 21,
-      "color": "#88aa66",
+      "color": "#338844",
       "subCategories": {
         "enabled": true,
         "label": "選擇團體",
@@ -341,7 +341,7 @@
       "id": "doll-kuji",
       "name": "一番賞娃",
       "order": 22,
-      "color": "#88aa66",
+      "color": "#881100",
       "subCategories": {
         "enabled": true,
         "label": "選擇團體",
@@ -377,7 +377,7 @@
       "id": "doll-neso",
       "name": "趴娃",
       "order": 23,
-      "color": "#88aa66",
+      "color": "#ff8877",
       "subCategories": {
         "enabled": true,
         "label": "選擇團體",
@@ -413,7 +413,7 @@
       "id": "doll-other",
       "name": "其他娃娃",
       "order": 24,
-      "color": "#88aa66",
+      "color": "#00aacc",
       "subCategories": {
         "enabled": true,
         "label": "選擇團體",
@@ -449,7 +449,7 @@
       "id": "doll-special",
       "name": "非角色娃娃",
       "order": 25,
-      "color": "#88aa66",
+      "color": "#ffbb99",
       "subCategories": {
         "enabled": true,
         "label": "選擇團體",
