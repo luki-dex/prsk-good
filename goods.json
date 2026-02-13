@@ -1,0 +1,3522 @@
+[
+  {
+    "character": "星乃一歌",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/01_ichika_nounit.png",
+            "webp": "images/classic/epick/webp/01_ichika_nounit.webp",
+            "full": "images/classic/epick/01_ichika_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/01_ichika.png",
+            "webp": "images/classic/epick/webp/01_ichika.webp",
+            "full": "images/classic/epick/01_ichika.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/01_ichika_sign.png",
+            "webp": "images/classic/epick/webp/01_ichika_sign.webp",
+            "full": "images/classic/epick/01_ichika_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "星乃一歌",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/01_ichika_nounit.png",
+            "webp": "images/classic/glitter/webp/01_ichika_nounit.webp",
+            "full": "images/classic/glitter/01_ichika_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/01_ichika.png",
+            "webp": "images/classic/glitter/webp/01_ichika.webp",
+            "full": "images/classic/glitter/01_ichika.png"
+        }
+    ]
+  },
+  {
+    "character": "星乃一歌",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/01_ichika.png",
+            "webp": "images/classic/nobleart/webp/01_ichika.webp",
+            "full": "images/classic/nobleart/01_ichika.png"
+        }
+    ]
+  },
+  {
+    "character": "星乃一歌",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/01_ichika_nounit.png",
+            "webp": "images/classic/waferpolar/webp/01_ichika_nounit.webp",
+            "full": "images/classic/waferpolar/01_ichika_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/01_ichika.png",
+            "webp": "images/classic/waferpolar/webp/01_ichika.webp",
+            "full": "images/classic/waferpolar/01_ichika.png"
+        }
+    ]
+  },
+  {
+    "character": "星乃一歌",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/01_ichika.png",
+            "webp": "images/classic/sticker/webp/01_ichika.webp",
+            "full": "images/classic/sticker/01_ichika.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/01_ichika_sign.png",
+            "webp": "images/classic/sticker/webp/01_ichika_sign.webp",
+            "full": "images/classic/sticker/01_ichika_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "星乃一歌",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/01_ichika.png",
+            "webp": "images/classic/shikishi/webp/01_ichika.webp",
+            "full": "images/classic/shikishi/01_ichika.png"
+        }
+    ]
+  },
+  {
+    "character": "星乃一歌",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/01_ichika.png",
+            "webp": "images/classic/square/webp/01_ichika.webp",
+            "full": "images/classic/square/01_ichika.png"
+        }
+    ]
+  },
+  {
+    "character": "星乃一歌",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/01_ichika.png",
+            "webp": "images/classic/doll/webp/01_ichika.webp",
+            "full": "images/classic/doll/01_ichika.png"
+        }
+    ]
+  },
+    {
+    "character": "天馬咲希",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/02_saki_nounit.png",
+            "webp": "images/classic/epick/webp/02_saki_nounit.webp",
+            "full": "images/classic/epick/02_saki_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/02_saki.png",
+            "webp": "images/classic/epick/webp/02_saki.webp",
+            "full": "images/classic/epick/02_saki.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/02_saki_sign.png",
+            "webp": "images/classic/epick/webp/02_saki_sign.webp",
+            "full": "images/classic/epick/02_saki_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬咲希",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/02_saki_nounit.png",
+            "webp": "images/classic/glitter/webp/02_saki_nounit.webp",
+            "full": "images/classic/glitter/02_saki_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/02_saki.png",
+            "webp": "images/classic/glitter/webp/02_saki.webp",
+            "full": "images/classic/glitter/02_saki.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬咲希",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/02_saki.png",
+            "webp": "images/classic/nobleart/webp/02_saki.webp",
+            "full": "images/classic/nobleart/02_saki.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬咲希",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/02_saki_nounit.png",
+            "webp": "images/classic/waferpolar/webp/02_saki_nounit.webp",
+            "full": "images/classic/waferpolar/02_saki_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/02_saki.png",
+            "webp": "images/classic/waferpolar/webp/02_saki.webp",
+            "full": "images/classic/waferpolar/02_saki.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬咲希",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/02_saki.png",
+            "webp": "images/classic/sticker/webp/02_saki.webp",
+            "full": "images/classic/sticker/02_saki.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/02_saki_sign.png",
+            "webp": "images/classic/sticker/webp/02_saki_sign.webp",
+            "full": "images/classic/sticker/02_saki_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬咲希",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/02_saki.png",
+            "webp": "images/classic/shikishi/webp/02_saki.webp",
+            "full": "images/classic/shikishi/02_saki.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬咲希",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/02_saki.png",
+            "webp": "images/classic/square/webp/02_saki.webp",
+            "full": "images/classic/square/02_saki.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬咲希",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/02_saki.png",
+            "webp": "images/classic/doll/webp/02_saki.webp",
+            "full": "images/classic/doll/02_saki.png"
+        }
+    ]
+  },
+    {
+    "character": "望月穗波",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/03_honami_nounit.png",
+            "webp": "images/classic/epick/webp/03_honami_nounit.webp",
+            "full": "images/classic/epick/03_honami_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/03_honami.png",
+            "webp": "images/classic/epick/webp/03_honami.webp",
+            "full": "images/classic/epick/03_honami.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/03_honami_sign.png",
+            "webp": "images/classic/epick/webp/03_honami_sign.webp",
+            "full": "images/classic/epick/03_honami_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "望月穗波",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/03_honami_nounit.png",
+            "webp": "images/classic/glitter/webp/03_honami_nounit.webp",
+            "full": "images/classic/glitter/03_honami_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/03_honami.png",
+            "webp": "images/classic/glitter/webp/03_honami.webp",
+            "full": "images/classic/glitter/03_honami.png"
+        }
+    ]
+  },
+  {
+    "character": "望月穗波",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/03_honami.png",
+            "webp": "images/classic/nobleart/webp/03_honami.webp",
+            "full": "images/classic/nobleart/03_honami.png"
+        }
+    ]
+  },
+  {
+    "character": "望月穗波",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/03_honami_nounit.png",
+            "webp": "images/classic/waferpolar/webp/03_honami_nounit.webp",
+            "full": "images/classic/waferpolar/03_honami_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/03_honami.png",
+            "webp": "images/classic/waferpolar/webp/03_honami.webp",
+            "full": "images/classic/waferpolar/03_honami.png"
+        }
+    ]
+  },
+  {
+    "character": "望月穗波",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/03_honami.png",
+            "webp": "images/classic/sticker/webp/03_honami.webp",
+            "full": "images/classic/sticker/03_honami.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/03_honami_sign.png",
+            "webp": "images/classic/sticker/webp/03_honami_sign.webp",
+            "full": "images/classic/sticker/03_honami_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "望月穗波",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/03_honami.png",
+            "webp": "images/classic/shikishi/webp/03_honami.webp",
+            "full": "images/classic/shikishi/03_honami.png"
+        }
+    ]
+  },
+  {
+    "character": "望月穗波",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/03_honami.png",
+            "webp": "images/classic/square/webp/03_honami.webp",
+            "full": "images/classic/square/03_honami.png"
+        }
+    ]
+  },
+  {
+    "character": "望月穗波",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/03_honami.png",
+            "webp": "images/classic/doll/webp/03_honami.webp",
+            "full": "images/classic/doll/03_honami.png"
+        }
+    ]
+  },
+    {
+    "character": "日野森志步",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/04_shiho_nounit.png",
+            "webp": "images/classic/epick/webp/04_shiho_nounit.webp",
+            "full": "images/classic/epick/04_shiho_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/04_shiho.png",
+            "webp": "images/classic/epick/webp/04_shiho.webp",
+            "full": "images/classic/epick/04_shiho.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/04_shiho_sign.png",
+            "webp": "images/classic/epick/webp/04_shiho_sign.webp",
+            "full": "images/classic/epick/04_shiho_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森志步",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/04_shiho_nounit.png",
+            "webp": "images/classic/glitter/webp/04_shiho_nounit.webp",
+            "full": "images/classic/glitter/04_shiho_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/04_shiho.png",
+            "webp": "images/classic/glitter/webp/04_shiho.webp",
+            "full": "images/classic/glitter/04_shiho.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森志步",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/04_shiho.png",
+            "webp": "images/classic/nobleart/webp/04_shiho.webp",
+            "full": "images/classic/nobleart/04_shiho.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森志步",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/04_shiho_nounit.png",
+            "webp": "images/classic/waferpolar/webp/04_shiho_nounit.webp",
+            "full": "images/classic/waferpolar/04_shiho_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/04_shiho.png",
+            "webp": "images/classic/waferpolar/webp/04_shiho.webp",
+            "full": "images/classic/waferpolar/04_shiho.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森志步",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/04_shiho.png",
+            "webp": "images/classic/sticker/webp/04_shiho.webp",
+            "full": "images/classic/sticker/04_shiho.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/04_shiho_sign.png",
+            "webp": "images/classic/sticker/webp/04_shiho_sign.webp",
+            "full": "images/classic/sticker/04_shiho_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森志步",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/04_shiho.png",
+            "webp": "images/classic/shikishi/webp/04_shiho.webp",
+            "full": "images/classic/shikishi/04_shiho.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森志步",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/04_shiho.png",
+            "webp": "images/classic/square/webp/04_shiho.webp",
+            "full": "images/classic/square/04_shiho.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森志步",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/04_shiho.png",
+            "webp": "images/classic/doll/webp/04_shiho.webp",
+            "full": "images/classic/doll/04_shiho.png"
+        }
+    ]
+  },
+    {
+    "character": "花里實乃理",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/05_minori_nounit.png",
+            "webp": "images/classic/epick/webp/05_minori_nounit.webp",
+            "full": "images/classic/epick/05_minori_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/05_minori.png",
+            "webp": "images/classic/epick/webp/05_minori.webp",
+            "full": "images/classic/epick/05_minori.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/05_minori_sign.png",
+            "webp": "images/classic/epick/webp/05_minori_sign.webp",
+            "full": "images/classic/epick/05_minori_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "花里實乃理",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/05_minori_nounit.png",
+            "webp": "images/classic/glitter/webp/05_minori_nounit.webp",
+            "full": "images/classic/glitter/05_minori_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/05_minori.png",
+            "webp": "images/classic/glitter/webp/05_minori.webp",
+            "full": "images/classic/glitter/05_minori.png"
+        }
+    ]
+  },
+  {
+    "character": "花里實乃理",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/05_minori.png",
+            "webp": "images/classic/nobleart/webp/05_minori.webp",
+            "full": "images/classic/nobleart/05_minori.png"
+        }
+    ]
+  },
+  {
+    "character": "花里實乃理",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/05_minori_nounit.png",
+            "webp": "images/classic/waferpolar/webp/05_minori_nounit.webp",
+            "full": "images/classic/waferpolar/05_minori_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/05_minori.png",
+            "webp": "images/classic/waferpolar/webp/05_minori.webp",
+            "full": "images/classic/waferpolar/05_minori.png"
+        }
+    ]
+  },
+  {
+    "character": "花里實乃理",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/05_minori.png",
+            "webp": "images/classic/sticker/webp/05_minori.webp",
+            "full": "images/classic/sticker/05_minori.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/05_minori_sign.png",
+            "webp": "images/classic/sticker/webp/05_minori_sign.webp",
+            "full": "images/classic/sticker/05_minori_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "花里實乃理",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/05_minori.png",
+            "webp": "images/classic/shikishi/webp/05_minori.webp",
+            "full": "images/classic/shikishi/05_minori.png"
+        }
+    ]
+  },
+  {
+    "character": "花里實乃理",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/05_minori.png",
+            "webp": "images/classic/square/webp/05_minori.webp",
+            "full": "images/classic/square/05_minori.png"
+        }
+    ]
+  },
+  {
+    "character": "花里實乃理",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/05_minori.png",
+            "webp": "images/classic/doll/webp/05_minori.webp",
+            "full": "images/classic/doll/05_minori.png"
+        }
+    ]
+  },
+    {
+    "character": "桐谷遙",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/06_haruka_nounit.png",
+            "webp": "images/classic/epick/webp/06_haruka_nounit.webp",
+            "full": "images/classic/epick/06_haruka_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/06_haruka.png",
+            "webp": "images/classic/epick/webp/06_haruka.webp",
+            "full": "images/classic/epick/06_haruka.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/06_haruka_sign.png",
+            "webp": "images/classic/epick/webp/06_haruka_sign.webp",
+            "full": "images/classic/epick/06_haruka_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "桐谷遙",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/06_haruka_nounit.png",
+            "webp": "images/classic/glitter/webp/06_haruka_nounit.webp",
+            "full": "images/classic/glitter/06_haruka_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/06_haruka.png",
+            "webp": "images/classic/glitter/webp/06_haruka.webp",
+            "full": "images/classic/glitter/06_haruka.png"
+        }
+    ]
+  },
+  {
+    "character": "桐谷遙",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/06_haruka.png",
+            "webp": "images/classic/nobleart/webp/06_haruka.webp",
+            "full": "images/classic/nobleart/06_haruka.png"
+        }
+    ]
+  },
+  {
+    "character": "桐谷遙",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/06_haruka_nounit.png",
+            "webp": "images/classic/waferpolar/webp/06_haruka_nounit.webp",
+            "full": "images/classic/waferpolar/06_haruka_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/06_haruka.png",
+            "webp": "images/classic/waferpolar/webp/06_haruka.webp",
+            "full": "images/classic/waferpolar/06_haruka.png"
+        }
+    ]
+  },
+  {
+    "character": "桐谷遙",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/06_haruka.png",
+            "webp": "images/classic/sticker/webp/06_haruka.webp",
+            "full": "images/classic/sticker/06_haruka.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/06_haruka_sign.png",
+            "webp": "images/classic/sticker/webp/06_haruka_sign.webp",
+            "full": "images/classic/sticker/06_haruka_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "桐谷遙",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/06_haruka.png",
+            "webp": "images/classic/shikishi/webp/06_haruka.webp",
+            "full": "images/classic/shikishi/06_haruka.png"
+        }
+    ]
+  },
+  {
+    "character": "桐谷遙",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/06_haruka.png",
+            "webp": "images/classic/square/webp/06_haruka.webp",
+            "full": "images/classic/square/06_haruka.png"
+        }
+    ]
+  },
+  {
+    "character": "桐谷遙",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/06_haruka.png",
+            "webp": "images/classic/doll/webp/06_haruka.webp",
+            "full": "images/classic/doll/06_haruka.png"
+        }
+    ]
+  },
+    {
+    "character": "桃井愛莉",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/07_airi_nounit.png",
+            "webp": "images/classic/epick/webp/07_airi_nounit.webp",
+            "full": "images/classic/epick/07_airi_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/07_airi.png",
+            "webp": "images/classic/epick/webp/07_airi.webp",
+            "full": "images/classic/epick/07_airi.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/07_airi_sign.png",
+            "webp": "images/classic/epick/webp/07_airi_sign.webp",
+            "full": "images/classic/epick/07_airi_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "桃井愛莉",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/07_airi_nounit.png",
+            "webp": "images/classic/glitter/webp/07_airi_nounit.webp",
+            "full": "images/classic/glitter/07_airi_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/07_airi.png",
+            "webp": "images/classic/glitter/webp/07_airi.webp",
+            "full": "images/classic/glitter/07_airi.png"
+        }
+    ]
+  },
+  {
+    "character": "桃井愛莉",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/07_airi.png",
+            "webp": "images/classic/nobleart/webp/07_airi.webp",
+            "full": "images/classic/nobleart/07_airi.png"
+        }
+    ]
+  },
+  {
+    "character": "桃井愛莉",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/07_airi_nounit.png",
+            "webp": "images/classic/waferpolar/webp/07_airi_nounit.webp",
+            "full": "images/classic/waferpolar/07_airi_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/07_airi.png",
+            "webp": "images/classic/waferpolar/webp/07_airi.webp",
+            "full": "images/classic/waferpolar/07_airi.png"
+        }
+    ]
+  },
+  {
+    "character": "桃井愛莉",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/07_airi.png",
+            "webp": "images/classic/sticker/webp/07_airi.webp",
+            "full": "images/classic/sticker/07_airi.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/07_airi_sign.png",
+            "webp": "images/classic/sticker/webp/07_airi_sign.webp",
+            "full": "images/classic/sticker/07_airi_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "桃井愛莉",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/07_airi.png",
+            "webp": "images/classic/shikishi/webp/07_airi.webp",
+            "full": "images/classic/shikishi/07_airi.png"
+        }
+    ]
+  },
+  {
+    "character": "桃井愛莉",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/07_airi.png",
+            "webp": "images/classic/square/webp/07_airi.webp",
+            "full": "images/classic/square/07_airi.png"
+        }
+    ]
+  },
+  {
+    "character": "桃井愛莉",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/07_airi.png",
+            "webp": "images/classic/doll/webp/07_airi.webp",
+            "full": "images/classic/doll/07_airi.png"
+        }
+    ]
+  },
+    {
+    "character": "日野森雫",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/08_shizuku_nounit.png",
+            "webp": "images/classic/epick/webp/08_shizuku_nounit.webp",
+            "full": "images/classic/epick/08_shizuku_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/08_shizuku.png",
+            "webp": "images/classic/epick/webp/08_shizuku.webp",
+            "full": "images/classic/epick/08_shizuku.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/08_shizuku_sign.png",
+            "webp": "images/classic/epick/webp/08_shizuku_sign.webp",
+            "full": "images/classic/epick/08_shizuku_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森雫",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/08_shizuku_nounit.png",
+            "webp": "images/classic/glitter/webp/08_shizuku_nounit.webp",
+            "full": "images/classic/glitter/08_shizuku_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/08_shizuku.png",
+            "webp": "images/classic/glitter/webp/08_shizuku.webp",
+            "full": "images/classic/glitter/08_shizuku.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森雫",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/08_shizuku.png",
+            "webp": "images/classic/nobleart/webp/08_shizuku.webp",
+            "full": "images/classic/nobleart/08_shizuku.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森雫",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/08_shizuku_nounit.png",
+            "webp": "images/classic/waferpolar/webp/08_shizuku_nounit.webp",
+            "full": "images/classic/waferpolar/08_shizuku_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/08_shizuku.png",
+            "webp": "images/classic/waferpolar/webp/08_shizuku.webp",
+            "full": "images/classic/waferpolar/08_shizuku.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森雫",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/08_shizuku.png",
+            "webp": "images/classic/sticker/webp/08_shizuku.webp",
+            "full": "images/classic/sticker/08_shizuku.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/08_shizuku_sign.png",
+            "webp": "images/classic/sticker/webp/08_shizuku_sign.webp",
+            "full": "images/classic/sticker/08_shizuku_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森雫",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/08_shizuku.png",
+            "webp": "images/classic/shikishi/webp/08_shizuku.webp",
+            "full": "images/classic/shikishi/08_shizuku.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森雫",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/08_shizuku.png",
+            "webp": "images/classic/square/webp/08_shizuku.webp",
+            "full": "images/classic/square/08_shizuku.png"
+        }
+    ]
+  },
+  {
+    "character": "日野森雫",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/08_shizuku.png",
+            "webp": "images/classic/doll/webp/08_shizuku.webp",
+            "full": "images/classic/doll/08_shizuku.png"
+        }
+    ]
+  },
+    {
+    "character": "小豆澤心羽",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/09_kohane_nounit.png",
+            "webp": "images/classic/epick/webp/09_kohane_nounit.webp",
+            "full": "images/classic/epick/09_kohane_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/09_kohane.png",
+            "webp": "images/classic/epick/webp/09_kohane.webp",
+            "full": "images/classic/epick/09_kohane.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/09_kohane_sign.png",
+            "webp": "images/classic/epick/webp/09_kohane_sign.webp",
+            "full": "images/classic/epick/09_kohane_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "小豆澤心羽",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/09_kohane_nounit.png",
+            "webp": "images/classic/glitter/webp/09_kohane_nounit.webp",
+            "full": "images/classic/glitter/09_kohane_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/09_kohane.png",
+            "webp": "images/classic/glitter/webp/09_kohane.webp",
+            "full": "images/classic/glitter/09_kohane.png"
+        }
+    ]
+  },
+  {
+    "character": "小豆澤心羽",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/09_kohane.png",
+            "webp": "images/classic/nobleart/webp/09_kohane.webp",
+            "full": "images/classic/nobleart/09_kohane.png"
+        }
+    ]
+  },
+  {
+    "character": "小豆澤心羽",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/09_kohane_nounit.png",
+            "webp": "images/classic/waferpolar/webp/09_kohane_nounit.webp",
+            "full": "images/classic/waferpolar/09_kohane_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/09_kohane.png",
+            "webp": "images/classic/waferpolar/webp/09_kohane.webp",
+            "full": "images/classic/waferpolar/09_kohane.png"
+        }
+    ]
+  },
+  {
+    "character": "小豆澤心羽",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/09_kohane.png",
+            "webp": "images/classic/sticker/webp/09_kohane.webp",
+            "full": "images/classic/sticker/09_kohane.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/09_kohane_sign.png",
+            "webp": "images/classic/sticker/webp/09_kohane_sign.webp",
+            "full": "images/classic/sticker/09_kohane_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "小豆澤心羽",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/09_kohane.png",
+            "webp": "images/classic/shikishi/webp/09_kohane.webp",
+            "full": "images/classic/shikishi/09_kohane.png"
+        }
+    ]
+  },
+  {
+    "character": "小豆澤心羽",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/09_kohane.png",
+            "webp": "images/classic/square/webp/09_kohane.webp",
+            "full": "images/classic/square/09_kohane.png"
+        }
+    ]
+  },
+  {
+    "character": "小豆澤心羽",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/09_kohane.png",
+            "webp": "images/classic/doll/webp/09_kohane.webp",
+            "full": "images/classic/doll/09_kohane.png"
+        }
+    ]
+  },
+    {
+    "character": "白石杏",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/10_an_nounit.png",
+            "webp": "images/classic/epick/webp/10_an_nounit.webp",
+            "full": "images/classic/epick/10_an_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/10_an.png",
+            "webp": "images/classic/epick/webp/10_an.webp",
+            "full": "images/classic/epick/10_an.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/10_an_sign.png",
+            "webp": "images/classic/epick/webp/10_an_sign.webp",
+            "full": "images/classic/epick/10_an_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "白石杏",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/10_an_nounit.png",
+            "webp": "images/classic/glitter/webp/10_an_nounit.webp",
+            "full": "images/classic/glitter/10_an_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/10_an.png",
+            "webp": "images/classic/glitter/webp/10_an.webp",
+            "full": "images/classic/glitter/10_an.png"
+        }
+    ]
+  },
+  {
+    "character": "白石杏",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/10_an.png",
+            "webp": "images/classic/nobleart/webp/10_an.webp",
+            "full": "images/classic/nobleart/10_an.png"
+        }
+    ]
+  },
+  {
+    "character": "白石杏",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/10_an_nounit.png",
+            "webp": "images/classic/waferpolar/webp/10_an_nounit.webp",
+            "full": "images/classic/waferpolar/10_an_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/10_an.png",
+            "webp": "images/classic/waferpolar/webp/10_an.webp",
+            "full": "images/classic/waferpolar/10_an.png"
+        }
+    ]
+  },
+  {
+    "character": "白石杏",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/10_an.png",
+            "webp": "images/classic/sticker/webp/10_an.webp",
+            "full": "images/classic/sticker/10_an.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/10_an_sign.png",
+            "webp": "images/classic/sticker/webp/10_an_sign.webp",
+            "full": "images/classic/sticker/10_an_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "白石杏",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/10_an.png",
+            "webp": "images/classic/shikishi/webp/10_an.webp",
+            "full": "images/classic/shikishi/10_an.png"
+        }
+    ]
+  },
+  {
+    "character": "白石杏",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/10_an.png",
+            "webp": "images/classic/square/webp/10_an.webp",
+            "full": "images/classic/square/10_an.png"
+        }
+    ]
+  },
+  {
+    "character": "白石杏",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/10_an.png",
+            "webp": "images/classic/doll/webp/10_an.webp",
+            "full": "images/classic/doll/10_an.png"
+        }
+    ]
+  },
+    {
+    "character": "東雲彰人",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/11_akito_nounit.png",
+            "webp": "images/classic/epick/webp/11_akito_nounit.webp",
+            "full": "images/classic/epick/11_akito_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/11_akito.png",
+            "webp": "images/classic/epick/webp/11_akito.webp",
+            "full": "images/classic/epick/11_akito.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/11_akito_sign.png",
+            "webp": "images/classic/epick/webp/11_akito_sign.webp",
+            "full": "images/classic/epick/11_akito_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲彰人",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/11_akito_nounit.png",
+            "webp": "images/classic/glitter/webp/11_akito_nounit.webp",
+            "full": "images/classic/glitter/11_akito_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/11_akito.png",
+            "webp": "images/classic/glitter/webp/11_akito.webp",
+            "full": "images/classic/glitter/11_akito.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲彰人",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/11_akito.png",
+            "webp": "images/classic/nobleart/webp/11_akito.webp",
+            "full": "images/classic/nobleart/11_akito.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲彰人",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/11_akito_nounit.png",
+            "webp": "images/classic/waferpolar/webp/11_akito_nounit.webp",
+            "full": "images/classic/waferpolar/11_akito_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/11_akito.png",
+            "webp": "images/classic/waferpolar/webp/11_akito.webp",
+            "full": "images/classic/waferpolar/11_akito.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲彰人",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/11_akito.png",
+            "webp": "images/classic/sticker/webp/11_akito.webp",
+            "full": "images/classic/sticker/11_akito.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/11_akito_sign.png",
+            "webp": "images/classic/sticker/webp/11_akito_sign.webp",
+            "full": "images/classic/sticker/11_akito_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲彰人",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/11_akito.png",
+            "webp": "images/classic/shikishi/webp/11_akito.webp",
+            "full": "images/classic/shikishi/11_akito.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲彰人",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/11_akito.png",
+            "webp": "images/classic/square/webp/11_akito.webp",
+            "full": "images/classic/square/11_akito.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲彰人",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/11_akito.png",
+            "webp": "images/classic/doll/webp/11_akito.webp",
+            "full": "images/classic/doll/11_akito.png"
+        }
+    ]
+  },
+    {
+    "character": "青柳冬彌",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/12_toya_nounit.png",
+            "webp": "images/classic/epick/webp/12_toya_nounit.webp",
+            "full": "images/classic/epick/12_toya_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/12_toya.png",
+            "webp": "images/classic/epick/webp/12_toya.webp",
+            "full": "images/classic/epick/12_toya.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/12_toya_sign.png",
+            "webp": "images/classic/epick/webp/12_toya_sign.webp",
+            "full": "images/classic/epick/12_toya_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "青柳冬彌",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/12_toya_nounit.png",
+            "webp": "images/classic/glitter/webp/12_toya_nounit.webp",
+            "full": "images/classic/glitter/12_toya_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/12_toya.png",
+            "webp": "images/classic/glitter/webp/12_toya.webp",
+            "full": "images/classic/glitter/12_toya.png"
+        }
+    ]
+  },
+  {
+    "character": "青柳冬彌",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/12_toya.png",
+            "webp": "images/classic/nobleart/webp/12_toya.webp",
+            "full": "images/classic/nobleart/12_toya.png"
+        }
+    ]
+  },
+  {
+    "character": "青柳冬彌",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/12_toya_nounit.png",
+            "webp": "images/classic/waferpolar/webp/12_toya_nounit.webp",
+            "full": "images/classic/waferpolar/12_toya_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/12_toya.png",
+            "webp": "images/classic/waferpolar/webp/12_toya.webp",
+            "full": "images/classic/waferpolar/12_toya.png"
+        }
+    ]
+  },
+  {
+    "character": "青柳冬彌",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/12_toya.png",
+            "webp": "images/classic/sticker/webp/12_toya.webp",
+            "full": "images/classic/sticker/12_toya.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/12_toya_sign.png",
+            "webp": "images/classic/sticker/webp/12_toya_sign.webp",
+            "full": "images/classic/sticker/12_toya_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "青柳冬彌",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/12_toya.png",
+            "webp": "images/classic/shikishi/webp/12_toya.webp",
+            "full": "images/classic/shikishi/12_toya.png"
+        }
+    ]
+  },
+  {
+    "character": "青柳冬彌",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/12_toya.png",
+            "webp": "images/classic/square/webp/12_toya.webp",
+            "full": "images/classic/square/12_toya.png"
+        }
+    ]
+  },
+  {
+    "character": "青柳冬彌",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/12_toya.png",
+            "webp": "images/classic/doll/webp/12_toya.webp",
+            "full": "images/classic/doll/12_toya.png"
+        }
+    ]
+  },
+    {
+    "character": "天馬司",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/13_tsukasa_nounit.png",
+            "webp": "images/classic/epick/webp/13_tsukasa_nounit.webp",
+            "full": "images/classic/epick/13_tsukasa_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/13_tsukasa.png",
+            "webp": "images/classic/epick/webp/13_tsukasa.webp",
+            "full": "images/classic/epick/13_tsukasa.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/13_tsukasa_sign.png",
+            "webp": "images/classic/epick/webp/13_tsukasa_sign.webp",
+            "full": "images/classic/epick/13_tsukasa_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬司",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/13_tsukasa_nounit.png",
+            "webp": "images/classic/glitter/webp/13_tsukasa_nounit.webp",
+            "full": "images/classic/glitter/13_tsukasa_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/13_tsukasa.png",
+            "webp": "images/classic/glitter/webp/13_tsukasa.webp",
+            "full": "images/classic/glitter/13_tsukasa.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬司",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/13_tsukasa.png",
+            "webp": "images/classic/nobleart/webp/13_tsukasa.webp",
+            "full": "images/classic/nobleart/13_tsukasa.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬司",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/13_tsukasa_nounit.png",
+            "webp": "images/classic/waferpolar/webp/13_tsukasa_nounit.webp",
+            "full": "images/classic/waferpolar/13_tsukasa_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/13_tsukasa.png",
+            "webp": "images/classic/waferpolar/webp/13_tsukasa.webp",
+            "full": "images/classic/waferpolar/13_tsukasa.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬司",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/13_tsukasa.png",
+            "webp": "images/classic/sticker/webp/13_tsukasa.webp",
+            "full": "images/classic/sticker/13_tsukasa.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/13_tsukasa_sign.png",
+            "webp": "images/classic/sticker/webp/13_tsukasa_sign.webp",
+            "full": "images/classic/sticker/13_tsukasa_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬司",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/13_tsukasa.png",
+            "webp": "images/classic/shikishi/webp/13_tsukasa.webp",
+            "full": "images/classic/shikishi/13_tsukasa.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬司",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/13_tsukasa.png",
+            "webp": "images/classic/square/webp/13_tsukasa.webp",
+            "full": "images/classic/square/13_tsukasa.png"
+        }
+    ]
+  },
+  {
+    "character": "天馬司",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/13_tsukasa.png",
+            "webp": "images/classic/doll/webp/13_tsukasa.webp",
+            "full": "images/classic/doll/13_tsukasa.png"
+        }
+    ]
+  },
+    {
+    "character": "鳳笑夢",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/14_emu_nounit.png",
+            "webp": "images/classic/epick/webp/14_emu_nounit.webp",
+            "full": "images/classic/epick/14_emu_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/14_emu.png",
+            "webp": "images/classic/epick/webp/14_emu.webp",
+            "full": "images/classic/epick/14_emu.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/14_emu_sign.png",
+            "webp": "images/classic/epick/webp/14_emu_sign.webp",
+            "full": "images/classic/epick/14_emu_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "鳳笑夢",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/14_emu_nounit.png",
+            "webp": "images/classic/glitter/webp/14_emu_nounit.webp",
+            "full": "images/classic/glitter/14_emu_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/14_emu.png",
+            "webp": "images/classic/glitter/webp/14_emu.webp",
+            "full": "images/classic/glitter/14_emu.png"
+        }
+    ]
+  },
+  {
+    "character": "鳳笑夢",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/14_emu.png",
+            "webp": "images/classic/nobleart/webp/14_emu.webp",
+            "full": "images/classic/nobleart/14_emu.png"
+        }
+    ]
+  },
+  {
+    "character": "鳳笑夢",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/14_emu_nounit.png",
+            "webp": "images/classic/waferpolar/webp/14_emu_nounit.webp",
+            "full": "images/classic/waferpolar/14_emu_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/14_emu.png",
+            "webp": "images/classic/waferpolar/webp/14_emu.webp",
+            "full": "images/classic/waferpolar/14_emu.png"
+        }
+    ]
+  },
+  {
+    "character": "鳳笑夢",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/14_emu.png",
+            "webp": "images/classic/sticker/webp/14_emu.webp",
+            "full": "images/classic/sticker/14_emu.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/14_emu_sign.png",
+            "webp": "images/classic/sticker/webp/14_emu_sign.webp",
+            "full": "images/classic/sticker/14_emu_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "鳳笑夢",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/14_emu.png",
+            "webp": "images/classic/shikishi/webp/14_emu.webp",
+            "full": "images/classic/shikishi/14_emu.png"
+        }
+    ]
+  },
+  {
+    "character": "鳳笑夢",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/14_emu.png",
+            "webp": "images/classic/square/webp/14_emu.webp",
+            "full": "images/classic/square/14_emu.png"
+        }
+    ]
+  },
+  {
+    "character": "鳳笑夢",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/14_emu.png",
+            "webp": "images/classic/doll/webp/14_emu.webp",
+            "full": "images/classic/doll/14_emu.png"
+        }
+    ]
+  },
+    {
+    "character": "草薙寧寧",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/15_nene_nounit.png",
+            "webp": "images/classic/epick/webp/15_nene_nounit.webp",
+            "full": "images/classic/epick/15_nene_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/15_nene.png",
+            "webp": "images/classic/epick/webp/15_nene.webp",
+            "full": "images/classic/epick/15_nene.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/15_nene_sign.png",
+            "webp": "images/classic/epick/webp/15_nene_sign.webp",
+            "full": "images/classic/epick/15_nene_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "草薙寧寧",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/15_nene_nounit.png",
+            "webp": "images/classic/glitter/webp/15_nene_nounit.webp",
+            "full": "images/classic/glitter/15_nene_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/15_nene.png",
+            "webp": "images/classic/glitter/webp/15_nene.webp",
+            "full": "images/classic/glitter/15_nene.png"
+        }
+    ]
+  },
+  {
+    "character": "草薙寧寧",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/15_nene.png",
+            "webp": "images/classic/nobleart/webp/15_nene.webp",
+            "full": "images/classic/nobleart/15_nene.png"
+        }
+    ]
+  },
+  {
+    "character": "草薙寧寧",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/15_nene_nounit.png",
+            "webp": "images/classic/waferpolar/webp/15_nene_nounit.webp",
+            "full": "images/classic/waferpolar/15_nene_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/15_nene.png",
+            "webp": "images/classic/waferpolar/webp/15_nene.webp",
+            "full": "images/classic/waferpolar/15_nene.png"
+        }
+    ]
+  },
+  {
+    "character": "草薙寧寧",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/15_nene.png",
+            "webp": "images/classic/sticker/webp/15_nene.webp",
+            "full": "images/classic/sticker/15_nene.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/15_nene_sign.png",
+            "webp": "images/classic/sticker/webp/15_nene_sign.webp",
+            "full": "images/classic/sticker/15_nene_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "草薙寧寧",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/15_nene.png",
+            "webp": "images/classic/shikishi/webp/15_nene.webp",
+            "full": "images/classic/shikishi/15_nene.png"
+        }
+    ]
+  },
+  {
+    "character": "草薙寧寧",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/15_nene.png",
+            "webp": "images/classic/square/webp/15_nene.webp",
+            "full": "images/classic/square/15_nene.png"
+        }
+    ]
+  },
+  {
+    "character": "草薙寧寧",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/15_nene.png",
+            "webp": "images/classic/doll/webp/15_nene.webp",
+            "full": "images/classic/doll/15_nene.png"
+        }
+    ]
+  },
+    {
+    "character": "神代類",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/16_rui_nounit.png",
+            "webp": "images/classic/epick/webp/16_rui_nounit.webp",
+            "full": "images/classic/epick/16_rui_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/16_rui.png",
+            "webp": "images/classic/epick/webp/16_rui.webp",
+            "full": "images/classic/epick/16_rui.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/16_rui_sign.png",
+            "webp": "images/classic/epick/webp/16_rui_sign.webp",
+            "full": "images/classic/epick/16_rui_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "神代類",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/16_rui_nounit.png",
+            "webp": "images/classic/glitter/webp/16_rui_nounit.webp",
+            "full": "images/classic/glitter/16_rui_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/16_rui.png",
+            "webp": "images/classic/glitter/webp/16_rui.webp",
+            "full": "images/classic/glitter/16_rui.png"
+        }
+    ]
+  },
+  {
+    "character": "神代類",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/16_rui.png",
+            "webp": "images/classic/nobleart/webp/16_rui.webp",
+            "full": "images/classic/nobleart/16_rui.png"
+        }
+    ]
+  },
+  {
+    "character": "神代類",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/16_rui_nounit.png",
+            "webp": "images/classic/waferpolar/webp/16_rui_nounit.webp",
+            "full": "images/classic/waferpolar/16_rui_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/16_rui.png",
+            "webp": "images/classic/waferpolar/webp/16_rui.webp",
+            "full": "images/classic/waferpolar/16_rui.png"
+        }
+    ]
+  },
+  {
+    "character": "神代類",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/16_rui.png",
+            "webp": "images/classic/sticker/webp/16_rui.webp",
+            "full": "images/classic/sticker/16_rui.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/16_rui_sign.png",
+            "webp": "images/classic/sticker/webp/16_rui_sign.webp",
+            "full": "images/classic/sticker/16_rui_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "神代類",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/16_rui.png",
+            "webp": "images/classic/shikishi/webp/16_rui.webp",
+            "full": "images/classic/shikishi/16_rui.png"
+        }
+    ]
+  },
+  {
+    "character": "神代類",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/16_rui.png",
+            "webp": "images/classic/square/webp/16_rui.webp",
+            "full": "images/classic/square/16_rui.png"
+        }
+    ]
+  },
+  {
+    "character": "神代類",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/16_rui.png",
+            "webp": "images/classic/doll/webp/16_rui.webp",
+            "full": "images/classic/doll/16_rui.png"
+        }
+    ]
+  },
+    {
+    "character": "宵崎奏",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/17_kanade_nounit.png",
+            "webp": "images/classic/epick/webp/17_kanade_nounit.webp",
+            "full": "images/classic/epick/17_kanade_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/17_kanade.png",
+            "webp": "images/classic/epick/webp/17_kanade.webp",
+            "full": "images/classic/epick/17_kanade.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/17_kanade_sign.png",
+            "webp": "images/classic/epick/webp/17_kanade_sign.webp",
+            "full": "images/classic/epick/17_kanade_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "宵崎奏",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/17_kanade_nounit.png",
+            "webp": "images/classic/glitter/webp/17_kanade_nounit.webp",
+            "full": "images/classic/glitter/17_kanade_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/17_kanade.png",
+            "webp": "images/classic/glitter/webp/17_kanade.webp",
+            "full": "images/classic/glitter/17_kanade.png"
+        }
+    ]
+  },
+  {
+    "character": "宵崎奏",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/17_kanade.png",
+            "webp": "images/classic/nobleart/webp/17_kanade.webp",
+            "full": "images/classic/nobleart/17_kanade.png"
+        }
+    ]
+  },
+  {
+    "character": "宵崎奏",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/17_kanade_nounit.png",
+            "webp": "images/classic/waferpolar/webp/17_kanade_nounit.webp",
+            "full": "images/classic/waferpolar/17_kanade_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/17_kanade.png",
+            "webp": "images/classic/waferpolar/webp/17_kanade.webp",
+            "full": "images/classic/waferpolar/17_kanade.png"
+        }
+    ]
+  },
+  {
+    "character": "宵崎奏",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/17_kanade.png",
+            "webp": "images/classic/sticker/webp/17_kanade.webp",
+            "full": "images/classic/sticker/17_kanade.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/17_kanade_sign.png",
+            "webp": "images/classic/sticker/webp/17_kanade_sign.webp",
+            "full": "images/classic/sticker/17_kanade_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "宵崎奏",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/17_kanade.png",
+            "webp": "images/classic/shikishi/webp/17_kanade.webp",
+            "full": "images/classic/shikishi/17_kanade.png"
+        }
+    ]
+  },
+  {
+    "character": "宵崎奏",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/17_kanade.png",
+            "webp": "images/classic/square/webp/17_kanade.webp",
+            "full": "images/classic/square/17_kanade.png"
+        }
+    ]
+  },
+  {
+    "character": "宵崎奏",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/17_kanade.png",
+            "webp": "images/classic/doll/webp/17_kanade.webp",
+            "full": "images/classic/doll/17_kanade.png"
+        }
+    ]
+  },
+    {
+    "character": "朝比奈真冬",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/18_mafuyu_nounit.png",
+            "webp": "images/classic/epick/webp/18_mafuyu_nounit.webp",
+            "full": "images/classic/epick/18_mafuyu_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/18_mafuyu.png",
+            "webp": "images/classic/epick/webp/18_mafuyu.webp",
+            "full": "images/classic/epick/18_mafuyu.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/18_mafuyu_sign.png",
+            "webp": "images/classic/epick/webp/18_mafuyu_sign.webp",
+            "full": "images/classic/epick/18_mafuyu_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "朝比奈真冬",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/18_mafuyu_nounit.png",
+            "webp": "images/classic/glitter/webp/18_mafuyu_nounit.webp",
+            "full": "images/classic/glitter/18_mafuyu_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/18_mafuyu.png",
+            "webp": "images/classic/glitter/webp/18_mafuyu.webp",
+            "full": "images/classic/glitter/18_mafuyu.png"
+        }
+    ]
+  },
+  {
+    "character": "朝比奈真冬",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/18_mafuyu.png",
+            "webp": "images/classic/nobleart/webp/18_mafuyu.webp",
+            "full": "images/classic/nobleart/18_mafuyu.png"
+        }
+    ]
+  },
+  {
+    "character": "朝比奈真冬",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/18_mafuyu_nounit.png",
+            "webp": "images/classic/waferpolar/webp/18_mafuyu_nounit.webp",
+            "full": "images/classic/waferpolar/18_mafuyu_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/18_mafuyu.png",
+            "webp": "images/classic/waferpolar/webp/18_mafuyu.webp",
+            "full": "images/classic/waferpolar/18_mafuyu.png"
+        }
+    ]
+  },
+  {
+    "character": "朝比奈真冬",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/18_mafuyu.png",
+            "webp": "images/classic/sticker/webp/18_mafuyu.webp",
+            "full": "images/classic/sticker/18_mafuyu.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/18_mafuyu_sign.png",
+            "webp": "images/classic/sticker/webp/18_mafuyu_sign.webp",
+            "full": "images/classic/sticker/18_mafuyu_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "朝比奈真冬",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/18_mafuyu.png",
+            "webp": "images/classic/shikishi/webp/18_mafuyu.webp",
+            "full": "images/classic/shikishi/18_mafuyu.png"
+        }
+    ]
+  },
+  {
+    "character": "朝比奈真冬",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/18_mafuyu.png",
+            "webp": "images/classic/square/webp/18_mafuyu.webp",
+            "full": "images/classic/square/18_mafuyu.png"
+        }
+    ]
+  },
+  {
+    "character": "朝比奈真冬",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/18_mafuyu.png",
+            "webp": "images/classic/doll/webp/18_mafuyu.webp",
+            "full": "images/classic/doll/18_mafuyu.png"
+        }
+    ]
+  },
+    {
+    "character": "東雲繪名",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/19_ena_nounit.png",
+            "webp": "images/classic/epick/webp/19_ena_nounit.webp",
+            "full": "images/classic/epick/19_ena_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/19_ena.png",
+            "webp": "images/classic/epick/webp/19_ena.webp",
+            "full": "images/classic/epick/19_ena.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/19_ena_sign.png",
+            "webp": "images/classic/epick/webp/19_ena_sign.webp",
+            "full": "images/classic/epick/19_ena_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲繪名",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/19_ena_nounit.png",
+            "webp": "images/classic/glitter/webp/19_ena_nounit.webp",
+            "full": "images/classic/glitter/19_ena_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/19_ena.png",
+            "webp": "images/classic/glitter/webp/19_ena.webp",
+            "full": "images/classic/glitter/19_ena.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲繪名",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/19_ena.png",
+            "webp": "images/classic/nobleart/webp/19_ena.webp",
+            "full": "images/classic/nobleart/19_ena.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲繪名",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/19_ena_nounit.png",
+            "webp": "images/classic/waferpolar/webp/19_ena_nounit.webp",
+            "full": "images/classic/waferpolar/19_ena_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/19_ena.png",
+            "webp": "images/classic/waferpolar/webp/19_ena.webp",
+            "full": "images/classic/waferpolar/19_ena.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲繪名",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/19_ena.png",
+            "webp": "images/classic/sticker/webp/19_ena.webp",
+            "full": "images/classic/sticker/19_ena.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/19_ena_sign.png",
+            "webp": "images/classic/sticker/webp/19_ena_sign.webp",
+            "full": "images/classic/sticker/19_ena_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲繪名",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/19_ena.png",
+            "webp": "images/classic/shikishi/webp/19_ena.webp",
+            "full": "images/classic/shikishi/19_ena.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲繪名",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/19_ena.png",
+            "webp": "images/classic/square/webp/19_ena.webp",
+            "full": "images/classic/square/19_ena.png"
+        }
+    ]
+  },
+  {
+    "character": "東雲繪名",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/19_ena.png",
+            "webp": "images/classic/doll/webp/19_ena.webp",
+            "full": "images/classic/doll/19_ena.png"
+        }
+    ]
+  },
+    {
+    "character": "曉山瑞希",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/20_mizuki_nounit.png",
+            "webp": "images/classic/epick/webp/20_mizuki_nounit.webp",
+            "full": "images/classic/epick/20_mizuki_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/20_mizuki.png",
+            "webp": "images/classic/epick/webp/20_mizuki.webp",
+            "full": "images/classic/epick/20_mizuki.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/20_mizuki_sign.png",
+            "webp": "images/classic/epick/webp/20_mizuki_sign.webp",
+            "full": "images/classic/epick/20_mizuki_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "曉山瑞希",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/20_mizuki_nounit.png",
+            "webp": "images/classic/glitter/webp/20_mizuki_nounit.webp",
+            "full": "images/classic/glitter/20_mizuki_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/20_mizuki.png",
+            "webp": "images/classic/glitter/webp/20_mizuki.webp",
+            "full": "images/classic/glitter/20_mizuki.png"
+        }
+    ]
+  },
+  {
+    "character": "曉山瑞希",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/20_mizuki.png",
+            "webp": "images/classic/nobleart/webp/20_mizuki.webp",
+            "full": "images/classic/nobleart/20_mizuki.png"
+        }
+    ]
+  },
+  {
+    "character": "曉山瑞希",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/20_mizuki_nounit.png",
+            "webp": "images/classic/waferpolar/webp/20_mizuki_nounit.webp",
+            "full": "images/classic/waferpolar/20_mizuki_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/20_mizuki.png",
+            "webp": "images/classic/waferpolar/webp/20_mizuki.webp",
+            "full": "images/classic/waferpolar/20_mizuki.png"
+        }
+    ]
+  },
+  {
+    "character": "曉山瑞希",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/20_mizuki.png",
+            "webp": "images/classic/sticker/webp/20_mizuki.webp",
+            "full": "images/classic/sticker/20_mizuki.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/20_mizuki_sign.png",
+            "webp": "images/classic/sticker/webp/20_mizuki_sign.webp",
+            "full": "images/classic/sticker/20_mizuki_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "曉山瑞希",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/20_mizuki.png",
+            "webp": "images/classic/shikishi/webp/20_mizuki.webp",
+            "full": "images/classic/shikishi/20_mizuki.png"
+        }
+    ]
+  },
+  {
+    "character": "曉山瑞希",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/20_mizuki.png",
+            "webp": "images/classic/square/webp/20_mizuki.webp",
+            "full": "images/classic/square/20_mizuki.png"
+        }
+    ]
+  },
+  {
+    "character": "曉山瑞希",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/20_mizuki.png",
+            "webp": "images/classic/doll/webp/20_mizuki.webp",
+            "full": "images/classic/doll/20_mizuki.png"
+        }
+    ]
+  },
+    {
+    "character": "初音未來",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/21_miku_nounit.png",
+            "webp": "images/classic/epick/webp/21_miku_nounit.webp",
+            "full": "images/classic/epick/21_miku_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/21_miku.png",
+            "webp": "images/classic/epick/webp/21_miku.webp",
+            "full": "images/classic/epick/21_miku.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/21_miku_sign.png",
+            "webp": "images/classic/epick/webp/21_miku_sign.webp",
+            "full": "images/classic/epick/21_miku_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "初音未來",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/21_miku_nounit.png",
+            "webp": "images/classic/glitter/webp/21_miku_nounit.webp",
+            "full": "images/classic/glitter/21_miku_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/21_miku.png",
+            "webp": "images/classic/glitter/webp/21_miku.webp",
+            "full": "images/classic/glitter/21_miku.png"
+        }
+    ]
+  },
+  {
+    "character": "初音未來",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/21_miku.png",
+            "webp": "images/classic/nobleart/webp/21_miku.webp",
+            "full": "images/classic/nobleart/21_miku.png"
+        }
+    ]
+  },
+  {
+    "character": "初音未來",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/21_miku_nounit.png",
+            "webp": "images/classic/waferpolar/webp/21_miku_nounit.webp",
+            "full": "images/classic/waferpolar/21_miku_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/21_miku.png",
+            "webp": "images/classic/waferpolar/webp/21_miku.webp",
+            "full": "images/classic/waferpolar/21_miku.png"
+        }
+    ]
+  },
+  {
+    "character": "初音未來",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/21_miku.png",
+            "webp": "images/classic/sticker/webp/21_miku.webp",
+            "full": "images/classic/sticker/21_miku.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/21_miku_sign.png",
+            "webp": "images/classic/sticker/webp/21_miku_sign.webp",
+            "full": "images/classic/sticker/21_miku_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "初音未來",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/21_miku.png",
+            "webp": "images/classic/shikishi/webp/21_miku.webp",
+            "full": "images/classic/shikishi/21_miku.png"
+        }
+    ]
+  },
+  {
+    "character": "初音未來",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/21_miku.png",
+            "webp": "images/classic/square/webp/21_miku.webp",
+            "full": "images/classic/square/21_miku.png"
+        }
+    ]
+  },
+  {
+    "character": "初音未來",
+    "category": "娃娃",
+    "warning": 1,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/21_miku.png",
+            "webp": "images/classic/doll/webp/21_miku.webp",
+            "full": "images/classic/doll/21_miku.png"
+        },
+        {
+            "name": "公式",
+            "thumbnail": "images/classic/doll/thumbnail/21_miku_vs.png",
+            "webp": "images/classic/doll/webp/21_miku_vs.webp",
+            "full": "images/classic/doll/21_miku_vs.png"
+        },
+        {
+            "name": "L/n",
+            "thumbnail": "images/classic/doll/thumbnail/21_miku_ln.png",
+            "webp": "images/classic/doll/webp/21_miku_ln.webp",
+            "full": "images/classic/doll/21_miku_ln.png"
+        },
+        {
+            "name": "MMJ",
+            "thumbnail": "images/classic/doll/thumbnail/21_miku_mmj.png",
+            "webp": "images/classic/doll/webp/21_miku_mmj.webp",
+            "full": "images/classic/doll/21_miku_mmj.png"
+        },
+        {
+            "name": "VBS",
+            "thumbnail": "images/classic/doll/thumbnail/21_miku_vbs.png",
+            "webp": "images/classic/doll/webp/21_miku_vbs.webp",
+            "full": "images/classic/doll/21_miku_vbs.png"
+        },
+        {
+            "name": "W×S",
+            "thumbnail": "images/classic/doll/thumbnail/21_miku_ws.png",
+            "webp": "images/classic/doll/webp/21_miku_ws.webp",
+            "full": "images/classic/doll/21_miku_ws.png"
+        },
+        {
+            "name": "25時",
+            "thumbnail": "images/classic/doll/thumbnail/21_miku_25.png",
+            "webp": "images/classic/doll/webp/21_miku_25.webp",
+            "full": "images/classic/doll/21_miku_25.png"
+        }
+    ]
+  },
+    {
+    "character": "鏡音鈴",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/22_rin_nounit.png",
+            "webp": "images/classic/epick/webp/22_rin_nounit.webp",
+            "full": "images/classic/epick/22_rin_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/22_rin.png",
+            "webp": "images/classic/epick/webp/22_rin.webp",
+            "full": "images/classic/epick/22_rin.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/22_rin_sign.png",
+            "webp": "images/classic/epick/webp/22_rin_sign.webp",
+            "full": "images/classic/epick/22_rin_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音鈴",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/22_rin_nounit.png",
+            "webp": "images/classic/glitter/webp/22_rin_nounit.webp",
+            "full": "images/classic/glitter/22_rin_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/22_rin.png",
+            "webp": "images/classic/glitter/webp/22_rin.webp",
+            "full": "images/classic/glitter/22_rin.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音鈴",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/22_rin.png",
+            "webp": "images/classic/nobleart/webp/22_rin.webp",
+            "full": "images/classic/nobleart/22_rin.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音鈴",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/22_rin_nounit.png",
+            "webp": "images/classic/waferpolar/webp/22_rin_nounit.webp",
+            "full": "images/classic/waferpolar/22_rin_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/22_rin.png",
+            "webp": "images/classic/waferpolar/webp/22_rin.webp",
+            "full": "images/classic/waferpolar/22_rin.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音鈴",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/22_rin.png",
+            "webp": "images/classic/sticker/webp/22_rin.webp",
+            "full": "images/classic/sticker/22_rin.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/22_rin_sign.png",
+            "webp": "images/classic/sticker/webp/22_rin_sign.webp",
+            "full": "images/classic/sticker/22_rin_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音鈴",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/22_rin.png",
+            "webp": "images/classic/shikishi/webp/22_rin.webp",
+            "full": "images/classic/shikishi/22_rin.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音鈴",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/22_rin.png",
+            "webp": "images/classic/square/webp/22_rin.webp",
+            "full": "images/classic/square/22_rin.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音鈴",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/22_rin.png",
+            "webp": "images/classic/doll/webp/22_rin.webp",
+            "full": "images/classic/doll/22_rin.png"
+        }
+    ]
+  },
+    {
+    "character": "鏡音連",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/23_len_nounit.png",
+            "webp": "images/classic/epick/webp/23_len_nounit.webp",
+            "full": "images/classic/epick/23_len_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/23_len.png",
+            "webp": "images/classic/epick/webp/23_len.webp",
+            "full": "images/classic/epick/23_len.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/23_len_sign.png",
+            "webp": "images/classic/epick/webp/23_len_sign.webp",
+            "full": "images/classic/epick/23_len_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音連",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/23_len_nounit.png",
+            "webp": "images/classic/glitter/webp/23_len_nounit.webp",
+            "full": "images/classic/glitter/23_len_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/23_len.png",
+            "webp": "images/classic/glitter/webp/23_len.webp",
+            "full": "images/classic/glitter/23_len.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音連",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/23_len.png",
+            "webp": "images/classic/nobleart/webp/23_len.webp",
+            "full": "images/classic/nobleart/23_len.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音連",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/23_len_nounit.png",
+            "webp": "images/classic/waferpolar/webp/23_len_nounit.webp",
+            "full": "images/classic/waferpolar/23_len_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/23_len.png",
+            "webp": "images/classic/waferpolar/webp/23_len.webp",
+            "full": "images/classic/waferpolar/23_len.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音連",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/23_len.png",
+            "webp": "images/classic/sticker/webp/23_len.webp",
+            "full": "images/classic/sticker/23_len.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/23_len_sign.png",
+            "webp": "images/classic/sticker/webp/23_len_sign.webp",
+            "full": "images/classic/sticker/23_len_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音連",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/23_len.png",
+            "webp": "images/classic/shikishi/webp/23_len.webp",
+            "full": "images/classic/shikishi/23_len.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音連",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/23_len.png",
+            "webp": "images/classic/square/webp/23_len.webp",
+            "full": "images/classic/square/23_len.png"
+        }
+    ]
+  },
+  {
+    "character": "鏡音連",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/23_len.png",
+            "webp": "images/classic/doll/webp/23_len.webp",
+            "full": "images/classic/doll/23_len.png"
+        }
+    ]
+  },
+    {
+    "character": "巡音流歌",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/24_luka_nounit.png",
+            "webp": "images/classic/epick/webp/24_luka_nounit.webp",
+            "full": "images/classic/epick/24_luka_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/24_luka.png",
+            "webp": "images/classic/epick/webp/24_luka.webp",
+            "full": "images/classic/epick/24_luka.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/24_luka_sign.png",
+            "webp": "images/classic/epick/webp/24_luka_sign.webp",
+            "full": "images/classic/epick/24_luka_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "巡音流歌",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/24_luka_nounit.png",
+            "webp": "images/classic/glitter/webp/24_luka_nounit.webp",
+            "full": "images/classic/glitter/24_luka_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/24_luka.png",
+            "webp": "images/classic/glitter/webp/24_luka.webp",
+            "full": "images/classic/glitter/24_luka.png"
+        }
+    ]
+  },
+  {
+    "character": "巡音流歌",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/24_luka.png",
+            "webp": "images/classic/nobleart/webp/24_luka.webp",
+            "full": "images/classic/nobleart/24_luka.png"
+        }
+    ]
+  },
+  {
+    "character": "巡音流歌",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/24_luka_nounit.png",
+            "webp": "images/classic/waferpolar/webp/24_luka_nounit.webp",
+            "full": "images/classic/waferpolar/24_luka_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/24_luka.png",
+            "webp": "images/classic/waferpolar/webp/24_luka.webp",
+            "full": "images/classic/waferpolar/24_luka.png"
+        }
+    ]
+  },
+  {
+    "character": "巡音流歌",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/24_luka.png",
+            "webp": "images/classic/sticker/webp/24_luka.webp",
+            "full": "images/classic/sticker/24_luka.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/24_luka_sign.png",
+            "webp": "images/classic/sticker/webp/24_luka_sign.webp",
+            "full": "images/classic/sticker/24_luka_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "巡音流歌",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/24_luka.png",
+            "webp": "images/classic/shikishi/webp/24_luka.webp",
+            "full": "images/classic/shikishi/24_luka.png"
+        }
+    ]
+  },
+  {
+    "character": "巡音流歌",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/24_luka.png",
+            "webp": "images/classic/square/webp/24_luka.webp",
+            "full": "images/classic/square/24_luka.png"
+        }
+    ]
+  },
+  {
+    "character": "巡音流歌",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/24_luka.png",
+            "webp": "images/classic/doll/webp/24_luka.webp",
+            "full": "images/classic/doll/24_luka.png"
+        }
+    ]
+  },
+    {
+    "character": "MEIKO",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/25_meiko_nounit.png",
+            "webp": "images/classic/epick/webp/25_meiko_nounit.webp",
+            "full": "images/classic/epick/25_meiko_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/25_meiko.png",
+            "webp": "images/classic/epick/webp/25_meiko.webp",
+            "full": "images/classic/epick/25_meiko.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/25_meiko_sign.png",
+            "webp": "images/classic/epick/webp/25_meiko_sign.webp",
+            "full": "images/classic/epick/25_meiko_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "MEIKO",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/25_meiko_nounit.png",
+            "webp": "images/classic/glitter/webp/25_meiko_nounit.webp",
+            "full": "images/classic/glitter/25_meiko_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/25_meiko.png",
+            "webp": "images/classic/glitter/webp/25_meiko.webp",
+            "full": "images/classic/glitter/25_meiko.png"
+        }
+    ]
+  },
+  {
+    "character": "MEIKO",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/25_meiko.png",
+            "webp": "images/classic/nobleart/webp/25_meiko.webp",
+            "full": "images/classic/nobleart/25_meiko.png"
+        }
+    ]
+  },
+  {
+    "character": "MEIKO",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/25_meiko_nounit.png",
+            "webp": "images/classic/waferpolar/webp/25_meiko_nounit.webp",
+            "full": "images/classic/waferpolar/25_meiko_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/25_meiko.png",
+            "webp": "images/classic/waferpolar/webp/25_meiko.webp",
+            "full": "images/classic/waferpolar/25_meiko.png"
+        }
+    ]
+  },
+  {
+    "character": "MEIKO",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/25_meiko.png",
+            "webp": "images/classic/sticker/webp/25_meiko.webp",
+            "full": "images/classic/sticker/25_meiko.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/25_meiko_sign.png",
+            "webp": "images/classic/sticker/webp/25_meiko_sign.webp",
+            "full": "images/classic/sticker/25_meiko_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "MEIKO",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/25_meiko.png",
+            "webp": "images/classic/shikishi/webp/25_meiko.webp",
+            "full": "images/classic/shikishi/25_meiko.png"
+        }
+    ]
+  },
+  {
+    "character": "MEIKO",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/25_meiko.png",
+            "webp": "images/classic/square/webp/25_meiko.webp",
+            "full": "images/classic/square/25_meiko.png"
+        }
+    ]
+  },
+  {
+    "character": "MEIKO",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/25_meiko.png",
+            "webp": "images/classic/doll/webp/25_meiko.webp",
+            "full": "images/classic/doll/25_meiko.png"
+        }
+    ]
+  },
+    {
+    "character": "KAITO",
+    "category": "ePick",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡/不含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/26_kaito_nounit.png",
+            "webp": "images/classic/epick/webp/26_kaito_nounit.webp",
+            "full": "images/classic/epick/26_kaito_nounit.png"
+        },
+        {
+            "name": "普卡/含團體物",
+            "thumbnail": "images/classic/epick/thumbnail/26_kaito.png",
+            "webp": "images/classic/epick/webp/26_kaito.webp",
+            "full": "images/classic/epick/26_kaito.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/epick/thumbnail/26_kaito_sign.png",
+            "webp": "images/classic/epick/webp/26_kaito_sign.webp",
+            "full": "images/classic/epick/26_kaito_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "KAITO",
+    "category": "卡面徽章",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/26_kaito_nounit.png",
+            "webp": "images/classic/glitter/webp/26_kaito_nounit.webp",
+            "full": "images/classic/glitter/26_kaito_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/glitter/thumbnail/26_kaito.png",
+            "webp": "images/classic/glitter/webp/26_kaito.webp",
+            "full": "images/classic/glitter/26_kaito.png"
+        }
+    ]
+  },
+  {
+    "character": "KAITO",
+    "category": "厚壓克力",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/nobleart/thumbnail/26_kaito.png",
+            "webp": "images/classic/nobleart/webp/26_kaito.webp",
+            "full": "images/classic/nobleart/26_kaito.png"
+        }
+    ]
+  },
+  {
+    "character": "KAITO",
+    "category": "拍立得&餅卡",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "不含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/26_kaito_nounit.png",
+            "webp": "images/classic/waferpolar/webp/26_kaito_nounit.webp",
+            "full": "images/classic/waferpolar/26_kaito_nounit.png"
+        },
+        {
+            "name": "含團體物",
+            "thumbnail": "images/classic/waferpolar/thumbnail/26_kaito.png",
+            "webp": "images/classic/waferpolar/webp/26_kaito.webp",
+            "full": "images/classic/waferpolar/26_kaito.png"
+        }
+    ]
+  },
+  {
+    "character": "KAITO",
+    "category": "透明貼紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "普卡",
+            "thumbnail": "images/classic/sticker/thumbnail/26_kaito.png",
+            "webp": "images/classic/sticker/webp/26_kaito.webp",
+            "full": "images/classic/sticker/26_kaito.png"
+        },
+        {
+            "name": "簽卡",
+            "thumbnail": "images/classic/sticker/thumbnail/26_kaito_sign.png",
+            "webp": "images/classic/sticker/webp/26_kaito_sign.webp",
+            "full": "images/classic/sticker/26_kaito_sign.png"
+        }
+    ]
+  },
+  {
+    "character": "KAITO",
+    "category": "色紙",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/shikishi/thumbnail/26_kaito.png",
+            "webp": "images/classic/shikishi/webp/26_kaito.webp",
+            "full": "images/classic/shikishi/26_kaito.png"
+        }
+    ]
+  },
+  {
+    "character": "KAITO",
+    "category": "方徽",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/square/thumbnail/26_kaito.png",
+            "webp": "images/classic/square/webp/26_kaito.webp",
+            "full": "images/classic/square/26_kaito.png"
+        }
+    ]
+  },
+  {
+    "character": "KAITO",
+    "category": "娃娃",
+    "warning": 0,
+    "variants": [
+        {
+            "name": "預設",
+            "thumbnail": "images/classic/doll/thumbnail/26_kaito.png",
+            "webp": "images/classic/doll/webp/26_kaito.webp",
+            "full": "images/classic/doll/26_kaito.png"
+        }
+    ]
+  }
+]

@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>世界計畫週邊圖鑑&lt;施工中&gt;</title>
+    <link rel="icon" href="images/favicon.png" type="image/png">
+    <style>
+        @font-face {
+            font-family: 'GenSenRounded2 TW';
+            src: url('fonts/GenSenRounded2 TW-R.otf') format('opentype');
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+        body {
+            margin: 0;
+            font-family: 'GenSenRounded2 TW', 'Segoe UI', 'Microsoft JhengHei', sans-serif;
+            background-image: url('images/background.png');
+            background-attachment: fixed;
+            background-size: cover;
+            background-position: center;
+            color: #333;
+        }
+
+        .centered {
+            text-align: center;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .title-image {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .guide {
+            text-align: center;
+        }
+
+        .tb{
+            font-weight: bold;
+            background-color: rgb(201, 255, 255);
+        }
+
+        .yb{
+            font-weight: bold;
+            background-color: rgb(255, 255, 201);
+        }
+
+        .gb{
+            font-weight: bold;
+            background-color: rgb(201, 255, 201);
+        }
+
+        .nb{
+            font-weight: bold;
+            background-color: rgb(255, 201, 201);
+        }
+
+        .dolltable{
+            border-collapse:collapse;
+            border-color:black;
+            border-style:solid;
+            border-width:1px;
+            border-spacing:0;
+            }
+            .dolltable th{
+            border-color:black;
+            border-style:solid;
+            border-width:1px;
+            }
+            .dolltable td{
+            border-color:black;
+            border-style:solid;
+            border-width:1px;
+            }
+
+        .filters {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 8px;
+            margin-bottom: 30px;
+        }
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .filter-group label {
+            font-weight: bold;
+        }
+
+        .filter-group select {
+            padding: 8px 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            min-width: 150px;
+        }
+
+        #filter-button {
+            padding: 10px 25px;
+            font-size: 16px;
+            font-weight: bold;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        #filter-button:hover {
+            background-color: #0056b3;
+        }
+
+        .results-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 20px;
+        }
+
+        .result-card {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .result-card .thumbnail {
+            width: 100%;
+            height: auto;
+            display: block;
+        }
+
+        .card-content {
+            padding: 15px;
+            display: flex;
+            flex-grow: 1;
+            flex-direction: column;
+        }
+
+        .card-title {
+            font-size: 1.1em;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            margin: 0 0 10px 0;
+        }
+
+        .card-warning {
+            color: #d9534f;
+            font-size: 0.9em;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+
+        .variant-selector {
+            margin-bottom: 15px;
+            padding: 10px;
+            background-color: #f8f9fa;
+            border-radius: 5px;
+            border: 1px solid #e9ecef;
+        }
+
+        .variant-selector label {
+            display: block;
+            font-weight: bold;
+            margin-bottom: 5px;
+            color: #495057;
+            font-size: 0.9em;
+        }
+
+        .variant-select {
+            width: 100%;
+            padding: 8px 12px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            background-color: white;
+            font-size: 0.9em;
+            transition: border-color 0.3s ease;
+        }
+
+        .variant-select:focus {
+            outline: none;
+            border-color: #007bff;
+            box-shadow: 0 0 0 2px rgba(0, 123, 255, 0.25);
+        }
+
+        .card-buttons {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+            margin-top: auto;
+            padding-top: 10px;
+        }
+
+        .btn {
+            display: inline-block;
+            text-align: center;
+            padding: 8px 12px;
+            border-radius: 4px;
+            text-decoration: none;
+            transition: opacity 0.3s ease;
+            font-size: 0.9em;
+        }
+
+        .btn:hover {
+            opacity: 0.8;
+        }
+
+        .btn-download-png {
+            background-color: #28a745;
+            color: white;
+        }
+
+        .btn-download-webp {
+            background-color: #17a2b8;
+            color: white;
+        }
+
+        .btn-details {
+            grid-column: 1 / -1;
+            background-color: #6c757d;
+            color: white;
+            cursor: pointer;
+            border: none;
+        }
+
+        .details-content {
+            display: none;
+            background-color: #f1f1f1;
+            padding: 15px;
+            margin-top: 10px;
+            border-radius: 4px;
+        }
+
+        .details-content p {
+            margin: 0 0 5px 0;
+        }
+        .details-content p:last-child {
+            margin-bottom: 0;
+        }
+
+        .message {
+            text-align: center;
+            font-size: 1.2em;
+            color: #666;
+            padding: 40px;
+        }
+
+        .result-card .thumbnail {
+            cursor: pointer;
+            transition: opacity 0.3s ease;
+        }
+
+        .result-card .thumbnail:hover {
+            opacity: 0.85;
+        }
+
+        .lightbox-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0, 0, 0, 0.85);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            animation: fadeIn 0.3s ease; 
+        }
+
+        .lightbox-content {
+            position: relative;
+            max-width: 90vw;
+            max-height: 90vh;
+        }
+
+        .lightbox-content img {
+            display: block;
+            max-width: 100%;
+            max-height: 100%;
+            border-radius: 5px;
+            box-shadow: 0 5px 20px rgba(0,0,0,0.5);
+        }
+
+        .lightbox-close {
+            position: absolute;
+            top: -10px;
+            right: -10px;
+            color: white;
+            font-size: 40px;
+            font-weight: bold;
+            cursor: pointer;
+            text-shadow: 0 1px 3px rgba(0,0,0,0.8);
+            transition: transform 0.2s ease;
+        }
+
+        .lightbox-close:hover {
+            transform: scale(1.1);
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; }
+            to { opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <header>
+            <img src="images/title.png" alt="網頁標題" class="title-image">
+        </header>
+
+        <div  class="guide">
+            <h3>建議善用篩選快速找到所需圖片</h3>
+        </div><br>
+
+        <nav class="filters">
+            <div class="filter-group">
+                <label for="character-filter">角色：</label>
+                <select id="character-filter">
+                    <option value="">所有角色</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <label for="category-filter">類別：</label>
+                <select id="category-filter">
+                    <option value="">所有類別</option>
+                </select>
+            </div>
+            <button id="filter-button">顯示結果</button>
+        </nav>
+
+        <main id="results-container" class="results-grid"></main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const characterFilter = document.getElementById('character-filter');
+            const categoryFilter = document.getElementById('category-filter');
+            const filterButton = document.getElementById('filter-button');
+            const resultsContainer = document.getElementById('results-container');
+
+            let allData = [];
+            let currentDisplayData = [];
+
+            fetch('goods.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('無法讀取 goods.json 檔案');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    allData = data;
+                    populateFilters(data);
+                })
+                .catch(error => {
+                    console.error('讀取資料時發生錯誤:', error);
+                    resultsContainer.innerHTML = `<p class="message">錯誤：無法載入圖片資料。</p>`;
+                });
+
+            function populateFilters(data) {
+                const characters = new Set();
+                const categories = new Set();
+
+                data.forEach(item => {
+                    characters.add(item.character);
+                    categories.add(item.category);
+                });
+
+                const fillSelect = (selectElement, items) => {
+                    items.forEach(item => {
+                        const option = document.createElement('option');
+                        option.value = item;
+                        option.textContent = item;
+                        selectElement.appendChild(option);
+                        
+                    });
+                };
+                
+                fillSelect(characterFilter, [...characters]);
+                fillSelect(categoryFilter, [...categories]);
+            }
+
+            filterButton.addEventListener('click', () => {
+                displayResults();
+            });
+
+            function displayResults() {
+                const selectedCharacter = characterFilter.value;
+                const selectedCategory = categoryFilter.value;
+
+                const filteredData = allData.filter(item => {
+                    const characterMatch = !selectedCharacter || item.character === selectedCharacter;
+                    const categoryMatch = !selectedCategory || item.category === selectedCategory;
+                    return characterMatch && categoryMatch;
+                });
+
+                currentDisplayData = filteredData;
+                renderCards(filteredData);
+            }
+
+            function renderCards(data) {
+                resultsContainer.innerHTML = ''; 
+
+                if (data.length === 0) {
+                    resultsContainer.innerHTML = `<p class="message">找不到符合條件的圖片。</p>`;
+                    return;
+                }
+
+                data.forEach((item, index) => {
+                    
+                    const hasVariants = item.variants && Array.isArray(item.variants) && item.variants.length > 0;
+                    
+                    let variantSelectorHtml = '';
+                    if (hasVariants) {
+                        const variantOptions = item.variants.map((variant, vIndex) => 
+                            `<option value="${vIndex}" ${vIndex === 0 ? 'selected' : ''}>${variant.name}</option>`
+                        ).join('');
+                        
+                        variantSelectorHtml = `
+                            <div class="variant-selector">
+                                <label for="variant-${index}">選擇版本：</label>
+                                <select id="variant-${index}" class="variant-select" data-item-index="${index}"> ${variantOptions}</select>
+                            </div>
+                        `;
+                    }
+                    
+                    const card = document.createElement('div');
+                    card.className = 'result-card';
+                    card.setAttribute('data-item-index', index);
+                    card.innerHTML = `
+                        <img src="${hasVariants ? item.variants[0].thumbnail : item.thumbnail}" class="thumbnail"  data-full-src="${hasVariants ? item.variants[0].webp : item.webp}">
+                        <div class="card-content">
+                            <h3 class="card-title">${item.character} - ${item.category}</h3>
+                            ${item.warning === 1 ? '<p class="card-warning">建議使用副團體版本</p>' : ''}
+                            ${variantSelectorHtml}
+                            
+                            <div class="card-buttons">
+                                <a href="${hasVariants ? item.variants[0].full : item.full}" download class="btn btn-download-png">下載 PNG</a>
+                                <a href="${hasVariants ? item.variants[0].webp : item.webp}" download class="btn btn-download-webp">下載 WebP</a>
+                            </div>
+                        </div>
+                    `;
+                    resultsContainer.appendChild(card);
+                });
+            }
+
+            resultsContainer.addEventListener('click', (event) => {
+                const target = event.target;
+                
+                if (target.classList.contains('thumbnail')) {
+                    const fullImageUrl = target.getAttribute('data-full-src');
+                    if (fullImageUrl) {
+                        showLightbox(fullImageUrl);
+                    }
+                }
+            });
+            
+            resultsContainer.addEventListener('change', (event) => {
+                if (event.target.classList.contains('variant-select')) {
+                    const itemIndex = parseInt(event.target.getAttribute('data-item-index'));
+                    const variantIndex = parseInt(event.target.value);
+                    
+                    const item = currentDisplayData[itemIndex];
+                    
+                    if (item && item.variants && item.variants[variantIndex]) {
+                        const variant = item.variants[variantIndex];
+                        const card = event.target.closest('.result-card');
+                        
+                        const thumbnail = card.querySelector('.thumbnail');
+                        thumbnail.src = variant.thumbnail;
+                        thumbnail.setAttribute('data-full-src', variant.webp);
+                        
+                        const pngLink = card.querySelector('.btn-download-png');
+                        const webpLink = card.querySelector('.btn-download-webp');
+                        pngLink.href = variant.full;
+                        webpLink.href = variant.webp;
+                    }
+                }
+            });
+
+            function showLightbox(imageUrl) {
+                const lightbox = document.createElement('div');
+                lightbox.id = 'lightbox-overlay';
+                lightbox.className = 'lightbox-overlay';
+                lightbox.innerHTML = `
+                    <div class="lightbox-content">
+                        <span class="lightbox-close">&times;</span>
+                        <img src="${imageUrl}" alt="圖片預覽">
+                    </div>
+                `;
+
+                document.body.appendChild(lightbox);
+                
+                lightbox.querySelector('.lightbox-close').addEventListener('click', closeLightbox);
+                lightbox.addEventListener('click', (e) => {
+                    if (e.target.id === 'lightbox-overlay') {
+                        closeLightbox();
+                    }
+                });
+
+                document.addEventListener('keydown', handleEscKey);
+            }
+            
+            function closeLightbox() {
+                const lightbox = document.getElementById('lightbox-overlay');
+                if (lightbox) {
+                    lightbox.remove();
+                    document.removeEventListener('keydown', handleEscKey);
+                }
+            }
+            
+            function handleEscKey(e) {
+                if (e.key === 'Escape') {
+                    closeLightbox();
+                }
+            }
+        });
+    </script>
+</body>
+</html>
